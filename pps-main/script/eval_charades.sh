@@ -1,2 +1,2 @@
 #! /bin/bash
-python train.py --config-path config/charades/config.json --ckpt-path checkpoint/charades/model.pt --eval
+python train.py --config-path config/charades/config.json --ckpt-path checkpoints/official/charades/model.pt --eval

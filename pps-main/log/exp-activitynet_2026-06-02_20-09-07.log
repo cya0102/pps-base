@@ -1,0 +1,80 @@
+2026-06-02 20:09:07,074 - Starting time: 2026.06.02 20:09:07
+2026-06-02 20:09:07,075 - {
+    "config_path": "config/activitynet/config.json",
+    "ckpt_path": "checkpoints/official/activitynet/model.pt",
+    "eval": true,
+    "exp_name": "base",
+    "seed": 8
+}
+2026-06-02 20:09:07,076 - {
+    "exp_name": "exp-activitynet",
+    "dataset": {
+        "name": "ActivityNet",
+        "feature_path": "data/activitynet/sub_activitynet_v1-3.c3d.hdf5",
+        "train_data": "data/activitynet/train_data.json",
+        "test_data": "data/activitynet/test_data.json",
+        "vocab_path": "data/activitynet/glove.pkl",
+        "vocab_size": 8000,
+        "max_num_words": 20,
+        "max_num_segments": 200,
+        "frame_feat_dim": 500,
+        "word_feat_dim": 300
+    },
+    "train": {
+        "wandb_path": "./",
+        "log_path": "./log",
+        "save_path": "./checkpoints/activitynet/exp-activitynet_2026-06-02_20-09-07",
+        "batch_size": 32,
+        "num_epochs": 30,
+        "use_wandb": true,
+        "save_model": true,
+        "optimizer": {
+            "lr": 0.0004,
+            "weight_decay": 0,
+            "warmup_updates": 400,
+            "warmup_init_lr": 1e-07
+        }
+    },
+    "model": {
+        "name": "PPS",
+        "frame_feat_dim": 500,
+        "word_feat_dim": 300,
+        "hidden_dim": 256,
+        "dropout": 0.1,
+        "masked_words_ratio": 3,
+        "mask_type": "gaussian",
+        "num_props": 5,
+        "sigma_gauss": 4,
+        "sigma_laplace": 4,
+        "num_neg_mask": 2,
+        "sigma_neg_inv_gauss": 1,
+        "sigma_neg_gauss": 3,
+        "use_attn": true,
+        "pred_gamma": 0.15,
+        "neg_type": "learnable_gaussian",
+        "DualTransformer": {
+            "d_model": 256,
+            "num_heads": 4,
+            "num_decoder_layers1": 3,
+            "num_decoder_layers2": 3,
+            "dropout": 0.1
+        },
+        "max_num_words": 20
+    },
+    "loss": {
+        "margin_hneg": 0.1,
+        "margin_eneg": 0.15,
+        "lambda_inter_push": 0.15,
+        "lambda_intra_push": 0.15,
+        "alpha_ivc": 3,
+        "alpha_pull": 5,
+        "alpha_inter_push": 1,
+        "alpha_intra_push": 0.001,
+        "num_train_prop": 1
+    },
+    "config_path": "config/activitynet/config.json"
+}
+2026-06-02 20:09:07,438 - train: 37421 samples, test: 17031 samples
+2026-06-02 20:09:08,505 - load model from checkpoints/official/activitynet/model.pt, num_updates 9360.
+2026-06-02 20:09:09,315 - Please install tensorboardX: pip install tensorboardX
+2026-06-02 20:11:14,050 - | Rank1,mIoU 0.3759 | Rank1,IoU@0.1 0.8184 | Rank1,IoU@0.3 0.5929 | Rank1,IoU@0.5 0.3125 | Rank5,mIoU 0.5878 | Rank5,IoU@0.1 0.9528 | Rank5,IoU@0.3 0.8554 | Rank5,IoU@0.5 0.7132 |

@@ -1,0 +1,80 @@
+2026-06-02 20:13:11,793 - Starting time: 2026.06.02 20:13:11
+2026-06-02 20:13:11,794 - {
+    "config_path": "config/charades/config.json",
+    "ckpt_path": "checkpoints/official/charades/model.pt",
+    "eval": true,
+    "exp_name": "base",
+    "seed": 8
+}
+2026-06-02 20:13:11,794 - {
+    "exp_name": "exp-charades",
+    "dataset": {
+        "name": "CharadesSTA",
+        "feature_path": "data/charades/i3d_features.hdf5",
+        "train_data": "data/charades/train.json",
+        "test_data": "data/charades/test.json",
+        "vocab_path": "data/charades/glove.pkl",
+        "vocab_size": 1111,
+        "max_num_words": 20,
+        "max_num_segments": 200,
+        "frame_feat_dim": 1024,
+        "word_feat_dim": 300
+    },
+    "train": {
+        "wandb_path": "./",
+        "log_path": "./log",
+        "save_path": "./checkpoints/charades/exp-charades_2026-06-02_20-13-11",
+        "batch_size": 32,
+        "num_epochs": 30,
+        "use_wandb": true,
+        "save_model": true,
+        "optimizer": {
+            "lr": 0.0004,
+            "weight_decay": 0,
+            "warmup_updates": 400,
+            "warmup_init_lr": 1e-07
+        }
+    },
+    "model": {
+        "name": "PPS",
+        "frame_feat_dim": 1024,
+        "word_feat_dim": 300,
+        "hidden_dim": 256,
+        "dropout": 0.1,
+        "masked_words_ratio": 3,
+        "mask_type": "gaussian",
+        "num_props": 7,
+        "sigma_gauss": 9,
+        "sigma_laplace": 9,
+        "num_neg_mask": 3,
+        "sigma_neg_inv_gauss": 1,
+        "sigma_neg_gauss": 9,
+        "use_attn": true,
+        "pred_gamma": 0,
+        "neg_type": "learnable_gaussian",
+        "DualTransformer": {
+            "d_model": 256,
+            "num_heads": 4,
+            "num_decoder_layers1": 3,
+            "num_decoder_layers2": 3,
+            "dropout": 0.1
+        },
+        "max_num_words": 20
+    },
+    "loss": {
+        "margin_hneg": 0.1,
+        "margin_eneg": 0.15,
+        "lambda_inter_push": 0.15,
+        "lambda_intra_push": 0.15,
+        "alpha_ivc": 3,
+        "alpha_pull": 5,
+        "alpha_inter_push": 1,
+        "alpha_intra_push": 0.001,
+        "num_train_prop": 1
+    },
+    "config_path": "config/charades/config.json"
+}
+2026-06-02 20:13:11,951 - train: 10602 samples, test: 3158 samples
+2026-06-02 20:13:12,915 - load model from checkpoints/official/charades/model.pt, num_updates 5976.
+2026-06-02 20:13:14,211 - Please install tensorboardX: pip install tensorboardX
+2026-06-02 20:14:00,928 - | Rank1,mIoU 0.4590 | Rank1,IoU@0.3 0.6922 | Rank1,IoU@0.5 0.5158 | Rank1,IoU@0.7 0.2593 | Rank5,mIoU 0.6906 | Rank5,IoU@0.3 0.9902 | Rank5,IoU@0.5 0.8607 | Rank5,IoU@0.7 0.5294 |
