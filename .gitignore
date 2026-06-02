@@ -1,0 +1,4 @@
+checkpoints/
+sub_activitynet_v1-3.c3d.hdf5
+i3d_features.hdf5
+glove.pkl
