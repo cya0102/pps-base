@@ -1,0 +1,44 @@
+{
+  "os": "Linux-4.15.0-213-generic-x86_64-with-glibc2.27",
+  "python": "CPython 3.10.20",
+  "startedAt": "2026-06-03T04:26:09.036762Z",
+  "args": [
+    "--config-path",
+    "config/activitynet/config_exp08.json"
+  ],
+  "program": "/data/chenyuan/videogrounding/pps-base/pps-main/train.py",
+  "codePath": "pps-main/train.py",
+  "codePathLocal": "train.py",
+  "git": {
+    "remote": "https://github.com/cya0102/pps-base.git",
+    "commit": "6a633483f5c3e5c8d39833e2acdbcd216e38b0aa"
+  },
+  "email": "yc79365@gmail.com",
+  "root": "./",
+  "host": "ping501g",
+  "executable": "/home/chenyuan/miniconda3/envs/pps/bin/python",
+  "cpu_count": 10,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA TITAN RTX",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "250903556096",
+      "used": "192249278464"
+    }
+  },
+  "memory": {
+    "total": "84364967936"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA TITAN RTX",
+      "memoryTotal": "25769803776",
+      "cudaCores": 4608,
+      "architecture": "Turing",
+      "uuid": "GPU-f0653071-32f2-237f-4404-dde24d2760d9"
+    }
+  ],
+  "cudaVersion": "12.0",
+  "writerId": "2pundaxns82dyjaa7q20b69c0avd5nqs"
+}

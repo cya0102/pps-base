@@ -1,0 +1,148 @@
+{
+    "os": "Linux-4.15.0-213-generic-x86_64-with-glibc2.27",
+    "python": "3.10.20",
+    "heartbeatAt": "2026-06-02T13:02:24.702255",
+    "startedAt": "2026-06-02T13:02:24.629435",
+    "docker": null,
+    "cuda": "10.2.89",
+    "args": [
+        "--config-path",
+        "config/activitynet/config_exp02.json"
+    ],
+    "state": "running",
+    "program": "/data/chenyuan/videogrounding/pps-base/pps-main/train.py",
+    "codePath": "pps-main/train.py",
+    "git": {
+        "remote": "https://github.com/cya0102/pps-base.git",
+        "commit": "6a633483f5c3e5c8d39833e2acdbcd216e38b0aa"
+    },
+    "email": "242050223@hdu.edu.cn",
+    "root": "/data/chenyuan/videogrounding/pps-base",
+    "host": "ping501g",
+    "username": "chenyuan",
+    "executable": "/home/chenyuan/miniconda3/envs/pps/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 1540.8241499999997,
+        "min": 1200.0,
+        "max": 4000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2934.173,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 2644.24,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1201.368,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1299.761,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1243.764,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1199.864,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1417.441,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1200.723,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1299.82,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1203.444,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 3426.851,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1750.691,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1200.762,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1268.719,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1319.512,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1201.687,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1399.373,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1199.872,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1204.61,
+            "min": 1200.0,
+            "max": 4000.0
+        },
+        {
+            "current": 1199.808,
+            "min": 1200.0,
+            "max": 4000.0
+        }
+    ],
+    "disk": {
+        "total": 233.67214584350586,
+        "used": 178.9346923828125
+    },
+    "gpu": "NVIDIA TITAN RTX",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA TITAN RTX",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 78.57099914550781
+    }
+}

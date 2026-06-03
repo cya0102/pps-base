@@ -1,0 +1,45 @@
+Start Epoch 1
+Traceback (most recent call last):
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/train.py", line 98, in <module>
+    main(args)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/train.py", line 87, in main
+    runner.train()
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 74, in train
+    self._train_one_epoch(epoch)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 117, in _train_one_epoch
+    net_input = move_to_cuda(batch['net_input'])
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 402, in move_to_cuda
+    return apply_to_sample(_move_to_cuda, sample)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 392, in apply_to_sample
+    return _apply(sample)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 383, in _apply
+    return {
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 384, in <dictcomp>
+    key: _apply(value)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 381, in _apply
+    return f(x)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 400, in _move_to_cuda
+    return tensor.cuda()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/train.py", line 98, in <module>
+    main(args)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/train.py", line 87, in main
+    runner.train()
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 74, in train
+    self._train_one_epoch(epoch)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 117, in _train_one_epoch
+    net_input = move_to_cuda(batch['net_input'])
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 402, in move_to_cuda
+    return apply_to_sample(_move_to_cuda, sample)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 392, in apply_to_sample
+    return _apply(sample)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 383, in _apply
+    return {
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 384, in <dictcomp>
+    key: _apply(value)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 381, in _apply
+    return f(x)
+  File "/data/chenyuan/videogrounding/pps-base/pps-main/runner/base_runner.py", line 400, in _move_to_cuda
+    return tensor.cuda()
+KeyboardInterrupt
