@@ -1,0 +1,26 @@
+2026-06-03 19:46:21,934 INFO    MainThread:49048 [wandb_setup.py:_flush():80] Current SDK version is 0.23.0
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_setup.py:_flush():80] Configure stats pid to 49048
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_setup.py:_flush():80] Loading settings from /home/chenyuan/.config/wandb/settings
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_setup.py:_flush():80] Loading settings from /data/chenyuan/videogrounding/pps-base/pps-main/wandb/settings
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_init.py:setup_run_log_directory():713] Logging user logs to ./wandb/run-20260603_194621-2h7cmnnx/logs/debug.log
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_init.py:setup_run_log_directory():714] Logging internal logs to ./wandb/run-20260603_194621-2h7cmnnx/logs/debug-internal.log
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_init.py:init():840] calling init triggers
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_init.py:init():845] wandb.init called with sweep_config: {}
+config: {'comment': 'exp09: scale up both pull and inter_push from exp07', 'exp_name': 'exp-activitynet_exp09', 'dataset': {'name': 'ActivityNet', 'feature_path': 'data/activitynet/sub_activitynet_v1-3.c3d.hdf5', 'train_data': 'data/activitynet/train_data.json', 'test_data': 'data/activitynet/test_data.json', 'vocab_path': 'data/activitynet/glove.pkl', 'vocab_size': 8000, 'max_num_words': 20, 'max_num_segments': 200, 'frame_feat_dim': 500, 'word_feat_dim': 300}, 'train': {'wandb_path': './', 'log_path': './log', 'save_path': './checkpoints/activitynet/exp-activitynet_exp09_2026-06-03_19-46-18', 'batch_size': 32, 'num_epochs': 30, 'use_wandb': True, 'save_model': True, 'optimizer': {'lr': 0.0004, 'weight_decay': 0, 'warmup_updates': 400, 'warmup_init_lr': 1e-07}}, 'model': {'name': 'PPS', 'frame_feat_dim': 500, 'word_feat_dim': 300, 'hidden_dim': 256, 'dropout': 0.1, 'masked_words_ratio': 3, 'mask_type': 'gaussian', 'num_props': 5, 'sigma_gauss': 4, 'sigma_laplace': 4, 'num_neg_mask': 2, 'sigma_neg_inv_gauss': 1, 'sigma_neg_gauss': 3, 'use_attn': True, 'pred_gamma': 0.15, 'neg_type': 'learnable_gaussian', 'DualTransformer': {'d_model': 256, 'num_heads': 4, 'num_decoder_layers1': 3, 'num_decoder_layers2': 3, 'dropout': 0.1}, 'max_num_words': 20, 'vocab_size': 8001, 'max_epoch': 30}, 'loss': {'margin_hneg': 0.1, 'margin_eneg': 0.15, 'lambda_inter_push': 0.15, 'lambda_intra_push': 0.15, 'alpha_ivc': 1, 'alpha_pull': 0.3, 'alpha_inter_push': 0.2, 'alpha_intra_push': 0.01, 'num_train_prop': 1}, 'config_path': 'config/activitynet/config_exp09.json', '_wandb': {}}
+2026-06-03 19:46:21,935 INFO    MainThread:49048 [wandb_init.py:init():888] starting backend
+2026-06-03 19:46:22,187 INFO    MainThread:49048 [wandb_init.py:init():891] sending inform_init request
+2026-06-03 19:46:22,194 INFO    MainThread:49048 [wandb_init.py:init():899] backend started and connected
+2026-06-03 19:46:22,216 INFO    MainThread:49048 [wandb_init.py:init():969] updated telemetry
+2026-06-03 19:46:22,222 INFO    MainThread:49048 [wandb_init.py:init():993] communicating run to backend with 90.0 second timeout
+2026-06-03 19:46:27,483 INFO    MainThread:49048 [wandb_init.py:init():1040] starting run threads in backend
+2026-06-03 19:46:27,553 INFO    MainThread:49048 [wandb_run.py:_console_start():2504] atexit reg
+2026-06-03 19:46:27,553 INFO    MainThread:49048 [wandb_run.py:_redirect():2352] redirect: wrap_raw
+2026-06-03 19:46:27,553 INFO    MainThread:49048 [wandb_run.py:_redirect():2421] Wrapping output streams.
+2026-06-03 19:46:27,553 INFO    MainThread:49048 [wandb_run.py:_redirect():2444] Redirects installed.
+2026-06-03 19:46:27,557 INFO    MainThread:49048 [wandb_init.py:init():1080] run started, returning control to user process
+2026-06-04 06:13:10,789 INFO    MainThread:49048 [wandb_run.py:_finish():2270] finishing run yc79365-hangzhou-dianzi-university/PPS_ActivityNet/2h7cmnnx
+2026-06-04 06:13:10,790 INFO    MainThread:49048 [wandb_run.py:_atexit_cleanup():2469] got exitcode: 0
+2026-06-04 06:13:10,790 INFO    MainThread:49048 [wandb_run.py:_restore():2451] restore
+2026-06-04 06:13:10,790 INFO    MainThread:49048 [wandb_run.py:_restore():2457] restore done
+2026-06-04 06:13:13,304 INFO    MainThread:49048 [wandb_run.py:_footer_sync_info():3853] logging synced files

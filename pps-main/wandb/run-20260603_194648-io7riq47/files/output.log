@@ -1,0 +1,840 @@
+Start Epoch 1
+Epoch 1, Batch 50, lr = 0.00005, final_loss = 8.6796, nll_loss = 8.6511, hneg_nll_loss = 8.7081, ivc_loss = 0.2180, neg_loss = 0.0856, hneg_loss = 0.0543, push_loss = 0.3021, pull_loss = 0.1068, 0.499 seconds/batch
+Epoch 1, Batch 100, lr = 0.00010, final_loss = 7.5525, nll_loss = 7.5309, hneg_nll_loss = 7.5742, ivc_loss = 0.1795, neg_loss = 0.0933, hneg_loss = 0.0598, push_loss = 0.3180, pull_loss = 0.0162, 0.577 seconds/batch
+Epoch 1, Batch 150, lr = 0.00015, final_loss = 6.7543, nll_loss = 6.7339, hneg_nll_loss = 6.7746, ivc_loss = 0.1817, neg_loss = 0.1009, hneg_loss = 0.0617, push_loss = 0.3197, pull_loss = 0.0099, 0.675 seconds/batch
+Epoch 1, Batch 200, lr = 0.00020, final_loss = 6.3247, nll_loss = 6.2991, hneg_nll_loss = 6.3504, ivc_loss = 0.1592, neg_loss = 0.0897, hneg_loss = 0.0544, push_loss = 0.3908, pull_loss = 0.0094, 0.727 seconds/batch
+Epoch 1, Batch 250, lr = 0.00025, final_loss = 6.1668, nll_loss = 6.1356, hneg_nll_loss = 6.1981, ivc_loss = 0.1406, neg_loss = 0.0762, hneg_loss = 0.0497, push_loss = 0.4932, pull_loss = 0.0103, 0.760 seconds/batch
+Epoch 1, Batch 300, lr = 0.00030, final_loss = 6.0410, nll_loss = 6.0039, hneg_nll_loss = 6.0780, ivc_loss = 0.1305, neg_loss = 0.0707, hneg_loss = 0.0465, push_loss = 0.5594, pull_loss = 0.0102, 0.781 seconds/batch
+Epoch 1, Batch 350, lr = 0.00035, final_loss = 5.9351, nll_loss = 5.8976, hneg_nll_loss = 5.9726, ivc_loss = 0.1261, neg_loss = 0.0678, hneg_loss = 0.0458, push_loss = 0.5209, pull_loss = 0.0095, 0.796 seconds/batch
+Epoch 1, Batch 400, lr = 0.00040, final_loss = 5.8633, nll_loss = 5.8261, hneg_nll_loss = 5.9005, ivc_loss = 0.1236, neg_loss = 0.0655, hneg_loss = 0.0456, push_loss = 0.5316, pull_loss = 0.0088, 0.808 seconds/batch
+Epoch 1, Batch 450, lr = 0.00038, final_loss = 5.7925, nll_loss = 5.7523, hneg_nll_loss = 5.8328, ivc_loss = 0.1149, neg_loss = 0.0564, hneg_loss = 0.0436, push_loss = 0.5821, pull_loss = 0.0104, 0.817 seconds/batch
+Epoch 1, Batch 500, lr = 0.00036, final_loss = 5.6775, nll_loss = 5.6348, hneg_nll_loss = 5.7202, ivc_loss = 0.1099, neg_loss = 0.0543, hneg_loss = 0.0424, push_loss = 0.4944, pull_loss = 0.0102, 0.826 seconds/batch
+Epoch 1, Batch 550, lr = 0.00034, final_loss = 5.6356, nll_loss = 5.5940, hneg_nll_loss = 5.6773, ivc_loss = 0.1095, neg_loss = 0.0526, hneg_loss = 0.0443, push_loss = 0.5687, pull_loss = 0.0081, 0.831 seconds/batch
+Epoch 1, Batch 600, lr = 0.00033, final_loss = 5.5621, nll_loss = 5.5194, hneg_nll_loss = 5.6048, ivc_loss = 0.1068, neg_loss = 0.0503, hneg_loss = 0.0442, push_loss = 0.4998, pull_loss = 0.0073, 0.837 seconds/batch
+Epoch 1, Batch 650, lr = 0.00031, final_loss = 5.5342, nll_loss = 5.4920, hneg_nll_loss = 5.5765, ivc_loss = 0.1048, neg_loss = 0.0472, hneg_loss = 0.0445, push_loss = 0.5121, pull_loss = 0.0108, 0.841 seconds/batch
+Epoch 1, Batch 700, lr = 0.00030, final_loss = 5.5044, nll_loss = 5.4648, hneg_nll_loss = 5.5439, ivc_loss = 0.1069, neg_loss = 0.0481, hneg_loss = 0.0459, push_loss = 0.5607, pull_loss = 0.0097, 0.845 seconds/batch
+Epoch 1, Batch 750, lr = 0.00029, final_loss = 5.5078, nll_loss = 5.4649, hneg_nll_loss = 5.5506, ivc_loss = 0.0989, neg_loss = 0.0440, hneg_loss = 0.0433, push_loss = 0.5266, pull_loss = 0.0073, 0.849 seconds/batch
+Epoch 1, Batch 800, lr = 0.00028, final_loss = 5.4292, nll_loss = 5.3847, hneg_nll_loss = 5.4737, ivc_loss = 0.0925, neg_loss = 0.0397, hneg_loss = 0.0420, push_loss = 0.4607, pull_loss = 0.0065, 0.852 seconds/batch
+Epoch 1, Batch 850, lr = 0.00027, final_loss = 5.3987, nll_loss = 5.3552, hneg_nll_loss = 5.4423, ivc_loss = 0.0961, neg_loss = 0.0421, hneg_loss = 0.0432, push_loss = 0.4978, pull_loss = 0.0064, 0.855 seconds/batch
+Epoch 1, Batch 900, lr = 0.00027, final_loss = 5.3882, nll_loss = 5.3426, hneg_nll_loss = 5.4337, ivc_loss = 0.0935, neg_loss = 0.0401, hneg_loss = 0.0424, push_loss = 0.4891, pull_loss = 0.0064, 0.857 seconds/batch
+Epoch 1, Batch 950, lr = 0.00026, final_loss = 5.3506, nll_loss = 5.3054, hneg_nll_loss = 5.3958, ivc_loss = 0.0922, neg_loss = 0.0398, hneg_loss = 0.0419, push_loss = 0.4858, pull_loss = 0.0053, 0.860 seconds/batch
+Epoch 1, Batch 1000, lr = 0.00025, final_loss = 5.3379, nll_loss = 5.2945, hneg_nll_loss = 5.3812, ivc_loss = 0.0940, neg_loss = 0.0409, hneg_loss = 0.0434, push_loss = 0.4535, pull_loss = 0.0051, 0.862 seconds/batch
+Epoch 1, Batch 1050, lr = 0.00025, final_loss = 5.3187, nll_loss = 5.2729, hneg_nll_loss = 5.3644, ivc_loss = 0.0904, neg_loss = 0.0389, hneg_loss = 0.0410, push_loss = 0.4991, pull_loss = 0.0061, 0.864 seconds/batch
+Epoch 1, Batch 1100, lr = 0.00024, final_loss = 5.2723, nll_loss = 5.2251, hneg_nll_loss = 5.3196, ivc_loss = 0.0895, neg_loss = 0.0379, hneg_loss = 0.0415, push_loss = 0.4623, pull_loss = 0.0054, 0.864 seconds/batch
+Epoch 1, Batch 1150, lr = 0.00024, final_loss = 5.2553, nll_loss = 5.2102, hneg_nll_loss = 5.3003, ivc_loss = 0.0925, neg_loss = 0.0398, hneg_loss = 0.0421, push_loss = 0.4633, pull_loss = 0.0047, 0.859 seconds/batch
+Epoch 1, Batch 1170, lr = 0.00023, final_loss = 5.2630, nll_loss = 5.2191, hneg_nll_loss = 5.3068, ivc_loss = 0.0942, neg_loss = 0.0393, hneg_loss = 0.0457, push_loss = 0.4660, pull_loss = 0.0041, 0.858 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-1.pt, num_updates 1170.
+| Rank1,mIoU 0.1582 | Rank1,IoU@0.1 0.4244 | Rank1,IoU@0.3 0.2144 | Rank1,IoU@0.5 0.1103 | Rank5,mIoU 0.4722 | Rank5,IoU@0.1 0.9668 | Rank5,IoU@0.3 0.7836 | Rank5,IoU@0.5 0.4171 |
+============================================================
+Start Epoch 2
+Epoch 2, Batch 50, lr = 0.00023, final_loss = 5.1754, nll_loss = 5.1275, hneg_nll_loss = 5.2233, ivc_loss = 0.0844, neg_loss = 0.0338, hneg_loss = 0.0403, push_loss = 0.4179, pull_loss = 0.0047, 0.649 seconds/batch
+Epoch 2, Batch 100, lr = 0.00022, final_loss = 5.2323, nll_loss = 5.1853, hneg_nll_loss = 5.2793, ivc_loss = 0.0867, neg_loss = 0.0340, hneg_loss = 0.0427, push_loss = 0.4268, pull_loss = 0.0041, 0.701 seconds/batch
+Epoch 2, Batch 150, lr = 0.00022, final_loss = 5.2204, nll_loss = 5.1718, hneg_nll_loss = 5.2690, ivc_loss = 0.0834, neg_loss = 0.0344, hneg_loss = 0.0393, push_loss = 0.4567, pull_loss = 0.0043, 0.760 seconds/batch
+Epoch 2, Batch 200, lr = 0.00022, final_loss = 5.1731, nll_loss = 5.1234, hneg_nll_loss = 5.2228, ivc_loss = 0.0871, neg_loss = 0.0370, hneg_loss = 0.0403, push_loss = 0.4974, pull_loss = 0.0047, 0.796 seconds/batch
+Epoch 2, Batch 250, lr = 0.00021, final_loss = 5.1296, nll_loss = 5.0804, hneg_nll_loss = 5.1787, ivc_loss = 0.0811, neg_loss = 0.0320, hneg_loss = 0.0397, push_loss = 0.4429, pull_loss = 0.0042, 0.816 seconds/batch
+Epoch 2, Batch 300, lr = 0.00021, final_loss = 5.1208, nll_loss = 5.0742, hneg_nll_loss = 5.1673, ivc_loss = 0.0846, neg_loss = 0.0332, hneg_loss = 0.0420, push_loss = 0.4569, pull_loss = 0.0040, 0.829 seconds/batch
+Epoch 2, Batch 350, lr = 0.00021, final_loss = 5.1093, nll_loss = 5.0610, hneg_nll_loss = 5.1577, ivc_loss = 0.0845, neg_loss = 0.0327, hneg_loss = 0.0420, push_loss = 0.4810, pull_loss = 0.0047, 0.840 seconds/batch
+Epoch 2, Batch 400, lr = 0.00020, final_loss = 5.1176, nll_loss = 5.0685, hneg_nll_loss = 5.1666, ivc_loss = 0.0860, neg_loss = 0.0343, hneg_loss = 0.0421, push_loss = 0.4515, pull_loss = 0.0038, 0.847 seconds/batch
+Epoch 2, Batch 450, lr = 0.00020, final_loss = 5.0980, nll_loss = 5.0520, hneg_nll_loss = 5.1441, ivc_loss = 0.0873, neg_loss = 0.0342, hneg_loss = 0.0434, push_loss = 0.4194, pull_loss = 0.0041, 0.853 seconds/batch
+Epoch 2, Batch 500, lr = 0.00020, final_loss = 5.1087, nll_loss = 5.0590, hneg_nll_loss = 5.1583, ivc_loss = 0.0792, neg_loss = 0.0312, hneg_loss = 0.0387, push_loss = 0.4146, pull_loss = 0.0033, 0.859 seconds/batch
+Epoch 2, Batch 550, lr = 0.00019, final_loss = 5.0926, nll_loss = 5.0444, hneg_nll_loss = 5.1408, ivc_loss = 0.0818, neg_loss = 0.0315, hneg_loss = 0.0413, push_loss = 0.4371, pull_loss = 0.0030, 0.863 seconds/batch
+Epoch 2, Batch 600, lr = 0.00019, final_loss = 5.0734, nll_loss = 5.0260, hneg_nll_loss = 5.1208, ivc_loss = 0.0860, neg_loss = 0.0332, hneg_loss = 0.0437, push_loss = 0.4769, pull_loss = 0.0030, 0.867 seconds/batch
+Epoch 2, Batch 650, lr = 0.00019, final_loss = 5.0506, nll_loss = 5.0010, hneg_nll_loss = 5.1002, ivc_loss = 0.0829, neg_loss = 0.0332, hneg_loss = 0.0408, push_loss = 0.4533, pull_loss = 0.0032, 0.868 seconds/batch
+Epoch 2, Batch 700, lr = 0.00018, final_loss = 5.0683, nll_loss = 5.0192, hneg_nll_loss = 5.1175, ivc_loss = 0.0818, neg_loss = 0.0316, hneg_loss = 0.0412, push_loss = 0.4317, pull_loss = 0.0031, 0.872 seconds/batch
+Epoch 2, Batch 750, lr = 0.00018, final_loss = 5.0631, nll_loss = 5.0126, hneg_nll_loss = 5.1135, ivc_loss = 0.0781, neg_loss = 0.0298, hneg_loss = 0.0395, push_loss = 0.4782, pull_loss = 0.0030, 0.874 seconds/batch
+Epoch 2, Batch 800, lr = 0.00018, final_loss = 5.0367, nll_loss = 4.9851, hneg_nll_loss = 5.0883, ivc_loss = 0.0805, neg_loss = 0.0332, hneg_loss = 0.0387, push_loss = 0.4313, pull_loss = 0.0029, 0.876 seconds/batch
+Epoch 2, Batch 850, lr = 0.00018, final_loss = 5.0468, nll_loss = 4.9967, hneg_nll_loss = 5.0969, ivc_loss = 0.0792, neg_loss = 0.0308, hneg_loss = 0.0395, push_loss = 0.4266, pull_loss = 0.0030, 0.878 seconds/batch
+Epoch 2, Batch 900, lr = 0.00018, final_loss = 5.0264, nll_loss = 4.9779, hneg_nll_loss = 5.0748, ivc_loss = 0.0818, neg_loss = 0.0314, hneg_loss = 0.0416, push_loss = 0.4287, pull_loss = 0.0025, 0.879 seconds/batch
+Epoch 2, Batch 950, lr = 0.00017, final_loss = 5.0242, nll_loss = 4.9736, hneg_nll_loss = 5.0749, ivc_loss = 0.0778, neg_loss = 0.0295, hneg_loss = 0.0398, push_loss = 0.4739, pull_loss = 0.0023, 0.881 seconds/batch
+Epoch 2, Batch 1000, lr = 0.00017, final_loss = 5.0363, nll_loss = 4.9893, hneg_nll_loss = 5.0833, ivc_loss = 0.0830, neg_loss = 0.0314, hneg_loss = 0.0426, push_loss = 0.4432, pull_loss = 0.0029, 0.882 seconds/batch
+Epoch 2, Batch 1050, lr = 0.00017, final_loss = 5.0104, nll_loss = 4.9593, hneg_nll_loss = 5.0616, ivc_loss = 0.0818, neg_loss = 0.0316, hneg_loss = 0.0412, push_loss = 0.4028, pull_loss = 0.0024, 0.883 seconds/batch
+Epoch 2, Batch 1100, lr = 0.00017, final_loss = 5.0266, nll_loss = 4.9760, hneg_nll_loss = 5.0771, ivc_loss = 0.0787, neg_loss = 0.0294, hneg_loss = 0.0407, push_loss = 0.4427, pull_loss = 0.0023, 0.882 seconds/batch
+Epoch 2, Batch 1150, lr = 0.00017, final_loss = 4.9796, nll_loss = 4.9295, hneg_nll_loss = 5.0296, ivc_loss = 0.0786, neg_loss = 0.0308, hneg_loss = 0.0395, push_loss = 0.4213, pull_loss = 0.0023, 0.878 seconds/batch
+Epoch 2, Batch 1170, lr = 0.00017, final_loss = 5.0292, nll_loss = 4.9780, hneg_nll_loss = 5.0805, ivc_loss = 0.0797, neg_loss = 0.0343, hneg_loss = 0.0369, push_loss = 0.4371, pull_loss = 0.0022, 0.876 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-2.pt, num_updates 2340.
+| Rank1,mIoU 0.1373 | Rank1,IoU@0.1 0.4265 | Rank1,IoU@0.3 0.1919 | Rank1,IoU@0.5 0.0564 | Rank5,mIoU 0.4588 | Rank5,IoU@0.1 0.9694 | Rank5,IoU@0.3 0.7996 | Rank5,IoU@0.5 0.3500 |
+============================================================
+Start Epoch 3
+Epoch 3, Batch 50, lr = 0.00016, final_loss = 4.9440, nll_loss = 4.8942, hneg_nll_loss = 4.9938, ivc_loss = 0.0792, neg_loss = 0.0297, hneg_loss = 0.0409, push_loss = 0.4241, pull_loss = 0.0021, 0.653 seconds/batch
+Epoch 3, Batch 100, lr = 0.00016, final_loss = 4.9584, nll_loss = 4.9088, hneg_nll_loss = 5.0080, ivc_loss = 0.0776, neg_loss = 0.0280, hneg_loss = 0.0410, push_loss = 0.3974, pull_loss = 0.0021, 0.695 seconds/batch
+Epoch 3, Batch 150, lr = 0.00016, final_loss = 4.9288, nll_loss = 4.8793, hneg_nll_loss = 4.9782, ivc_loss = 0.0805, neg_loss = 0.0298, hneg_loss = 0.0418, push_loss = 0.3887, pull_loss = 0.0021, 0.751 seconds/batch
+Epoch 3, Batch 200, lr = 0.00016, final_loss = 4.9505, nll_loss = 4.9009, hneg_nll_loss = 5.0002, ivc_loss = 0.0799, neg_loss = 0.0297, hneg_loss = 0.0412, push_loss = 0.4029, pull_loss = 0.0021, 0.790 seconds/batch
+Epoch 3, Batch 250, lr = 0.00016, final_loss = 4.9361, nll_loss = 4.8854, hneg_nll_loss = 4.9868, ivc_loss = 0.0747, neg_loss = 0.0272, hneg_loss = 0.0388, push_loss = 0.4105, pull_loss = 0.0019, 0.814 seconds/batch
+Epoch 3, Batch 300, lr = 0.00016, final_loss = 4.9018, nll_loss = 4.8529, hneg_nll_loss = 4.9507, ivc_loss = 0.0764, neg_loss = 0.0271, hneg_loss = 0.0407, push_loss = 0.3694, pull_loss = 0.0017, 0.831 seconds/batch
+Epoch 3, Batch 350, lr = 0.00015, final_loss = 4.8917, nll_loss = 4.8393, hneg_nll_loss = 4.9442, ivc_loss = 0.0755, neg_loss = 0.0272, hneg_loss = 0.0394, push_loss = 0.3907, pull_loss = 0.0019, 0.844 seconds/batch
+Epoch 3, Batch 400, lr = 0.00015, final_loss = 4.9018, nll_loss = 4.8506, hneg_nll_loss = 4.9530, ivc_loss = 0.0752, neg_loss = 0.0265, hneg_loss = 0.0403, push_loss = 0.4242, pull_loss = 0.0018, 0.851 seconds/batch
+Epoch 3, Batch 450, lr = 0.00015, final_loss = 4.8707, nll_loss = 4.8202, hneg_nll_loss = 4.9213, ivc_loss = 0.0770, neg_loss = 0.0285, hneg_loss = 0.0395, push_loss = 0.3865, pull_loss = 0.0016, 0.857 seconds/batch
+Epoch 3, Batch 500, lr = 0.00015, final_loss = 4.9256, nll_loss = 4.8744, hneg_nll_loss = 4.9768, ivc_loss = 0.0751, neg_loss = 0.0270, hneg_loss = 0.0396, push_loss = 0.3878, pull_loss = 0.0017, 0.862 seconds/batch
+Epoch 3, Batch 550, lr = 0.00015, final_loss = 4.8969, nll_loss = 4.8451, hneg_nll_loss = 4.9486, ivc_loss = 0.0739, neg_loss = 0.0269, hneg_loss = 0.0385, push_loss = 0.4125, pull_loss = 0.0017, 0.866 seconds/batch
+Epoch 3, Batch 600, lr = 0.00015, final_loss = 4.9015, nll_loss = 4.8512, hneg_nll_loss = 4.9518, ivc_loss = 0.0769, neg_loss = 0.0274, hneg_loss = 0.0411, push_loss = 0.4108, pull_loss = 0.0016, 0.871 seconds/batch
+Epoch 3, Batch 650, lr = 0.00015, final_loss = 4.8799, nll_loss = 4.8272, hneg_nll_loss = 4.9327, ivc_loss = 0.0719, neg_loss = 0.0245, hneg_loss = 0.0391, push_loss = 0.3978, pull_loss = 0.0017, 0.873 seconds/batch
+Epoch 3, Batch 700, lr = 0.00015, final_loss = 4.9086, nll_loss = 4.8558, hneg_nll_loss = 4.9614, ivc_loss = 0.0763, neg_loss = 0.0288, hneg_loss = 0.0388, push_loss = 0.4126, pull_loss = 0.0017, 0.875 seconds/batch
+Epoch 3, Batch 750, lr = 0.00014, final_loss = 4.8566, nll_loss = 4.8077, hneg_nll_loss = 4.9054, ivc_loss = 0.0785, neg_loss = 0.0268, hneg_loss = 0.0435, push_loss = 0.4077, pull_loss = 0.0016, 0.877 seconds/batch
+Epoch 3, Batch 800, lr = 0.00014, final_loss = 4.8837, nll_loss = 4.8334, hneg_nll_loss = 4.9340, ivc_loss = 0.0781, neg_loss = 0.0282, hneg_loss = 0.0416, push_loss = 0.3968, pull_loss = 0.0015, 0.880 seconds/batch
+Epoch 3, Batch 850, lr = 0.00014, final_loss = 4.8562, nll_loss = 4.8044, hneg_nll_loss = 4.9080, ivc_loss = 0.0746, neg_loss = 0.0269, hneg_loss = 0.0394, push_loss = 0.3910, pull_loss = 0.0014, 0.882 seconds/batch
+Epoch 3, Batch 900, lr = 0.00014, final_loss = 4.8519, nll_loss = 4.8019, hneg_nll_loss = 4.9020, ivc_loss = 0.0773, neg_loss = 0.0269, hneg_loss = 0.0423, push_loss = 0.3967, pull_loss = 0.0014, 0.883 seconds/batch
+Epoch 3, Batch 950, lr = 0.00014, final_loss = 4.8847, nll_loss = 4.8342, hneg_nll_loss = 4.9351, ivc_loss = 0.0761, neg_loss = 0.0259, hneg_loss = 0.0417, push_loss = 0.3895, pull_loss = 0.0015, 0.883 seconds/batch
+Epoch 3, Batch 1000, lr = 0.00014, final_loss = 4.8535, nll_loss = 4.8017, hneg_nll_loss = 4.9052, ivc_loss = 0.0759, neg_loss = 0.0271, hneg_loss = 0.0396, push_loss = 0.3626, pull_loss = 0.0013, 0.884 seconds/batch
+Epoch 3, Batch 1050, lr = 0.00014, final_loss = 4.8296, nll_loss = 4.7802, hneg_nll_loss = 4.8790, ivc_loss = 0.0758, neg_loss = 0.0255, hneg_loss = 0.0421, push_loss = 0.4299, pull_loss = 0.0013, 0.885 seconds/batch
+Epoch 3, Batch 1100, lr = 0.00014, final_loss = 4.8422, nll_loss = 4.7906, hneg_nll_loss = 4.8938, ivc_loss = 0.0743, neg_loss = 0.0249, hneg_loss = 0.0412, push_loss = 0.4522, pull_loss = 0.0015, 0.884 seconds/batch
+Epoch 3, Batch 1150, lr = 0.00014, final_loss = 4.8164, nll_loss = 4.7630, hneg_nll_loss = 4.8698, ivc_loss = 0.0735, neg_loss = 0.0260, hneg_loss = 0.0391, push_loss = 0.4242, pull_loss = 0.0015, 0.880 seconds/batch
+Epoch 3, Batch 1170, lr = 0.00014, final_loss = 4.9090, nll_loss = 4.8556, hneg_nll_loss = 4.9624, ivc_loss = 0.0692, neg_loss = 0.0234, hneg_loss = 0.0378, push_loss = 0.4271, pull_loss = 0.0014, 0.878 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-3.pt, num_updates 3510.
+| Rank1,mIoU 0.1787 | Rank1,IoU@0.1 0.4710 | Rank1,IoU@0.3 0.2442 | Rank1,IoU@0.5 0.1208 | Rank5,mIoU 0.4793 | Rank5,IoU@0.1 0.9741 | Rank5,IoU@0.3 0.7883 | Rank5,IoU@0.5 0.4387 |
+============================================================
+Start Epoch 4
+Epoch 4, Batch 50, lr = 0.00013, final_loss = 4.7985, nll_loss = 4.7477, hneg_nll_loss = 4.8492, ivc_loss = 0.0766, neg_loss = 0.0254, hneg_loss = 0.0427, push_loss = 0.4249, pull_loss = 0.0012, 0.651 seconds/batch
+Epoch 4, Batch 100, lr = 0.00013, final_loss = 4.8089, nll_loss = 4.7585, hneg_nll_loss = 4.8593, ivc_loss = 0.0747, neg_loss = 0.0249, hneg_loss = 0.0410, push_loss = 0.4223, pull_loss = 0.0014, 0.694 seconds/batch
+Epoch 4, Batch 150, lr = 0.00013, final_loss = 4.8231, nll_loss = 4.7698, hneg_nll_loss = 4.8764, ivc_loss = 0.0718, neg_loss = 0.0258, hneg_loss = 0.0372, push_loss = 0.3795, pull_loss = 0.0012, 0.747 seconds/batch
+Epoch 4, Batch 200, lr = 0.00013, final_loss = 4.7739, nll_loss = 4.7214, hneg_nll_loss = 4.8265, ivc_loss = 0.0737, neg_loss = 0.0250, hneg_loss = 0.0403, push_loss = 0.3810, pull_loss = 0.0012, 0.785 seconds/batch
+Epoch 4, Batch 250, lr = 0.00013, final_loss = 4.7990, nll_loss = 4.7465, hneg_nll_loss = 4.8515, ivc_loss = 0.0711, neg_loss = 0.0225, hneg_loss = 0.0404, push_loss = 0.4012, pull_loss = 0.0013, 0.808 seconds/batch
+Epoch 4, Batch 300, lr = 0.00013, final_loss = 4.7768, nll_loss = 4.7261, hneg_nll_loss = 4.8274, ivc_loss = 0.0784, neg_loss = 0.0271, hneg_loss = 0.0430, push_loss = 0.3998, pull_loss = 0.0013, 0.825 seconds/batch
+Epoch 4, Batch 350, lr = 0.00013, final_loss = 4.7645, nll_loss = 4.7146, hneg_nll_loss = 4.8144, ivc_loss = 0.0779, neg_loss = 0.0252, hneg_loss = 0.0443, push_loss = 0.3979, pull_loss = 0.0012, 0.836 seconds/batch
+Epoch 4, Batch 400, lr = 0.00013, final_loss = 4.7906, nll_loss = 4.7381, hneg_nll_loss = 4.8432, ivc_loss = 0.0765, neg_loss = 0.0279, hneg_loss = 0.0404, push_loss = 0.3956, pull_loss = 0.0011, 0.845 seconds/batch
+Epoch 4, Batch 450, lr = 0.00013, final_loss = 4.7509, nll_loss = 4.6981, hneg_nll_loss = 4.8038, ivc_loss = 0.0728, neg_loss = 0.0247, hneg_loss = 0.0400, push_loss = 0.4048, pull_loss = 0.0010, 0.851 seconds/batch
+Epoch 4, Batch 500, lr = 0.00013, final_loss = 4.8097, nll_loss = 4.7586, hneg_nll_loss = 4.8609, ivc_loss = 0.0772, neg_loss = 0.0267, hneg_loss = 0.0419, push_loss = 0.4090, pull_loss = 0.0011, 0.856 seconds/batch
+Epoch 4, Batch 550, lr = 0.00013, final_loss = 4.7697, nll_loss = 4.7178, hneg_nll_loss = 4.8216, ivc_loss = 0.0761, neg_loss = 0.0265, hneg_loss = 0.0410, push_loss = 0.3983, pull_loss = 0.0012, 0.860 seconds/batch
+Epoch 4, Batch 600, lr = 0.00012, final_loss = 4.7500, nll_loss = 4.6954, hneg_nll_loss = 4.8046, ivc_loss = 0.0726, neg_loss = 0.0247, hneg_loss = 0.0392, push_loss = 0.4144, pull_loss = 0.0015, 0.863 seconds/batch
+Epoch 4, Batch 650, lr = 0.00012, final_loss = 4.7766, nll_loss = 4.7227, hneg_nll_loss = 4.8305, ivc_loss = 0.0714, neg_loss = 0.0241, hneg_loss = 0.0382, push_loss = 0.3924, pull_loss = 0.0014, 0.866 seconds/batch
+Epoch 4, Batch 700, lr = 0.00012, final_loss = 4.7698, nll_loss = 4.7183, hneg_nll_loss = 4.8212, ivc_loss = 0.0772, neg_loss = 0.0271, hneg_loss = 0.0409, push_loss = 0.3801, pull_loss = 0.0013, 0.869 seconds/batch
+Epoch 4, Batch 750, lr = 0.00012, final_loss = 4.7658, nll_loss = 4.7092, hneg_nll_loss = 4.8224, ivc_loss = 0.0749, neg_loss = 0.0280, hneg_loss = 0.0388, push_loss = 0.4113, pull_loss = 0.0012, 0.871 seconds/batch
+Epoch 4, Batch 800, lr = 0.00012, final_loss = 4.7790, nll_loss = 4.7261, hneg_nll_loss = 4.8318, ivc_loss = 0.0754, neg_loss = 0.0266, hneg_loss = 0.0400, push_loss = 0.3722, pull_loss = 0.0013, 0.873 seconds/batch
+Epoch 4, Batch 850, lr = 0.00012, final_loss = 4.7203, nll_loss = 4.6671, hneg_nll_loss = 4.7735, ivc_loss = 0.0716, neg_loss = 0.0241, hneg_loss = 0.0390, push_loss = 0.3887, pull_loss = 0.0012, 0.875 seconds/batch
+Epoch 4, Batch 900, lr = 0.00012, final_loss = 4.7635, nll_loss = 4.7077, hneg_nll_loss = 4.8193, ivc_loss = 0.0725, neg_loss = 0.0240, hneg_loss = 0.0404, push_loss = 0.3826, pull_loss = 0.0012, 0.877 seconds/batch
+Epoch 4, Batch 950, lr = 0.00012, final_loss = 4.7502, nll_loss = 4.6955, hneg_nll_loss = 4.8049, ivc_loss = 0.0739, neg_loss = 0.0247, hneg_loss = 0.0408, push_loss = 0.3986, pull_loss = 0.0011, 0.878 seconds/batch
+Epoch 4, Batch 1000, lr = 0.00012, final_loss = 4.8021, nll_loss = 4.7493, hneg_nll_loss = 4.8548, ivc_loss = 0.0737, neg_loss = 0.0239, hneg_loss = 0.0412, push_loss = 0.3876, pull_loss = 0.0012, 0.879 seconds/batch
+Epoch 4, Batch 1050, lr = 0.00012, final_loss = 4.7311, nll_loss = 4.6765, hneg_nll_loss = 4.7856, ivc_loss = 0.0722, neg_loss = 0.0240, hneg_loss = 0.0394, push_loss = 0.3854, pull_loss = 0.0010, 0.880 seconds/batch
+Epoch 4, Batch 1100, lr = 0.00012, final_loss = 4.7462, nll_loss = 4.6923, hneg_nll_loss = 4.8001, ivc_loss = 0.0733, neg_loss = 0.0250, hneg_loss = 0.0402, push_loss = 0.4081, pull_loss = 0.0010, 0.879 seconds/batch
+Epoch 4, Batch 1150, lr = 0.00012, final_loss = 4.7292, nll_loss = 4.6754, hneg_nll_loss = 4.7829, ivc_loss = 0.0738, neg_loss = 0.0255, hneg_loss = 0.0403, push_loss = 0.3994, pull_loss = 0.0010, 0.875 seconds/batch
+Epoch 4, Batch 1170, lr = 0.00012, final_loss = 4.7918, nll_loss = 4.7377, hneg_nll_loss = 4.8459, ivc_loss = 0.0709, neg_loss = 0.0242, hneg_loss = 0.0390, push_loss = 0.4038, pull_loss = 0.0010, 0.873 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-4.pt, num_updates 4680.
+| Rank1,mIoU 0.1679 | Rank1,IoU@0.1 0.4501 | Rank1,IoU@0.3 0.2343 | Rank1,IoU@0.5 0.1106 | Rank5,mIoU 0.4846 | Rank5,IoU@0.1 0.9738 | Rank5,IoU@0.3 0.8099 | Rank5,IoU@0.5 0.4433 |
+============================================================
+Start Epoch 5
+Epoch 5, Batch 50, lr = 0.00012, final_loss = 4.7063, nll_loss = 4.6532, hneg_nll_loss = 4.7594, ivc_loss = 0.0686, neg_loss = 0.0201, hneg_loss = 0.0402, push_loss = 0.3788, pull_loss = 0.0009, 0.651 seconds/batch
+Epoch 5, Batch 100, lr = 0.00012, final_loss = 4.6801, nll_loss = 4.6258, hneg_nll_loss = 4.7344, ivc_loss = 0.0708, neg_loss = 0.0229, hneg_loss = 0.0399, push_loss = 0.3765, pull_loss = 0.0010, 0.694 seconds/batch
+Epoch 5, Batch 150, lr = 0.00012, final_loss = 4.6914, nll_loss = 4.6390, hneg_nll_loss = 4.7438, ivc_loss = 0.0720, neg_loss = 0.0235, hneg_loss = 0.0400, push_loss = 0.3604, pull_loss = 0.0011, 0.736 seconds/batch
+Epoch 5, Batch 200, lr = 0.00011, final_loss = 4.7437, nll_loss = 4.6892, hneg_nll_loss = 4.7982, ivc_loss = 0.0711, neg_loss = 0.0240, hneg_loss = 0.0386, push_loss = 0.3741, pull_loss = 0.0010, 0.776 seconds/batch
+Epoch 5, Batch 250, lr = 0.00011, final_loss = 4.7057, nll_loss = 4.6500, hneg_nll_loss = 4.7613, ivc_loss = 0.0697, neg_loss = 0.0222, hneg_loss = 0.0392, push_loss = 0.3761, pull_loss = 0.0009, 0.799 seconds/batch
+Epoch 5, Batch 300, lr = 0.00011, final_loss = 4.7055, nll_loss = 4.6511, hneg_nll_loss = 4.7600, ivc_loss = 0.0679, neg_loss = 0.0209, hneg_loss = 0.0387, push_loss = 0.3723, pull_loss = 0.0010, 0.816 seconds/batch
+Epoch 5, Batch 350, lr = 0.00011, final_loss = 4.6735, nll_loss = 4.6205, hneg_nll_loss = 4.7265, ivc_loss = 0.0711, neg_loss = 0.0220, hneg_loss = 0.0408, push_loss = 0.3776, pull_loss = 0.0010, 0.829 seconds/batch
+Epoch 5, Batch 400, lr = 0.00011, final_loss = 4.6785, nll_loss = 4.6253, hneg_nll_loss = 4.7317, ivc_loss = 0.0687, neg_loss = 0.0209, hneg_loss = 0.0398, push_loss = 0.3761, pull_loss = 0.0010, 0.837 seconds/batch
+Epoch 5, Batch 450, lr = 0.00011, final_loss = 4.7178, nll_loss = 4.6610, hneg_nll_loss = 4.7745, ivc_loss = 0.0681, neg_loss = 0.0214, hneg_loss = 0.0384, push_loss = 0.3849, pull_loss = 0.0008, 0.845 seconds/batch
+Epoch 5, Batch 500, lr = 0.00011, final_loss = 4.7006, nll_loss = 4.6451, hneg_nll_loss = 4.7561, ivc_loss = 0.0707, neg_loss = 0.0226, hneg_loss = 0.0395, push_loss = 0.3648, pull_loss = 0.0009, 0.851 seconds/batch
+Epoch 5, Batch 550, lr = 0.00011, final_loss = 4.6810, nll_loss = 4.6231, hneg_nll_loss = 4.7389, ivc_loss = 0.0689, neg_loss = 0.0226, hneg_loss = 0.0381, push_loss = 0.3945, pull_loss = 0.0011, 0.856 seconds/batch
+Epoch 5, Batch 600, lr = 0.00011, final_loss = 4.6818, nll_loss = 4.6279, hneg_nll_loss = 4.7356, ivc_loss = 0.0715, neg_loss = 0.0222, hneg_loss = 0.0412, push_loss = 0.3987, pull_loss = 0.0010, 0.859 seconds/batch
+Epoch 5, Batch 650, lr = 0.00011, final_loss = 4.7093, nll_loss = 4.6541, hneg_nll_loss = 4.7645, ivc_loss = 0.0704, neg_loss = 0.0224, hneg_loss = 0.0397, push_loss = 0.3826, pull_loss = 0.0010, 0.862 seconds/batch
+Epoch 5, Batch 700, lr = 0.00011, final_loss = 4.7138, nll_loss = 4.6578, hneg_nll_loss = 4.7697, ivc_loss = 0.0689, neg_loss = 0.0201, hneg_loss = 0.0403, push_loss = 0.4031, pull_loss = 0.0009, 0.865 seconds/batch
+Epoch 5, Batch 750, lr = 0.00011, final_loss = 4.6932, nll_loss = 4.6383, hneg_nll_loss = 4.7481, ivc_loss = 0.0725, neg_loss = 0.0227, hneg_loss = 0.0414, push_loss = 0.3894, pull_loss = 0.0009, 0.868 seconds/batch
+Epoch 5, Batch 800, lr = 0.00011, final_loss = 4.6942, nll_loss = 4.6384, hneg_nll_loss = 4.7499, ivc_loss = 0.0702, neg_loss = 0.0211, hneg_loss = 0.0404, push_loss = 0.3627, pull_loss = 0.0011, 0.870 seconds/batch
+Epoch 5, Batch 850, lr = 0.00011, final_loss = 4.6770, nll_loss = 4.6228, hneg_nll_loss = 4.7311, ivc_loss = 0.0701, neg_loss = 0.0217, hneg_loss = 0.0401, push_loss = 0.3714, pull_loss = 0.0009, 0.872 seconds/batch
+Epoch 5, Batch 900, lr = 0.00011, final_loss = 4.6554, nll_loss = 4.6016, hneg_nll_loss = 4.7093, ivc_loss = 0.0700, neg_loss = 0.0221, hneg_loss = 0.0400, push_loss = 0.3811, pull_loss = 0.0009, 0.874 seconds/batch
+Epoch 5, Batch 950, lr = 0.00011, final_loss = 4.6684, nll_loss = 4.6113, hneg_nll_loss = 4.7255, ivc_loss = 0.0676, neg_loss = 0.0213, hneg_loss = 0.0378, push_loss = 0.3713, pull_loss = 0.0008, 0.876 seconds/batch
+Epoch 5, Batch 1000, lr = 0.00011, final_loss = 4.7066, nll_loss = 4.6510, hneg_nll_loss = 4.7622, ivc_loss = 0.0718, neg_loss = 0.0231, hneg_loss = 0.0403, push_loss = 0.3781, pull_loss = 0.0008, 0.877 seconds/batch
+Epoch 5, Batch 1050, lr = 0.00011, final_loss = 4.6575, nll_loss = 4.6043, hneg_nll_loss = 4.7107, ivc_loss = 0.0725, neg_loss = 0.0229, hneg_loss = 0.0410, push_loss = 0.3672, pull_loss = 0.0008, 0.878 seconds/batch
+Epoch 5, Batch 1100, lr = 0.00011, final_loss = 4.6486, nll_loss = 4.5935, hneg_nll_loss = 4.7037, ivc_loss = 0.0746, neg_loss = 0.0250, hneg_loss = 0.0410, push_loss = 0.3619, pull_loss = 0.0009, 0.877 seconds/batch
+Epoch 5, Batch 1150, lr = 0.00010, final_loss = 4.6325, nll_loss = 4.5791, hneg_nll_loss = 4.6858, ivc_loss = 0.0717, neg_loss = 0.0214, hneg_loss = 0.0414, push_loss = 0.3551, pull_loss = 0.0008, 0.873 seconds/batch
+Epoch 5, Batch 1170, lr = 0.00010, final_loss = 4.6632, nll_loss = 4.6102, hneg_nll_loss = 4.7163, ivc_loss = 0.0725, neg_loss = 0.0223, hneg_loss = 0.0410, push_loss = 0.3529, pull_loss = 0.0008, 0.871 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-5.pt, num_updates 5850.
+| Rank1,mIoU 0.1729 | Rank1,IoU@0.1 0.4803 | Rank1,IoU@0.3 0.2308 | Rank1,IoU@0.5 0.1007 | Rank5,mIoU 0.5005 | Rank5,IoU@0.1 0.9708 | Rank5,IoU@0.3 0.8266 | Rank5,IoU@0.5 0.4935 |
+============================================================
+Start Epoch 6
+Epoch 6, Batch 50, lr = 0.00010, final_loss = 4.6156, nll_loss = 4.5589, hneg_nll_loss = 4.6722, ivc_loss = 0.0692, neg_loss = 0.0215, hneg_loss = 0.0384, push_loss = 0.3552, pull_loss = 0.0009, 0.642 seconds/batch
+Epoch 6, Batch 100, lr = 0.00010, final_loss = 4.6064, nll_loss = 4.5507, hneg_nll_loss = 4.6622, ivc_loss = 0.0700, neg_loss = 0.0212, hneg_loss = 0.0401, push_loss = 0.3635, pull_loss = 0.0008, 0.689 seconds/batch
+Epoch 6, Batch 150, lr = 0.00010, final_loss = 4.6246, nll_loss = 4.5690, hneg_nll_loss = 4.6803, ivc_loss = 0.0713, neg_loss = 0.0214, hneg_loss = 0.0411, push_loss = 0.3663, pull_loss = 0.0008, 0.733 seconds/batch
+Epoch 6, Batch 200, lr = 0.00010, final_loss = 4.6191, nll_loss = 4.5654, hneg_nll_loss = 4.6728, ivc_loss = 0.0716, neg_loss = 0.0226, hneg_loss = 0.0400, push_loss = 0.3573, pull_loss = 0.0008, 0.773 seconds/batch
+Epoch 6, Batch 250, lr = 0.00010, final_loss = 4.6245, nll_loss = 4.5687, hneg_nll_loss = 4.6803, ivc_loss = 0.0688, neg_loss = 0.0217, hneg_loss = 0.0384, push_loss = 0.3599, pull_loss = 0.0008, 0.798 seconds/batch
+Epoch 6, Batch 300, lr = 0.00010, final_loss = 4.6064, nll_loss = 4.5528, hneg_nll_loss = 4.6599, ivc_loss = 0.0708, neg_loss = 0.0204, hneg_loss = 0.0416, push_loss = 0.3582, pull_loss = 0.0008, 0.817 seconds/batch
+Epoch 6, Batch 350, lr = 0.00010, final_loss = 4.6228, nll_loss = 4.5656, hneg_nll_loss = 4.6799, ivc_loss = 0.0705, neg_loss = 0.0221, hneg_loss = 0.0397, push_loss = 0.3618, pull_loss = 0.0007, 0.829 seconds/batch
+Epoch 6, Batch 400, lr = 0.00010, final_loss = 4.6401, nll_loss = 4.5848, hneg_nll_loss = 4.6954, ivc_loss = 0.0696, neg_loss = 0.0210, hneg_loss = 0.0396, push_loss = 0.3577, pull_loss = 0.0009, 0.838 seconds/batch
+Epoch 6, Batch 450, lr = 0.00010, final_loss = 4.6306, nll_loss = 4.5740, hneg_nll_loss = 4.6872, ivc_loss = 0.0642, neg_loss = 0.0165, hneg_loss = 0.0386, push_loss = 0.3425, pull_loss = 0.0012, 0.845 seconds/batch
+Epoch 6, Batch 500, lr = 0.00010, final_loss = 4.6080, nll_loss = 4.5511, hneg_nll_loss = 4.6649, ivc_loss = 0.0666, neg_loss = 0.0188, hneg_loss = 0.0391, push_loss = 0.3749, pull_loss = 0.0012, 0.850 seconds/batch
+Epoch 6, Batch 550, lr = 0.00010, final_loss = 4.6116, nll_loss = 4.5554, hneg_nll_loss = 4.6678, ivc_loss = 0.0695, neg_loss = 0.0208, hneg_loss = 0.0399, push_loss = 0.3751, pull_loss = 0.0010, 0.855 seconds/batch
+Epoch 6, Batch 600, lr = 0.00010, final_loss = 4.6492, nll_loss = 4.5934, hneg_nll_loss = 4.7050, ivc_loss = 0.0693, neg_loss = 0.0203, hneg_loss = 0.0400, push_loss = 0.3700, pull_loss = 0.0010, 0.859 seconds/batch
+Epoch 6, Batch 650, lr = 0.00010, final_loss = 4.6080, nll_loss = 4.5516, hneg_nll_loss = 4.6644, ivc_loss = 0.0701, neg_loss = 0.0222, hneg_loss = 0.0389, push_loss = 0.3672, pull_loss = 0.0009, 0.862 seconds/batch
+Epoch 6, Batch 700, lr = 0.00010, final_loss = 4.6489, nll_loss = 4.5928, hneg_nll_loss = 4.7049, ivc_loss = 0.0715, neg_loss = 0.0216, hneg_loss = 0.0411, push_loss = 0.3612, pull_loss = 0.0009, 0.864 seconds/batch
+Epoch 6, Batch 750, lr = 0.00010, final_loss = 4.6270, nll_loss = 4.5726, hneg_nll_loss = 4.6814, ivc_loss = 0.0683, neg_loss = 0.0193, hneg_loss = 0.0401, push_loss = 0.3585, pull_loss = 0.0009, 0.867 seconds/batch
+Epoch 6, Batch 800, lr = 0.00010, final_loss = 4.6509, nll_loss = 4.5958, hneg_nll_loss = 4.7061, ivc_loss = 0.0681, neg_loss = 0.0204, hneg_loss = 0.0390, push_loss = 0.3598, pull_loss = 0.0009, 0.869 seconds/batch
+Epoch 6, Batch 850, lr = 0.00010, final_loss = 4.5866, nll_loss = 4.5304, hneg_nll_loss = 4.6428, ivc_loss = 0.0683, neg_loss = 0.0211, hneg_loss = 0.0388, push_loss = 0.3687, pull_loss = 0.0009, 0.871 seconds/batch
+Epoch 6, Batch 900, lr = 0.00010, final_loss = 4.6214, nll_loss = 4.5638, hneg_nll_loss = 4.6790, ivc_loss = 0.0682, neg_loss = 0.0189, hneg_loss = 0.0411, push_loss = 0.3682, pull_loss = 0.0008, 0.872 seconds/batch
+Epoch 6, Batch 950, lr = 0.00010, final_loss = 4.6018, nll_loss = 4.5480, hneg_nll_loss = 4.6555, ivc_loss = 0.0718, neg_loss = 0.0221, hneg_loss = 0.0413, push_loss = 0.3618, pull_loss = 0.0007, 0.873 seconds/batch
+Epoch 6, Batch 1000, lr = 0.00010, final_loss = 4.6344, nll_loss = 4.5760, hneg_nll_loss = 4.6928, ivc_loss = 0.0675, neg_loss = 0.0198, hneg_loss = 0.0389, push_loss = 0.3656, pull_loss = 0.0008, 0.875 seconds/batch
+Epoch 6, Batch 1050, lr = 0.00010, final_loss = 4.6183, nll_loss = 4.5627, hneg_nll_loss = 4.6738, ivc_loss = 0.0692, neg_loss = 0.0213, hneg_loss = 0.0393, push_loss = 0.3779, pull_loss = 0.0009, 0.876 seconds/batch
+Epoch 6, Batch 1100, lr = 0.00010, final_loss = 4.6451, nll_loss = 4.5910, hneg_nll_loss = 4.6992, ivc_loss = 0.0690, neg_loss = 0.0210, hneg_loss = 0.0397, push_loss = 0.3823, pull_loss = 0.0008, 0.876 seconds/batch
+Epoch 6, Batch 1150, lr = 0.00010, final_loss = 4.6224, nll_loss = 4.5659, hneg_nll_loss = 4.6789, ivc_loss = 0.0718, neg_loss = 0.0238, hneg_loss = 0.0396, push_loss = 0.3635, pull_loss = 0.0007, 0.872 seconds/batch
+Epoch 6, Batch 1170, lr = 0.00010, final_loss = 4.5756, nll_loss = 4.5225, hneg_nll_loss = 4.6287, ivc_loss = 0.0690, neg_loss = 0.0191, hneg_loss = 0.0413, push_loss = 0.3639, pull_loss = 0.0007, 0.870 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-6.pt, num_updates 7020.
+| Rank1,mIoU 0.1491 | Rank1,IoU@0.1 0.4618 | Rank1,IoU@0.3 0.1955 | Rank1,IoU@0.5 0.0630 | Rank5,mIoU 0.4997 | Rank5,IoU@0.1 0.9739 | Rank5,IoU@0.3 0.8159 | Rank5,IoU@0.5 0.4791 |
+============================================================
+Start Epoch 7
+Epoch 7, Batch 50, lr = 0.00010, final_loss = 4.5571, nll_loss = 4.5014, hneg_nll_loss = 4.6128, ivc_loss = 0.0667, neg_loss = 0.0179, hneg_loss = 0.0399, push_loss = 0.3558, pull_loss = 0.0007, 0.645 seconds/batch
+Epoch 7, Batch 100, lr = 0.00009, final_loss = 4.5440, nll_loss = 4.4875, hneg_nll_loss = 4.6006, ivc_loss = 0.0723, neg_loss = 0.0214, hneg_loss = 0.0418, push_loss = 0.3509, pull_loss = 0.0007, 0.685 seconds/batch
+Epoch 7, Batch 150, lr = 0.00009, final_loss = 4.5898, nll_loss = 4.5326, hneg_nll_loss = 4.6470, ivc_loss = 0.0686, neg_loss = 0.0203, hneg_loss = 0.0392, push_loss = 0.3467, pull_loss = 0.0008, 0.724 seconds/batch
+Epoch 7, Batch 200, lr = 0.00009, final_loss = 4.5518, nll_loss = 4.4924, hneg_nll_loss = 4.6112, ivc_loss = 0.0675, neg_loss = 0.0190, hneg_loss = 0.0393, push_loss = 0.3546, pull_loss = 0.0008, 0.770 seconds/batch
+Epoch 7, Batch 250, lr = 0.00009, final_loss = 4.6003, nll_loss = 4.5452, hneg_nll_loss = 4.6553, ivc_loss = 0.0706, neg_loss = 0.0209, hneg_loss = 0.0408, push_loss = 0.3509, pull_loss = 0.0007, 0.795 seconds/batch
+Epoch 7, Batch 300, lr = 0.00009, final_loss = 4.5811, nll_loss = 4.5230, hneg_nll_loss = 4.6393, ivc_loss = 0.0654, neg_loss = 0.0177, hneg_loss = 0.0384, push_loss = 0.3445, pull_loss = 0.0007, 0.812 seconds/batch
+Epoch 7, Batch 350, lr = 0.00009, final_loss = 4.5757, nll_loss = 4.5184, hneg_nll_loss = 4.6330, ivc_loss = 0.0671, neg_loss = 0.0196, hneg_loss = 0.0386, push_loss = 0.3561, pull_loss = 0.0007, 0.824 seconds/batch
+Epoch 7, Batch 400, lr = 0.00009, final_loss = 4.5728, nll_loss = 4.5148, hneg_nll_loss = 4.6309, ivc_loss = 0.0670, neg_loss = 0.0196, hneg_loss = 0.0386, push_loss = 0.3581, pull_loss = 0.0007, 0.834 seconds/batch
+Epoch 7, Batch 450, lr = 0.00009, final_loss = 4.5549, nll_loss = 4.4992, hneg_nll_loss = 4.6106, ivc_loss = 0.0681, neg_loss = 0.0194, hneg_loss = 0.0400, push_loss = 0.3536, pull_loss = 0.0007, 0.841 seconds/batch
+Epoch 7, Batch 500, lr = 0.00009, final_loss = 4.5574, nll_loss = 4.5033, hneg_nll_loss = 4.6115, ivc_loss = 0.0696, neg_loss = 0.0178, hneg_loss = 0.0428, push_loss = 0.3491, pull_loss = 0.0006, 0.847 seconds/batch
+Epoch 7, Batch 550, lr = 0.00009, final_loss = 4.5601, nll_loss = 4.5024, hneg_nll_loss = 4.6178, ivc_loss = 0.0654, neg_loss = 0.0176, hneg_loss = 0.0388, push_loss = 0.3608, pull_loss = 0.0007, 0.851 seconds/batch
+Epoch 7, Batch 600, lr = 0.00009, final_loss = 4.6018, nll_loss = 4.5459, hneg_nll_loss = 4.6577, ivc_loss = 0.0690, neg_loss = 0.0202, hneg_loss = 0.0399, push_loss = 0.3571, pull_loss = 0.0007, 0.856 seconds/batch
+Epoch 7, Batch 650, lr = 0.00009, final_loss = 4.5786, nll_loss = 4.5220, hneg_nll_loss = 4.6352, ivc_loss = 0.0680, neg_loss = 0.0203, hneg_loss = 0.0390, push_loss = 0.3523, pull_loss = 0.0007, 0.858 seconds/batch
+Epoch 7, Batch 700, lr = 0.00009, final_loss = 4.5889, nll_loss = 4.5306, hneg_nll_loss = 4.6472, ivc_loss = 0.0657, neg_loss = 0.0200, hneg_loss = 0.0373, push_loss = 0.3514, pull_loss = 0.0006, 0.861 seconds/batch
+Epoch 7, Batch 750, lr = 0.00009, final_loss = 4.5925, nll_loss = 4.5347, hneg_nll_loss = 4.6503, ivc_loss = 0.0688, neg_loss = 0.0213, hneg_loss = 0.0389, push_loss = 0.3464, pull_loss = 0.0006, 0.864 seconds/batch
+Epoch 7, Batch 800, lr = 0.00009, final_loss = 4.5696, nll_loss = 4.5110, hneg_nll_loss = 4.6282, ivc_loss = 0.0669, neg_loss = 0.0191, hneg_loss = 0.0394, push_loss = 0.3569, pull_loss = 0.0006, 0.866 seconds/batch
+Epoch 7, Batch 850, lr = 0.00009, final_loss = 4.5787, nll_loss = 4.5215, hneg_nll_loss = 4.6359, ivc_loss = 0.0675, neg_loss = 0.0196, hneg_loss = 0.0392, push_loss = 0.3552, pull_loss = 0.0007, 0.868 seconds/batch
+Epoch 7, Batch 900, lr = 0.00009, final_loss = 4.5603, nll_loss = 4.5016, hneg_nll_loss = 4.6190, ivc_loss = 0.0691, neg_loss = 0.0202, hneg_loss = 0.0399, push_loss = 0.3505, pull_loss = 0.0006, 0.870 seconds/batch
+Epoch 7, Batch 950, lr = 0.00009, final_loss = 4.5663, nll_loss = 4.5111, hneg_nll_loss = 4.6215, ivc_loss = 0.0700, neg_loss = 0.0191, hneg_loss = 0.0419, push_loss = 0.3441, pull_loss = 0.0006, 0.871 seconds/batch
+Epoch 7, Batch 1000, lr = 0.00009, final_loss = 4.5622, nll_loss = 4.5027, hneg_nll_loss = 4.6217, ivc_loss = 0.0648, neg_loss = 0.0179, hneg_loss = 0.0381, push_loss = 0.3406, pull_loss = 0.0006, 0.873 seconds/batch
+Epoch 7, Batch 1050, lr = 0.00009, final_loss = 4.5924, nll_loss = 4.5345, hneg_nll_loss = 4.6504, ivc_loss = 0.0635, neg_loss = 0.0158, hneg_loss = 0.0384, push_loss = 0.3369, pull_loss = 0.0007, 0.874 seconds/batch
+Epoch 7, Batch 1100, lr = 0.00009, final_loss = 4.5566, nll_loss = 4.4978, hneg_nll_loss = 4.6153, ivc_loss = 0.0654, neg_loss = 0.0189, hneg_loss = 0.0372, push_loss = 0.3439, pull_loss = 0.0007, 0.874 seconds/batch
+Epoch 7, Batch 1150, lr = 0.00009, final_loss = 4.5330, nll_loss = 4.4742, hneg_nll_loss = 4.5917, ivc_loss = 0.0665, neg_loss = 0.0201, hneg_loss = 0.0373, push_loss = 0.3475, pull_loss = 0.0006, 0.869 seconds/batch
+Epoch 7, Batch 1170, lr = 0.00009, final_loss = 4.5403, nll_loss = 4.4798, hneg_nll_loss = 4.6008, ivc_loss = 0.0584, neg_loss = 0.0138, hneg_loss = 0.0353, push_loss = 0.3465, pull_loss = 0.0006, 0.867 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-7.pt, num_updates 8190.
+| Rank1,mIoU 0.1743 | Rank1,IoU@0.1 0.4824 | Rank1,IoU@0.3 0.2345 | Rank1,IoU@0.5 0.1056 | Rank5,mIoU 0.5039 | Rank5,IoU@0.1 0.9703 | Rank5,IoU@0.3 0.8365 | Rank5,IoU@0.5 0.5229 |
+============================================================
+Start Epoch 8
+Epoch 8, Batch 50, lr = 0.00009, final_loss = 4.4842, nll_loss = 4.4247, hneg_nll_loss = 4.5437, ivc_loss = 0.0647, neg_loss = 0.0172, hneg_loss = 0.0385, push_loss = 0.3427, pull_loss = 0.0006, 0.647 seconds/batch
+Epoch 8, Batch 100, lr = 0.00009, final_loss = 4.5224, nll_loss = 4.4640, hneg_nll_loss = 4.5808, ivc_loss = 0.0661, neg_loss = 0.0196, hneg_loss = 0.0379, push_loss = 0.3461, pull_loss = 0.0006, 0.674 seconds/batch
+Epoch 8, Batch 150, lr = 0.00009, final_loss = 4.5171, nll_loss = 4.4590, hneg_nll_loss = 4.5753, ivc_loss = 0.0672, neg_loss = 0.0190, hneg_loss = 0.0397, push_loss = 0.3513, pull_loss = 0.0006, 0.711 seconds/batch
+Epoch 8, Batch 200, lr = 0.00009, final_loss = 4.5072, nll_loss = 4.4489, hneg_nll_loss = 4.5655, ivc_loss = 0.0654, neg_loss = 0.0173, hneg_loss = 0.0387, push_loss = 0.3375, pull_loss = 0.0006, 0.758 seconds/batch
+Epoch 8, Batch 250, lr = 0.00009, final_loss = 4.5290, nll_loss = 4.4710, hneg_nll_loss = 4.5870, ivc_loss = 0.0670, neg_loss = 0.0181, hneg_loss = 0.0396, push_loss = 0.3343, pull_loss = 0.0006, 0.786 seconds/batch
+Epoch 8, Batch 300, lr = 0.00009, final_loss = 4.5689, nll_loss = 4.5097, hneg_nll_loss = 4.6282, ivc_loss = 0.0635, neg_loss = 0.0159, hneg_loss = 0.0387, push_loss = 0.3359, pull_loss = 0.0006, 0.805 seconds/batch
+Epoch 8, Batch 350, lr = 0.00009, final_loss = 4.5265, nll_loss = 4.4694, hneg_nll_loss = 4.5837, ivc_loss = 0.0681, neg_loss = 0.0177, hneg_loss = 0.0411, push_loss = 0.3283, pull_loss = 0.0006, 0.817 seconds/batch
+Epoch 8, Batch 400, lr = 0.00009, final_loss = 4.5144, nll_loss = 4.4563, hneg_nll_loss = 4.5724, ivc_loss = 0.0663, neg_loss = 0.0168, hneg_loss = 0.0399, push_loss = 0.3243, pull_loss = 0.0006, 0.827 seconds/batch
+Epoch 8, Batch 450, lr = 0.00009, final_loss = 4.5180, nll_loss = 4.4585, hneg_nll_loss = 4.5776, ivc_loss = 0.0645, neg_loss = 0.0183, hneg_loss = 0.0370, push_loss = 0.3365, pull_loss = 0.0006, 0.835 seconds/batch
+Epoch 8, Batch 500, lr = 0.00009, final_loss = 4.5424, nll_loss = 4.4819, hneg_nll_loss = 4.6028, ivc_loss = 0.0637, neg_loss = 0.0172, hneg_loss = 0.0373, push_loss = 0.3338, pull_loss = 0.0006, 0.843 seconds/batch
+Epoch 8, Batch 550, lr = 0.00009, final_loss = 4.5543, nll_loss = 4.4956, hneg_nll_loss = 4.6129, ivc_loss = 0.0615, neg_loss = 0.0154, hneg_loss = 0.0371, push_loss = 0.3430, pull_loss = 0.0007, 0.848 seconds/batch
+Epoch 8, Batch 600, lr = 0.00009, final_loss = 4.4921, nll_loss = 4.4342, hneg_nll_loss = 4.5500, ivc_loss = 0.0645, neg_loss = 0.0169, hneg_loss = 0.0389, push_loss = 0.3429, pull_loss = 0.0006, 0.853 seconds/batch
+Epoch 8, Batch 650, lr = 0.00009, final_loss = 4.5206, nll_loss = 4.4617, hneg_nll_loss = 4.5794, ivc_loss = 0.0646, neg_loss = 0.0171, hneg_loss = 0.0385, push_loss = 0.3364, pull_loss = 0.0005, 0.856 seconds/batch
+Epoch 8, Batch 700, lr = 0.00008, final_loss = 4.5422, nll_loss = 4.4837, hneg_nll_loss = 4.6006, ivc_loss = 0.0654, neg_loss = 0.0181, hneg_loss = 0.0382, push_loss = 0.3395, pull_loss = 0.0006, 0.859 seconds/batch
+Epoch 8, Batch 750, lr = 0.00008, final_loss = 4.5571, nll_loss = 4.5004, hneg_nll_loss = 4.6137, ivc_loss = 0.0698, neg_loss = 0.0189, hneg_loss = 0.0417, push_loss = 0.3475, pull_loss = 0.0006, 0.861 seconds/batch
+Epoch 8, Batch 800, lr = 0.00008, final_loss = 4.5048, nll_loss = 4.4453, hneg_nll_loss = 4.5642, ivc_loss = 0.0643, neg_loss = 0.0178, hneg_loss = 0.0369, push_loss = 0.3361, pull_loss = 0.0006, 0.864 seconds/batch
+Epoch 8, Batch 850, lr = 0.00008, final_loss = 4.5228, nll_loss = 4.4622, hneg_nll_loss = 4.5833, ivc_loss = 0.0657, neg_loss = 0.0193, hneg_loss = 0.0370, push_loss = 0.3342, pull_loss = 0.0005, 0.866 seconds/batch
+Epoch 8, Batch 900, lr = 0.00008, final_loss = 4.5498, nll_loss = 4.4923, hneg_nll_loss = 4.6073, ivc_loss = 0.0673, neg_loss = 0.0181, hneg_loss = 0.0397, push_loss = 0.3285, pull_loss = 0.0005, 0.868 seconds/batch
+Epoch 8, Batch 950, lr = 0.00008, final_loss = 4.5433, nll_loss = 4.4853, hneg_nll_loss = 4.6013, ivc_loss = 0.0630, neg_loss = 0.0154, hneg_loss = 0.0381, push_loss = 0.3272, pull_loss = 0.0006, 0.870 seconds/batch
+Epoch 8, Batch 1000, lr = 0.00008, final_loss = 4.5092, nll_loss = 4.4530, hneg_nll_loss = 4.5653, ivc_loss = 0.0696, neg_loss = 0.0192, hneg_loss = 0.0410, push_loss = 0.3378, pull_loss = 0.0006, 0.872 seconds/batch
+Epoch 8, Batch 1050, lr = 0.00008, final_loss = 4.5217, nll_loss = 4.4618, hneg_nll_loss = 4.5816, ivc_loss = 0.0668, neg_loss = 0.0189, hneg_loss = 0.0389, push_loss = 0.3444, pull_loss = 0.0005, 0.873 seconds/batch
+Epoch 8, Batch 1100, lr = 0.00008, final_loss = 4.4977, nll_loss = 4.4379, hneg_nll_loss = 4.5576, ivc_loss = 0.0671, neg_loss = 0.0185, hneg_loss = 0.0393, push_loss = 0.3368, pull_loss = 0.0006, 0.873 seconds/batch
+Epoch 8, Batch 1150, lr = 0.00008, final_loss = 4.5221, nll_loss = 4.4648, hneg_nll_loss = 4.5793, ivc_loss = 0.0658, neg_loss = 0.0166, hneg_loss = 0.0401, push_loss = 0.3379, pull_loss = 0.0005, 0.868 seconds/batch
+Epoch 8, Batch 1170, lr = 0.00008, final_loss = 4.5052, nll_loss = 4.4442, hneg_nll_loss = 4.5662, ivc_loss = 0.0663, neg_loss = 0.0193, hneg_loss = 0.0373, push_loss = 0.3275, pull_loss = 0.0005, 0.867 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-8.pt, num_updates 9360.
+| Rank1,mIoU 0.1724 | Rank1,IoU@0.1 0.4912 | Rank1,IoU@0.3 0.2346 | Rank1,IoU@0.5 0.0913 | Rank5,mIoU 0.5112 | Rank5,IoU@0.1 0.9671 | Rank5,IoU@0.3 0.8782 | Rank5,IoU@0.5 0.5206 |
+============================================================
+Start Epoch 9
+Epoch 9, Batch 50, lr = 0.00008, final_loss = 4.4799, nll_loss = 4.4198, hneg_nll_loss = 4.5400, ivc_loss = 0.0667, neg_loss = 0.0169, hneg_loss = 0.0398, push_loss = 0.3230, pull_loss = 0.0005, 0.642 seconds/batch
+Epoch 9, Batch 100, lr = 0.00008, final_loss = 4.4801, nll_loss = 4.4234, hneg_nll_loss = 4.5369, ivc_loss = 0.0648, neg_loss = 0.0161, hneg_loss = 0.0391, push_loss = 0.3289, pull_loss = 0.0005, 0.664 seconds/batch
+Epoch 9, Batch 150, lr = 0.00008, final_loss = 4.4993, nll_loss = 4.4398, hneg_nll_loss = 4.5588, ivc_loss = 0.0616, neg_loss = 0.0153, hneg_loss = 0.0368, push_loss = 0.3335, pull_loss = 0.0005, 0.700 seconds/batch
+Epoch 9, Batch 200, lr = 0.00008, final_loss = 4.5392, nll_loss = 4.4809, hneg_nll_loss = 4.5974, ivc_loss = 0.0657, neg_loss = 0.0172, hneg_loss = 0.0390, push_loss = 0.3305, pull_loss = 0.0005, 0.748 seconds/batch
+Epoch 9, Batch 250, lr = 0.00008, final_loss = 4.5129, nll_loss = 4.4527, hneg_nll_loss = 4.5730, ivc_loss = 0.0648, neg_loss = 0.0156, hneg_loss = 0.0398, push_loss = 0.3328, pull_loss = 0.0005, 0.779 seconds/batch
+Epoch 9, Batch 300, lr = 0.00008, final_loss = 4.4827, nll_loss = 4.4222, hneg_nll_loss = 4.5433, ivc_loss = 0.0646, neg_loss = 0.0170, hneg_loss = 0.0377, push_loss = 0.3266, pull_loss = 0.0005, 0.800 seconds/batch
+Epoch 9, Batch 350, lr = 0.00008, final_loss = 4.4913, nll_loss = 4.4343, hneg_nll_loss = 4.5483, ivc_loss = 0.0655, neg_loss = 0.0150, hneg_loss = 0.0408, push_loss = 0.3298, pull_loss = 0.0006, 0.813 seconds/batch
+Epoch 9, Batch 400, lr = 0.00008, final_loss = 4.4580, nll_loss = 4.3978, hneg_nll_loss = 4.5181, ivc_loss = 0.0622, neg_loss = 0.0151, hneg_loss = 0.0372, push_loss = 0.3317, pull_loss = 0.0008, 0.824 seconds/batch
+Epoch 9, Batch 450, lr = 0.00008, final_loss = 4.4447, nll_loss = 4.3854, hneg_nll_loss = 4.5040, ivc_loss = 0.0651, neg_loss = 0.0173, hneg_loss = 0.0384, push_loss = 0.3330, pull_loss = 0.0007, 0.834 seconds/batch
+Epoch 9, Batch 500, lr = 0.00008, final_loss = 4.4666, nll_loss = 4.4085, hneg_nll_loss = 4.5247, ivc_loss = 0.0662, neg_loss = 0.0174, hneg_loss = 0.0400, push_loss = 0.3421, pull_loss = 0.0005, 0.841 seconds/batch
+Epoch 9, Batch 550, lr = 0.00008, final_loss = 4.4339, nll_loss = 4.3729, hneg_nll_loss = 4.4949, ivc_loss = 0.0646, neg_loss = 0.0174, hneg_loss = 0.0384, push_loss = 0.3416, pull_loss = 0.0005, 0.846 seconds/batch
+Epoch 9, Batch 600, lr = 0.00008, final_loss = 4.4975, nll_loss = 4.4353, hneg_nll_loss = 4.5597, ivc_loss = 0.0623, neg_loss = 0.0158, hneg_loss = 0.0376, push_loss = 0.3371, pull_loss = 0.0005, 0.851 seconds/batch
+Epoch 9, Batch 650, lr = 0.00008, final_loss = 4.5013, nll_loss = 4.4425, hneg_nll_loss = 4.5601, ivc_loss = 0.0665, neg_loss = 0.0176, hneg_loss = 0.0396, push_loss = 0.3307, pull_loss = 0.0005, 0.854 seconds/batch
+Epoch 9, Batch 700, lr = 0.00008, final_loss = 4.4681, nll_loss = 4.4082, hneg_nll_loss = 4.5280, ivc_loss = 0.0646, neg_loss = 0.0179, hneg_loss = 0.0372, push_loss = 0.3314, pull_loss = 0.0005, 0.858 seconds/batch
+Epoch 9, Batch 750, lr = 0.00008, final_loss = 4.4973, nll_loss = 4.4356, hneg_nll_loss = 4.5591, ivc_loss = 0.0653, neg_loss = 0.0171, hneg_loss = 0.0385, push_loss = 0.3306, pull_loss = 0.0005, 0.861 seconds/batch
+Epoch 9, Batch 800, lr = 0.00008, final_loss = 4.4662, nll_loss = 4.4054, hneg_nll_loss = 4.5270, ivc_loss = 0.0647, neg_loss = 0.0168, hneg_loss = 0.0381, push_loss = 0.3292, pull_loss = 0.0005, 0.863 seconds/batch
+Epoch 9, Batch 850, lr = 0.00008, final_loss = 4.4687, nll_loss = 4.4109, hneg_nll_loss = 4.5265, ivc_loss = 0.0649, neg_loss = 0.0165, hneg_loss = 0.0390, push_loss = 0.3373, pull_loss = 0.0005, 0.865 seconds/batch
+Epoch 9, Batch 900, lr = 0.00008, final_loss = 4.4589, nll_loss = 4.3972, hneg_nll_loss = 4.5207, ivc_loss = 0.0635, neg_loss = 0.0181, hneg_loss = 0.0362, push_loss = 0.3354, pull_loss = 0.0004, 0.866 seconds/batch
+Epoch 9, Batch 950, lr = 0.00008, final_loss = 4.5106, nll_loss = 4.4526, hneg_nll_loss = 4.5686, ivc_loss = 0.0677, neg_loss = 0.0186, hneg_loss = 0.0396, push_loss = 0.3347, pull_loss = 0.0004, 0.868 seconds/batch
+Epoch 9, Batch 1000, lr = 0.00008, final_loss = 4.4765, nll_loss = 4.4185, hneg_nll_loss = 4.5345, ivc_loss = 0.0663, neg_loss = 0.0175, hneg_loss = 0.0393, push_loss = 0.3324, pull_loss = 0.0005, 0.869 seconds/batch
+Epoch 9, Batch 1050, lr = 0.00008, final_loss = 4.4880, nll_loss = 4.4268, hneg_nll_loss = 4.5492, ivc_loss = 0.0650, neg_loss = 0.0187, hneg_loss = 0.0371, push_loss = 0.3323, pull_loss = 0.0005, 0.870 seconds/batch
+Epoch 9, Batch 1100, lr = 0.00008, final_loss = 4.4667, nll_loss = 4.4065, hneg_nll_loss = 4.5269, ivc_loss = 0.0662, neg_loss = 0.0190, hneg_loss = 0.0383, push_loss = 0.3409, pull_loss = 0.0005, 0.871 seconds/batch
+Epoch 9, Batch 1150, lr = 0.00008, final_loss = 4.5113, nll_loss = 4.4513, hneg_nll_loss = 4.5713, ivc_loss = 0.0642, neg_loss = 0.0170, hneg_loss = 0.0384, push_loss = 0.3406, pull_loss = 0.0004, 0.867 seconds/batch
+Epoch 9, Batch 1170, lr = 0.00008, final_loss = 4.4959, nll_loss = 4.4365, hneg_nll_loss = 4.5554, ivc_loss = 0.0667, neg_loss = 0.0154, hneg_loss = 0.0425, push_loss = 0.3405, pull_loss = 0.0005, 0.865 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-9.pt, num_updates 10530.
+| Rank1,mIoU 0.1734 | Rank1,IoU@0.1 0.4804 | Rank1,IoU@0.3 0.2313 | Rank1,IoU@0.5 0.1073 | Rank5,mIoU 0.5113 | Rank5,IoU@0.1 0.9719 | Rank5,IoU@0.3 0.8381 | Rank5,IoU@0.5 0.5301 |
+============================================================
+Start Epoch 10
+Epoch 10, Batch 50, lr = 0.00008, final_loss = 4.4327, nll_loss = 4.3746, hneg_nll_loss = 4.4908, ivc_loss = 0.0660, neg_loss = 0.0160, hneg_loss = 0.0413, push_loss = 0.3357, pull_loss = 0.0005, 0.654 seconds/batch
+Epoch 10, Batch 100, lr = 0.00008, final_loss = 4.4503, nll_loss = 4.3884, hneg_nll_loss = 4.5122, ivc_loss = 0.0620, neg_loss = 0.0152, hneg_loss = 0.0377, push_loss = 0.3328, pull_loss = 0.0005, 0.661 seconds/batch
+Epoch 10, Batch 150, lr = 0.00008, final_loss = 4.4240, nll_loss = 4.3617, hneg_nll_loss = 4.4863, ivc_loss = 0.0611, neg_loss = 0.0153, hneg_loss = 0.0368, push_loss = 0.3325, pull_loss = 0.0005, 0.698 seconds/batch
+Epoch 10, Batch 200, lr = 0.00008, final_loss = 4.4170, nll_loss = 4.3565, hneg_nll_loss = 4.4774, ivc_loss = 0.0634, neg_loss = 0.0150, hneg_loss = 0.0391, push_loss = 0.3292, pull_loss = 0.0005, 0.742 seconds/batch
+Epoch 10, Batch 250, lr = 0.00008, final_loss = 4.4501, nll_loss = 4.3914, hneg_nll_loss = 4.5088, ivc_loss = 0.0656, neg_loss = 0.0155, hneg_loss = 0.0405, push_loss = 0.3203, pull_loss = 0.0004, 0.772 seconds/batch
+Epoch 10, Batch 300, lr = 0.00008, final_loss = 4.4359, nll_loss = 4.3774, hneg_nll_loss = 4.4944, ivc_loss = 0.0662, neg_loss = 0.0168, hneg_loss = 0.0397, push_loss = 0.3185, pull_loss = 0.0004, 0.792 seconds/batch
+Epoch 10, Batch 350, lr = 0.00008, final_loss = 4.4353, nll_loss = 4.3743, hneg_nll_loss = 4.4962, ivc_loss = 0.0614, neg_loss = 0.0138, hneg_loss = 0.0381, push_loss = 0.3264, pull_loss = 0.0005, 0.807 seconds/batch
+Epoch 10, Batch 400, lr = 0.00008, final_loss = 4.4585, nll_loss = 4.4009, hneg_nll_loss = 4.5160, ivc_loss = 0.0670, neg_loss = 0.0187, hneg_loss = 0.0390, push_loss = 0.3308, pull_loss = 0.0004, 0.819 seconds/batch
+Epoch 10, Batch 450, lr = 0.00008, final_loss = 4.4384, nll_loss = 4.3777, hneg_nll_loss = 4.4991, ivc_loss = 0.0631, neg_loss = 0.0148, hneg_loss = 0.0391, push_loss = 0.3303, pull_loss = 0.0004, 0.828 seconds/batch
+Epoch 10, Batch 500, lr = 0.00008, final_loss = 4.4747, nll_loss = 4.4145, hneg_nll_loss = 4.5349, ivc_loss = 0.0645, neg_loss = 0.0154, hneg_loss = 0.0397, push_loss = 0.3272, pull_loss = 0.0004, 0.836 seconds/batch
+Epoch 10, Batch 550, lr = 0.00008, final_loss = 4.4451, nll_loss = 4.3831, hneg_nll_loss = 4.5071, ivc_loss = 0.0620, neg_loss = 0.0165, hneg_loss = 0.0359, push_loss = 0.3254, pull_loss = 0.0004, 0.842 seconds/batch
+Epoch 10, Batch 600, lr = 0.00008, final_loss = 4.4575, nll_loss = 4.3953, hneg_nll_loss = 4.5198, ivc_loss = 0.0657, neg_loss = 0.0183, hneg_loss = 0.0376, push_loss = 0.3216, pull_loss = 0.0004, 0.846 seconds/batch
+Epoch 10, Batch 650, lr = 0.00008, final_loss = 4.5032, nll_loss = 4.4385, hneg_nll_loss = 4.5679, ivc_loss = 0.0592, neg_loss = 0.0138, hneg_loss = 0.0361, push_loss = 0.3226, pull_loss = 0.0004, 0.850 seconds/batch
+Epoch 10, Batch 700, lr = 0.00008, final_loss = 4.4474, nll_loss = 4.3864, hneg_nll_loss = 4.5084, ivc_loss = 0.0636, neg_loss = 0.0158, hneg_loss = 0.0385, push_loss = 0.3241, pull_loss = 0.0004, 0.854 seconds/batch
+Epoch 10, Batch 750, lr = 0.00008, final_loss = 4.4603, nll_loss = 4.3987, hneg_nll_loss = 4.5220, ivc_loss = 0.0626, neg_loss = 0.0144, hneg_loss = 0.0387, push_loss = 0.3202, pull_loss = 0.0004, 0.857 seconds/batch
+Epoch 10, Batch 800, lr = 0.00008, final_loss = 4.4686, nll_loss = 4.4066, hneg_nll_loss = 4.5306, ivc_loss = 0.0616, neg_loss = 0.0148, hneg_loss = 0.0368, push_loss = 0.3161, pull_loss = 0.0004, 0.860 seconds/batch
+Epoch 10, Batch 850, lr = 0.00007, final_loss = 4.4247, nll_loss = 4.3640, hneg_nll_loss = 4.4854, ivc_loss = 0.0634, neg_loss = 0.0143, hneg_loss = 0.0391, push_loss = 0.3082, pull_loss = 0.0004, 0.862 seconds/batch
+Epoch 10, Batch 900, lr = 0.00007, final_loss = 4.4470, nll_loss = 4.3856, hneg_nll_loss = 4.5083, ivc_loss = 0.0633, neg_loss = 0.0179, hneg_loss = 0.0358, push_loss = 0.3148, pull_loss = 0.0004, 0.865 seconds/batch
+Epoch 10, Batch 950, lr = 0.00007, final_loss = 4.4200, nll_loss = 4.3589, hneg_nll_loss = 4.4811, ivc_loss = 0.0655, neg_loss = 0.0171, hneg_loss = 0.0387, push_loss = 0.3190, pull_loss = 0.0004, 0.867 seconds/batch
+Epoch 10, Batch 1000, lr = 0.00007, final_loss = 4.4326, nll_loss = 4.3706, hneg_nll_loss = 4.4946, ivc_loss = 0.0619, neg_loss = 0.0148, hneg_loss = 0.0377, push_loss = 0.3188, pull_loss = 0.0004, 0.868 seconds/batch
+Epoch 10, Batch 1050, lr = 0.00007, final_loss = 4.4428, nll_loss = 4.3820, hneg_nll_loss = 4.5036, ivc_loss = 0.0616, neg_loss = 0.0145, hneg_loss = 0.0379, push_loss = 0.3227, pull_loss = 0.0004, 0.870 seconds/batch
+Epoch 10, Batch 1100, lr = 0.00007, final_loss = 4.4999, nll_loss = 4.4405, hneg_nll_loss = 4.5594, ivc_loss = 0.0641, neg_loss = 0.0156, hneg_loss = 0.0390, push_loss = 0.3265, pull_loss = 0.0004, 0.871 seconds/batch
+Epoch 10, Batch 1150, lr = 0.00007, final_loss = 4.4584, nll_loss = 4.3974, hneg_nll_loss = 4.5194, ivc_loss = 0.0649, neg_loss = 0.0152, hneg_loss = 0.0399, push_loss = 0.3259, pull_loss = 0.0004, 0.867 seconds/batch
+Epoch 10, Batch 1170, lr = 0.00007, final_loss = 4.4272, nll_loss = 4.3661, hneg_nll_loss = 4.4883, ivc_loss = 0.0724, neg_loss = 0.0204, hneg_loss = 0.0422, push_loss = 0.3307, pull_loss = 0.0004, 0.865 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-10.pt, num_updates 11700.
+| Rank1,mIoU 0.1724 | Rank1,IoU@0.1 0.4865 | Rank1,IoU@0.3 0.2328 | Rank1,IoU@0.5 0.0912 | Rank5,mIoU 0.5054 | Rank5,IoU@0.1 0.9664 | Rank5,IoU@0.3 0.8237 | Rank5,IoU@0.5 0.5209 |
+============================================================
+Start Epoch 11
+Epoch 11, Batch 50, lr = 0.00007, final_loss = 4.3990, nll_loss = 4.3361, hneg_nll_loss = 4.4619, ivc_loss = 0.0610, neg_loss = 0.0146, hneg_loss = 0.0365, push_loss = 0.3356, pull_loss = 0.0004, 0.645 seconds/batch
+Epoch 11, Batch 100, lr = 0.00007, final_loss = 4.4102, nll_loss = 4.3489, hneg_nll_loss = 4.4716, ivc_loss = 0.0644, neg_loss = 0.0161, hneg_loss = 0.0391, push_loss = 0.3373, pull_loss = 0.0004, 0.650 seconds/batch
+Epoch 11, Batch 150, lr = 0.00007, final_loss = 4.4247, nll_loss = 4.3637, hneg_nll_loss = 4.4858, ivc_loss = 0.0631, neg_loss = 0.0141, hneg_loss = 0.0389, push_loss = 0.3307, pull_loss = 0.0005, 0.690 seconds/batch
+Epoch 11, Batch 200, lr = 0.00007, final_loss = 4.4255, nll_loss = 4.3634, hneg_nll_loss = 4.4876, ivc_loss = 0.0594, neg_loss = 0.0111, hneg_loss = 0.0379, push_loss = 0.3274, pull_loss = 0.0006, 0.733 seconds/batch
+Epoch 11, Batch 250, lr = 0.00007, final_loss = 4.4217, nll_loss = 4.3583, hneg_nll_loss = 4.4851, ivc_loss = 0.0621, neg_loss = 0.0137, hneg_loss = 0.0379, push_loss = 0.3263, pull_loss = 0.0010, 0.768 seconds/batch
+Epoch 11, Batch 300, lr = 0.00007, final_loss = 4.3985, nll_loss = 4.3385, hneg_nll_loss = 4.4586, ivc_loss = 0.0639, neg_loss = 0.0144, hneg_loss = 0.0391, push_loss = 0.3227, pull_loss = 0.0006, 0.788 seconds/batch
+Epoch 11, Batch 350, lr = 0.00007, final_loss = 4.4059, nll_loss = 4.3466, hneg_nll_loss = 4.4652, ivc_loss = 0.0645, neg_loss = 0.0150, hneg_loss = 0.0391, push_loss = 0.3279, pull_loss = 0.0006, 0.804 seconds/batch
+Epoch 11, Batch 400, lr = 0.00007, final_loss = 4.3869, nll_loss = 4.3251, hneg_nll_loss = 4.4487, ivc_loss = 0.0644, neg_loss = 0.0155, hneg_loss = 0.0388, push_loss = 0.3308, pull_loss = 0.0005, 0.816 seconds/batch
+Epoch 11, Batch 450, lr = 0.00007, final_loss = 4.4163, nll_loss = 4.3533, hneg_nll_loss = 4.4793, ivc_loss = 0.0609, neg_loss = 0.0136, hneg_loss = 0.0373, push_loss = 0.3289, pull_loss = 0.0004, 0.825 seconds/batch
+Epoch 11, Batch 500, lr = 0.00007, final_loss = 4.4109, nll_loss = 4.3510, hneg_nll_loss = 4.4708, ivc_loss = 0.0672, neg_loss = 0.0153, hneg_loss = 0.0416, push_loss = 0.3256, pull_loss = 0.0004, 0.834 seconds/batch
+Epoch 11, Batch 550, lr = 0.00007, final_loss = 4.4555, nll_loss = 4.3955, hneg_nll_loss = 4.5155, ivc_loss = 0.0638, neg_loss = 0.0152, hneg_loss = 0.0384, push_loss = 0.3269, pull_loss = 0.0004, 0.839 seconds/batch
+Epoch 11, Batch 600, lr = 0.00007, final_loss = 4.4205, nll_loss = 4.3588, hneg_nll_loss = 4.4823, ivc_loss = 0.0614, neg_loss = 0.0152, hneg_loss = 0.0362, push_loss = 0.3247, pull_loss = 0.0004, 0.845 seconds/batch
+Epoch 11, Batch 650, lr = 0.00007, final_loss = 4.4075, nll_loss = 4.3449, hneg_nll_loss = 4.4700, ivc_loss = 0.0620, neg_loss = 0.0158, hneg_loss = 0.0362, push_loss = 0.3258, pull_loss = 0.0004, 0.849 seconds/batch
+Epoch 11, Batch 700, lr = 0.00007, final_loss = 4.4464, nll_loss = 4.3851, hneg_nll_loss = 4.5077, ivc_loss = 0.0632, neg_loss = 0.0142, hneg_loss = 0.0390, push_loss = 0.3205, pull_loss = 0.0004, 0.853 seconds/batch
+Epoch 11, Batch 750, lr = 0.00007, final_loss = 4.3920, nll_loss = 4.3297, hneg_nll_loss = 4.4544, ivc_loss = 0.0607, neg_loss = 0.0148, hneg_loss = 0.0360, push_loss = 0.3225, pull_loss = 0.0004, 0.856 seconds/batch
+Epoch 11, Batch 800, lr = 0.00007, final_loss = 4.4092, nll_loss = 4.3485, hneg_nll_loss = 4.4698, ivc_loss = 0.0622, neg_loss = 0.0142, hneg_loss = 0.0384, push_loss = 0.3230, pull_loss = 0.0004, 0.859 seconds/batch
+Epoch 11, Batch 850, lr = 0.00007, final_loss = 4.3872, nll_loss = 4.3239, hneg_nll_loss = 4.4505, ivc_loss = 0.0610, neg_loss = 0.0140, hneg_loss = 0.0372, push_loss = 0.3179, pull_loss = 0.0004, 0.861 seconds/batch
+Epoch 11, Batch 900, lr = 0.00007, final_loss = 4.3784, nll_loss = 4.3139, hneg_nll_loss = 4.4430, ivc_loss = 0.0621, neg_loss = 0.0153, hneg_loss = 0.0371, push_loss = 0.3221, pull_loss = 0.0005, 0.863 seconds/batch
+Epoch 11, Batch 950, lr = 0.00007, final_loss = 4.3858, nll_loss = 4.3255, hneg_nll_loss = 4.4461, ivc_loss = 0.0613, neg_loss = 0.0139, hneg_loss = 0.0380, push_loss = 0.3263, pull_loss = 0.0005, 0.865 seconds/batch
+Epoch 11, Batch 1000, lr = 0.00007, final_loss = 4.4238, nll_loss = 4.3608, hneg_nll_loss = 4.4868, ivc_loss = 0.0613, neg_loss = 0.0142, hneg_loss = 0.0379, push_loss = 0.3232, pull_loss = 0.0004, 0.866 seconds/batch
+Epoch 11, Batch 1050, lr = 0.00007, final_loss = 4.4397, nll_loss = 4.3796, hneg_nll_loss = 4.4997, ivc_loss = 0.0621, neg_loss = 0.0151, hneg_loss = 0.0377, push_loss = 0.3253, pull_loss = 0.0004, 0.868 seconds/batch
+Epoch 11, Batch 1100, lr = 0.00007, final_loss = 4.4018, nll_loss = 4.3377, hneg_nll_loss = 4.4660, ivc_loss = 0.0589, neg_loss = 0.0136, hneg_loss = 0.0360, push_loss = 0.3248, pull_loss = 0.0004, 0.870 seconds/batch
+Epoch 11, Batch 1150, lr = 0.00007, final_loss = 4.4209, nll_loss = 4.3577, hneg_nll_loss = 4.4841, ivc_loss = 0.0649, neg_loss = 0.0146, hneg_loss = 0.0399, push_loss = 0.3186, pull_loss = 0.0008, 0.866 seconds/batch
+Epoch 11, Batch 1170, lr = 0.00007, final_loss = 4.4004, nll_loss = 4.3391, hneg_nll_loss = 4.4616, ivc_loss = 0.0620, neg_loss = 0.0087, hneg_loss = 0.0415, push_loss = 0.3144, pull_loss = 0.0019, 0.864 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-11.pt, num_updates 12870.
+| Rank1,mIoU 0.1959 | Rank1,IoU@0.1 0.4883 | Rank1,IoU@0.3 0.2481 | Rank1,IoU@0.5 0.1437 | Rank5,mIoU 0.5487 | Rank5,IoU@0.1 0.9645 | Rank5,IoU@0.3 0.8704 | Rank5,IoU@0.5 0.5873 |
+============================================================
+Start Epoch 12
+Epoch 12, Batch 50, lr = 0.00007, final_loss = 4.3562, nll_loss = 4.2978, hneg_nll_loss = 4.4146, ivc_loss = 0.0631, neg_loss = 0.0109, hneg_loss = 0.0399, push_loss = 0.3001, pull_loss = 0.0025, 0.644 seconds/batch
+Epoch 12, Batch 100, lr = 0.00007, final_loss = 4.3585, nll_loss = 4.2968, hneg_nll_loss = 4.4202, ivc_loss = 0.0600, neg_loss = 0.0107, hneg_loss = 0.0377, push_loss = 0.3057, pull_loss = 0.0020, 0.643 seconds/batch
+Epoch 12, Batch 150, lr = 0.00007, final_loss = 4.3988, nll_loss = 4.3374, hneg_nll_loss = 4.4601, ivc_loss = 0.0621, neg_loss = 0.0126, hneg_loss = 0.0391, push_loss = 0.3119, pull_loss = 0.0007, 0.685 seconds/batch
+Epoch 12, Batch 200, lr = 0.00007, final_loss = 4.3653, nll_loss = 4.3053, hneg_nll_loss = 4.4253, ivc_loss = 0.0613, neg_loss = 0.0118, hneg_loss = 0.0385, push_loss = 0.3020, pull_loss = 0.0015, 0.723 seconds/batch
+Epoch 12, Batch 250, lr = 0.00007, final_loss = 4.4055, nll_loss = 4.3444, hneg_nll_loss = 4.4666, ivc_loss = 0.0601, neg_loss = 0.0105, hneg_loss = 0.0380, push_loss = 0.3067, pull_loss = 0.0022, 0.759 seconds/batch
+Epoch 12, Batch 300, lr = 0.00007, final_loss = 4.3722, nll_loss = 4.3108, hneg_nll_loss = 4.4337, ivc_loss = 0.0595, neg_loss = 0.0109, hneg_loss = 0.0378, push_loss = 0.3171, pull_loss = 0.0015, 0.782 seconds/batch
+Epoch 12, Batch 350, lr = 0.00007, final_loss = 4.4003, nll_loss = 4.3381, hneg_nll_loss = 4.4624, ivc_loss = 0.0582, neg_loss = 0.0112, hneg_loss = 0.0367, push_loss = 0.3203, pull_loss = 0.0011, 0.800 seconds/batch
+Epoch 12, Batch 400, lr = 0.00007, final_loss = 4.4075, nll_loss = 4.3471, hneg_nll_loss = 4.4678, ivc_loss = 0.0627, neg_loss = 0.0127, hneg_loss = 0.0398, push_loss = 0.3174, pull_loss = 0.0008, 0.814 seconds/batch
+Epoch 12, Batch 450, lr = 0.00007, final_loss = 4.3657, nll_loss = 4.3045, hneg_nll_loss = 4.4269, ivc_loss = 0.0639, neg_loss = 0.0142, hneg_loss = 0.0393, push_loss = 0.3154, pull_loss = 0.0007, 0.826 seconds/batch
+Epoch 12, Batch 500, lr = 0.00007, final_loss = 4.3552, nll_loss = 4.2936, hneg_nll_loss = 4.4168, ivc_loss = 0.0608, neg_loss = 0.0127, hneg_loss = 0.0377, push_loss = 0.3141, pull_loss = 0.0007, 0.833 seconds/batch
+Epoch 12, Batch 550, lr = 0.00007, final_loss = 4.3913, nll_loss = 4.3323, hneg_nll_loss = 4.4504, ivc_loss = 0.0653, neg_loss = 0.0162, hneg_loss = 0.0391, push_loss = 0.3127, pull_loss = 0.0007, 0.839 seconds/batch
+Epoch 12, Batch 600, lr = 0.00007, final_loss = 4.3875, nll_loss = 4.3270, hneg_nll_loss = 4.4480, ivc_loss = 0.0639, neg_loss = 0.0152, hneg_loss = 0.0384, push_loss = 0.3110, pull_loss = 0.0006, 0.845 seconds/batch
+Epoch 12, Batch 650, lr = 0.00007, final_loss = 4.3720, nll_loss = 4.3091, hneg_nll_loss = 4.4350, ivc_loss = 0.0610, neg_loss = 0.0125, hneg_loss = 0.0379, push_loss = 0.3085, pull_loss = 0.0006, 0.850 seconds/batch
+Epoch 12, Batch 700, lr = 0.00007, final_loss = 4.3816, nll_loss = 4.3213, hneg_nll_loss = 4.4420, ivc_loss = 0.0608, neg_loss = 0.0124, hneg_loss = 0.0378, push_loss = 0.3087, pull_loss = 0.0007, 0.854 seconds/batch
+Epoch 12, Batch 750, lr = 0.00007, final_loss = 4.3866, nll_loss = 4.3248, hneg_nll_loss = 4.4484, ivc_loss = 0.0620, neg_loss = 0.0125, hneg_loss = 0.0392, push_loss = 0.3128, pull_loss = 0.0006, 0.857 seconds/batch
+Epoch 12, Batch 800, lr = 0.00007, final_loss = 4.4130, nll_loss = 4.3523, hneg_nll_loss = 4.4736, ivc_loss = 0.0630, neg_loss = 0.0123, hneg_loss = 0.0401, push_loss = 0.3089, pull_loss = 0.0006, 0.860 seconds/batch
+Epoch 12, Batch 850, lr = 0.00007, final_loss = 4.3621, nll_loss = 4.3004, hneg_nll_loss = 4.4237, ivc_loss = 0.0628, neg_loss = 0.0132, hneg_loss = 0.0388, push_loss = 0.3097, pull_loss = 0.0007, 0.863 seconds/batch
+Epoch 12, Batch 900, lr = 0.00007, final_loss = 4.4063, nll_loss = 4.3446, hneg_nll_loss = 4.4679, ivc_loss = 0.0593, neg_loss = 0.0101, hneg_loss = 0.0380, push_loss = 0.3091, pull_loss = 0.0009, 0.865 seconds/batch
+Epoch 12, Batch 950, lr = 0.00007, final_loss = 4.4338, nll_loss = 4.3699, hneg_nll_loss = 4.4977, ivc_loss = 0.0583, neg_loss = 0.0121, hneg_loss = 0.0356, push_loss = 0.3095, pull_loss = 0.0007, 0.867 seconds/batch
+Epoch 12, Batch 1000, lr = 0.00007, final_loss = 4.3872, nll_loss = 4.3270, hneg_nll_loss = 4.4474, ivc_loss = 0.0638, neg_loss = 0.0125, hneg_loss = 0.0406, push_loss = 0.3101, pull_loss = 0.0008, 0.869 seconds/batch
+Epoch 12, Batch 1050, lr = 0.00007, final_loss = 4.4000, nll_loss = 4.3370, hneg_nll_loss = 4.4631, ivc_loss = 0.0606, neg_loss = 0.0129, hneg_loss = 0.0374, push_loss = 0.3117, pull_loss = 0.0006, 0.870 seconds/batch
+Epoch 12, Batch 1100, lr = 0.00007, final_loss = 4.3494, nll_loss = 4.2903, hneg_nll_loss = 4.4085, ivc_loss = 0.0637, neg_loss = 0.0123, hneg_loss = 0.0412, push_loss = 0.3156, pull_loss = 0.0006, 0.872 seconds/batch
+Epoch 12, Batch 1150, lr = 0.00007, final_loss = 4.3918, nll_loss = 4.3315, hneg_nll_loss = 4.4521, ivc_loss = 0.0632, neg_loss = 0.0130, hneg_loss = 0.0401, push_loss = 0.3159, pull_loss = 0.0005, 0.868 seconds/batch
+Epoch 12, Batch 1170, lr = 0.00007, final_loss = 4.3645, nll_loss = 4.3013, hneg_nll_loss = 4.4277, ivc_loss = 0.0630, neg_loss = 0.0135, hneg_loss = 0.0395, push_loss = 0.3175, pull_loss = 0.0005, 0.866 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-12.pt, num_updates 14040.
+| Rank1,mIoU 0.1583 | Rank1,IoU@0.1 0.4774 | Rank1,IoU@0.3 0.1981 | Rank1,IoU@0.5 0.0804 | Rank5,mIoU 0.5281 | Rank5,IoU@0.1 0.9701 | Rank5,IoU@0.3 0.8735 | Rank5,IoU@0.5 0.5770 |
+============================================================
+Start Epoch 13
+Epoch 13, Batch 50, lr = 0.00007, final_loss = 4.3474, nll_loss = 4.2869, hneg_nll_loss = 4.4079, ivc_loss = 0.0628, neg_loss = 0.0127, hneg_loss = 0.0399, push_loss = 0.3168, pull_loss = 0.0005, 0.645 seconds/batch
+Epoch 13, Batch 100, lr = 0.00007, final_loss = 4.3540, nll_loss = 4.2943, hneg_nll_loss = 4.4136, ivc_loss = 0.0622, neg_loss = 0.0119, hneg_loss = 0.0399, push_loss = 0.3127, pull_loss = 0.0005, 0.643 seconds/batch
+Epoch 13, Batch 150, lr = 0.00007, final_loss = 4.3451, nll_loss = 4.2848, hneg_nll_loss = 4.4054, ivc_loss = 0.0623, neg_loss = 0.0115, hneg_loss = 0.0403, push_loss = 0.3113, pull_loss = 0.0005, 0.683 seconds/batch
+Epoch 13, Batch 200, lr = 0.00007, final_loss = 4.3384, nll_loss = 4.2792, hneg_nll_loss = 4.3975, ivc_loss = 0.0637, neg_loss = 0.0129, hneg_loss = 0.0404, push_loss = 0.3108, pull_loss = 0.0005, 0.722 seconds/batch
+Epoch 13, Batch 250, lr = 0.00007, final_loss = 4.3540, nll_loss = 4.2931, hneg_nll_loss = 4.4150, ivc_loss = 0.0645, neg_loss = 0.0137, hneg_loss = 0.0404, push_loss = 0.3114, pull_loss = 0.0004, 0.758 seconds/batch
+Epoch 13, Batch 300, lr = 0.00007, final_loss = 4.3696, nll_loss = 4.3063, hneg_nll_loss = 4.4328, ivc_loss = 0.0636, neg_loss = 0.0142, hneg_loss = 0.0390, push_loss = 0.3106, pull_loss = 0.0004, 0.782 seconds/batch
+Epoch 13, Batch 350, lr = 0.00007, final_loss = 4.3697, nll_loss = 4.3057, hneg_nll_loss = 4.4337, ivc_loss = 0.0559, neg_loss = 0.0085, hneg_loss = 0.0368, push_loss = 0.3092, pull_loss = 0.0005, 0.799 seconds/batch
+Epoch 13, Batch 400, lr = 0.00007, final_loss = 4.3699, nll_loss = 4.3108, hneg_nll_loss = 4.4289, ivc_loss = 0.0646, neg_loss = 0.0120, hneg_loss = 0.0421, push_loss = 0.3105, pull_loss = 0.0006, 0.811 seconds/batch
+Epoch 13, Batch 450, lr = 0.00007, final_loss = 4.3553, nll_loss = 4.2952, hneg_nll_loss = 4.4155, ivc_loss = 0.0649, neg_loss = 0.0126, hneg_loss = 0.0417, push_loss = 0.3094, pull_loss = 0.0005, 0.821 seconds/batch
+Epoch 13, Batch 500, lr = 0.00007, final_loss = 4.3789, nll_loss = 4.3178, hneg_nll_loss = 4.4399, ivc_loss = 0.0592, neg_loss = 0.0104, hneg_loss = 0.0383, push_loss = 0.3123, pull_loss = 0.0005, 0.829 seconds/batch
+Epoch 13, Batch 550, lr = 0.00007, final_loss = 4.3546, nll_loss = 4.2929, hneg_nll_loss = 4.4163, ivc_loss = 0.0637, neg_loss = 0.0132, hneg_loss = 0.0400, push_loss = 0.3135, pull_loss = 0.0004, 0.836 seconds/batch
+Epoch 13, Batch 600, lr = 0.00007, final_loss = 4.3569, nll_loss = 4.2954, hneg_nll_loss = 4.4185, ivc_loss = 0.0613, neg_loss = 0.0116, hneg_loss = 0.0396, push_loss = 0.3147, pull_loss = 0.0004, 0.842 seconds/batch
+Epoch 13, Batch 650, lr = 0.00007, final_loss = 4.3248, nll_loss = 4.2621, hneg_nll_loss = 4.3875, ivc_loss = 0.0588, neg_loss = 0.0115, hneg_loss = 0.0372, push_loss = 0.3125, pull_loss = 0.0004, 0.846 seconds/batch
+Epoch 13, Batch 700, lr = 0.00007, final_loss = 4.3621, nll_loss = 4.3011, hneg_nll_loss = 4.4232, ivc_loss = 0.0629, neg_loss = 0.0130, hneg_loss = 0.0399, push_loss = 0.3131, pull_loss = 0.0004, 0.850 seconds/batch
+Epoch 13, Batch 750, lr = 0.00007, final_loss = 4.3418, nll_loss = 4.2807, hneg_nll_loss = 4.4029, ivc_loss = 0.0610, neg_loss = 0.0128, hneg_loss = 0.0380, push_loss = 0.3101, pull_loss = 0.0004, 0.853 seconds/batch
+Epoch 13, Batch 800, lr = 0.00007, final_loss = 4.3505, nll_loss = 4.2903, hneg_nll_loss = 4.4107, ivc_loss = 0.0658, neg_loss = 0.0131, hneg_loss = 0.0422, push_loss = 0.3076, pull_loss = 0.0004, 0.856 seconds/batch
+Epoch 13, Batch 850, lr = 0.00007, final_loss = 4.3479, nll_loss = 4.2855, hneg_nll_loss = 4.4104, ivc_loss = 0.0633, neg_loss = 0.0129, hneg_loss = 0.0400, push_loss = 0.3055, pull_loss = 0.0004, 0.859 seconds/batch
+Epoch 13, Batch 900, lr = 0.00007, final_loss = 4.3629, nll_loss = 4.3006, hneg_nll_loss = 4.4252, ivc_loss = 0.0653, neg_loss = 0.0141, hneg_loss = 0.0408, push_loss = 0.3044, pull_loss = 0.0004, 0.861 seconds/batch
+Epoch 13, Batch 950, lr = 0.00007, final_loss = 4.3626, nll_loss = 4.2999, hneg_nll_loss = 4.4252, ivc_loss = 0.0623, neg_loss = 0.0126, hneg_loss = 0.0394, push_loss = 0.3067, pull_loss = 0.0004, 0.863 seconds/batch
+Epoch 13, Batch 1000, lr = 0.00007, final_loss = 4.3784, nll_loss = 4.3180, hneg_nll_loss = 4.4387, ivc_loss = 0.0655, neg_loss = 0.0147, hneg_loss = 0.0405, push_loss = 0.3067, pull_loss = 0.0004, 0.865 seconds/batch
+Epoch 13, Batch 1050, lr = 0.00007, final_loss = 4.3446, nll_loss = 4.2852, hneg_nll_loss = 4.4041, ivc_loss = 0.0656, neg_loss = 0.0128, hneg_loss = 0.0423, push_loss = 0.3055, pull_loss = 0.0004, 0.867 seconds/batch
+Epoch 13, Batch 1100, lr = 0.00007, final_loss = 4.3325, nll_loss = 4.2702, hneg_nll_loss = 4.3947, ivc_loss = 0.0623, neg_loss = 0.0120, hneg_loss = 0.0399, push_loss = 0.3062, pull_loss = 0.0005, 0.868 seconds/batch
+Epoch 13, Batch 1150, lr = 0.00006, final_loss = 4.3329, nll_loss = 4.2707, hneg_nll_loss = 4.3951, ivc_loss = 0.0635, neg_loss = 0.0137, hneg_loss = 0.0392, push_loss = 0.3056, pull_loss = 0.0005, 0.865 seconds/batch
+Epoch 13, Batch 1170, lr = 0.00006, final_loss = 4.3804, nll_loss = 4.3196, hneg_nll_loss = 4.4413, ivc_loss = 0.0592, neg_loss = 0.0108, hneg_loss = 0.0374, push_loss = 0.3035, pull_loss = 0.0004, 0.863 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-13.pt, num_updates 15210.
+| Rank1,mIoU 0.1657 | Rank1,IoU@0.1 0.4809 | Rank1,IoU@0.3 0.2181 | Rank1,IoU@0.5 0.0841 | Rank5,mIoU 0.5388 | Rank5,IoU@0.1 0.9669 | Rank5,IoU@0.3 0.8869 | Rank5,IoU@0.5 0.5867 |
+============================================================
+Start Epoch 14
+Epoch 14, Batch 50, lr = 0.00006, final_loss = 4.3055, nll_loss = 4.2425, hneg_nll_loss = 4.3684, ivc_loss = 0.0608, neg_loss = 0.0114, hneg_loss = 0.0382, push_loss = 0.3018, pull_loss = 0.0005, 0.654 seconds/batch
+Epoch 14, Batch 100, lr = 0.00006, final_loss = 4.3073, nll_loss = 4.2433, hneg_nll_loss = 4.3714, ivc_loss = 0.0588, neg_loss = 0.0097, hneg_loss = 0.0383, push_loss = 0.3008, pull_loss = 0.0005, 0.648 seconds/batch
+Epoch 14, Batch 150, lr = 0.00006, final_loss = 4.3269, nll_loss = 4.2650, hneg_nll_loss = 4.3888, ivc_loss = 0.0619, neg_loss = 0.0105, hneg_loss = 0.0402, push_loss = 0.2999, pull_loss = 0.0005, 0.686 seconds/batch
+Epoch 14, Batch 200, lr = 0.00006, final_loss = 4.3125, nll_loss = 4.2499, hneg_nll_loss = 4.3752, ivc_loss = 0.0585, neg_loss = 0.0092, hneg_loss = 0.0381, push_loss = 0.3007, pull_loss = 0.0004, 0.723 seconds/batch
+Epoch 14, Batch 250, lr = 0.00006, final_loss = 4.3222, nll_loss = 4.2581, hneg_nll_loss = 4.3863, ivc_loss = 0.0599, neg_loss = 0.0113, hneg_loss = 0.0375, push_loss = 0.3016, pull_loss = 0.0004, 0.760 seconds/batch
+Epoch 14, Batch 300, lr = 0.00006, final_loss = 4.2919, nll_loss = 4.2261, hneg_nll_loss = 4.3577, ivc_loss = 0.0606, neg_loss = 0.0132, hneg_loss = 0.0366, push_loss = 0.3044, pull_loss = 0.0004, 0.783 seconds/batch
+Epoch 14, Batch 350, lr = 0.00006, final_loss = 4.3262, nll_loss = 4.2620, hneg_nll_loss = 4.3905, ivc_loss = 0.0595, neg_loss = 0.0124, hneg_loss = 0.0364, push_loss = 0.3035, pull_loss = 0.0004, 0.801 seconds/batch
+Epoch 14, Batch 400, lr = 0.00006, final_loss = 4.3084, nll_loss = 4.2442, hneg_nll_loss = 4.3726, ivc_loss = 0.0601, neg_loss = 0.0121, hneg_loss = 0.0374, push_loss = 0.3026, pull_loss = 0.0004, 0.814 seconds/batch
+Epoch 14, Batch 450, lr = 0.00006, final_loss = 4.3311, nll_loss = 4.2669, hneg_nll_loss = 4.3953, ivc_loss = 0.0625, neg_loss = 0.0140, hneg_loss = 0.0376, push_loss = 0.3002, pull_loss = 0.0005, 0.824 seconds/batch
+Epoch 14, Batch 500, lr = 0.00006, final_loss = 4.3329, nll_loss = 4.2669, hneg_nll_loss = 4.3989, ivc_loss = 0.0566, neg_loss = 0.0103, hneg_loss = 0.0356, push_loss = 0.2998, pull_loss = 0.0006, 0.832 seconds/batch
+Epoch 14, Batch 550, lr = 0.00006, final_loss = 4.3000, nll_loss = 4.2370, hneg_nll_loss = 4.3631, ivc_loss = 0.0611, neg_loss = 0.0110, hneg_loss = 0.0392, push_loss = 0.2997, pull_loss = 0.0006, 0.839 seconds/batch
+Epoch 14, Batch 600, lr = 0.00006, final_loss = 4.3563, nll_loss = 4.2910, hneg_nll_loss = 4.4216, ivc_loss = 0.0589, neg_loss = 0.0113, hneg_loss = 0.0367, push_loss = 0.2998, pull_loss = 0.0007, 0.844 seconds/batch
+Epoch 14, Batch 650, lr = 0.00006, final_loss = 4.3325, nll_loss = 4.2666, hneg_nll_loss = 4.3984, ivc_loss = 0.0586, neg_loss = 0.0114, hneg_loss = 0.0365, push_loss = 0.3015, pull_loss = 0.0007, 0.849 seconds/batch
+Epoch 14, Batch 700, lr = 0.00006, final_loss = 4.3140, nll_loss = 4.2486, hneg_nll_loss = 4.3794, ivc_loss = 0.0579, neg_loss = 0.0105, hneg_loss = 0.0368, push_loss = 0.3051, pull_loss = 0.0006, 0.853 seconds/batch
+Epoch 14, Batch 750, lr = 0.00006, final_loss = 4.3426, nll_loss = 4.2792, hneg_nll_loss = 4.4061, ivc_loss = 0.0607, neg_loss = 0.0117, hneg_loss = 0.0390, push_loss = 0.3119, pull_loss = 0.0005, 0.856 seconds/batch
+Epoch 14, Batch 800, lr = 0.00006, final_loss = 4.3324, nll_loss = 4.2699, hneg_nll_loss = 4.3948, ivc_loss = 0.0595, neg_loss = 0.0108, hneg_loss = 0.0387, push_loss = 0.3115, pull_loss = 0.0005, 0.859 seconds/batch
+Epoch 14, Batch 850, lr = 0.00006, final_loss = 4.3701, nll_loss = 4.3037, hneg_nll_loss = 4.4365, ivc_loss = 0.0573, neg_loss = 0.0120, hneg_loss = 0.0350, push_loss = 0.3104, pull_loss = 0.0005, 0.861 seconds/batch
+Epoch 14, Batch 900, lr = 0.00006, final_loss = 4.2856, nll_loss = 4.2215, hneg_nll_loss = 4.3497, ivc_loss = 0.0601, neg_loss = 0.0115, hneg_loss = 0.0384, push_loss = 0.3107, pull_loss = 0.0005, 0.864 seconds/batch
+Epoch 14, Batch 950, lr = 0.00006, final_loss = 4.3315, nll_loss = 4.2665, hneg_nll_loss = 4.3965, ivc_loss = 0.0612, neg_loss = 0.0116, hneg_loss = 0.0392, push_loss = 0.3092, pull_loss = 0.0004, 0.866 seconds/batch
+Epoch 14, Batch 1000, lr = 0.00006, final_loss = 4.3345, nll_loss = 4.2720, hneg_nll_loss = 4.3969, ivc_loss = 0.0610, neg_loss = 0.0120, hneg_loss = 0.0385, push_loss = 0.3075, pull_loss = 0.0004, 0.867 seconds/batch
+Epoch 14, Batch 1050, lr = 0.00006, final_loss = 4.3611, nll_loss = 4.2983, hneg_nll_loss = 4.4238, ivc_loss = 0.0626, neg_loss = 0.0118, hneg_loss = 0.0403, push_loss = 0.3058, pull_loss = 0.0005, 0.869 seconds/batch
+Epoch 14, Batch 1100, lr = 0.00006, final_loss = 4.3375, nll_loss = 4.2764, hneg_nll_loss = 4.3987, ivc_loss = 0.0591, neg_loss = 0.0091, hneg_loss = 0.0396, push_loss = 0.3046, pull_loss = 0.0005, 0.870 seconds/batch
+Epoch 14, Batch 1150, lr = 0.00006, final_loss = 4.3123, nll_loss = 4.2504, hneg_nll_loss = 4.3742, ivc_loss = 0.0614, neg_loss = 0.0109, hneg_loss = 0.0401, push_loss = 0.3030, pull_loss = 0.0004, 0.866 seconds/batch
+Epoch 14, Batch 1170, lr = 0.00006, final_loss = 4.3380, nll_loss = 4.2771, hneg_nll_loss = 4.3989, ivc_loss = 0.0584, neg_loss = 0.0094, hneg_loss = 0.0385, push_loss = 0.3007, pull_loss = 0.0004, 0.864 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-14.pt, num_updates 16380.
+| Rank1,mIoU 0.1792 | Rank1,IoU@0.1 0.5036 | Rank1,IoU@0.3 0.2365 | Rank1,IoU@0.5 0.0981 | Rank5,mIoU 0.5476 | Rank5,IoU@0.1 0.9695 | Rank5,IoU@0.3 0.8928 | Rank5,IoU@0.5 0.6289 |
+============================================================
+Start Epoch 15
+Epoch 15, Batch 50, lr = 0.00006, final_loss = 4.2769, nll_loss = 4.2143, hneg_nll_loss = 4.3396, ivc_loss = 0.0597, neg_loss = 0.0092, hneg_loss = 0.0399, push_loss = 0.2983, pull_loss = 0.0004, 0.651 seconds/batch
+Epoch 15, Batch 100, lr = 0.00006, final_loss = 4.2942, nll_loss = 4.2291, hneg_nll_loss = 4.3593, ivc_loss = 0.0573, neg_loss = 0.0088, hneg_loss = 0.0377, push_loss = 0.2962, pull_loss = 0.0005, 0.647 seconds/batch
+Epoch 15, Batch 150, lr = 0.00006, final_loss = 4.3035, nll_loss = 4.2361, hneg_nll_loss = 4.3709, ivc_loss = 0.0557, neg_loss = 0.0092, hneg_loss = 0.0353, push_loss = 0.2971, pull_loss = 0.0005, 0.684 seconds/batch
+Epoch 15, Batch 200, lr = 0.00006, final_loss = 4.3035, nll_loss = 4.2429, hneg_nll_loss = 4.3641, ivc_loss = 0.0595, neg_loss = 0.0096, hneg_loss = 0.0388, push_loss = 0.2999, pull_loss = 0.0005, 0.717 seconds/batch
+Epoch 15, Batch 250, lr = 0.00006, final_loss = 4.2823, nll_loss = 4.2178, hneg_nll_loss = 4.3467, ivc_loss = 0.0610, neg_loss = 0.0115, hneg_loss = 0.0383, push_loss = 0.3012, pull_loss = 0.0004, 0.755 seconds/batch
+Epoch 15, Batch 300, lr = 0.00006, final_loss = 4.2989, nll_loss = 4.2336, hneg_nll_loss = 4.3642, ivc_loss = 0.0599, neg_loss = 0.0116, hneg_loss = 0.0375, push_loss = 0.3015, pull_loss = 0.0004, 0.782 seconds/batch
+Epoch 15, Batch 350, lr = 0.00006, final_loss = 4.3130, nll_loss = 4.2468, hneg_nll_loss = 4.3793, ivc_loss = 0.0554, neg_loss = 0.0080, hneg_loss = 0.0366, push_loss = 0.3014, pull_loss = 0.0004, 0.799 seconds/batch
+Epoch 15, Batch 400, lr = 0.00006, final_loss = 4.2798, nll_loss = 4.2133, hneg_nll_loss = 4.3462, ivc_loss = 0.0559, neg_loss = 0.0083, hneg_loss = 0.0366, push_loss = 0.2975, pull_loss = 0.0004, 0.812 seconds/batch
+Epoch 15, Batch 450, lr = 0.00006, final_loss = 4.3064, nll_loss = 4.2391, hneg_nll_loss = 4.3737, ivc_loss = 0.0553, neg_loss = 0.0088, hneg_loss = 0.0353, push_loss = 0.2953, pull_loss = 0.0004, 0.822 seconds/batch
+Epoch 15, Batch 500, lr = 0.00006, final_loss = 4.2993, nll_loss = 4.2351, hneg_nll_loss = 4.3635, ivc_loss = 0.0615, neg_loss = 0.0110, hneg_loss = 0.0395, push_loss = 0.2962, pull_loss = 0.0004, 0.830 seconds/batch
+Epoch 15, Batch 550, lr = 0.00006, final_loss = 4.3332, nll_loss = 4.2664, hneg_nll_loss = 4.4001, ivc_loss = 0.0584, neg_loss = 0.0109, hneg_loss = 0.0362, push_loss = 0.2952, pull_loss = 0.0005, 0.836 seconds/batch
+Epoch 15, Batch 600, lr = 0.00006, final_loss = 4.2819, nll_loss = 4.2132, hneg_nll_loss = 4.3505, ivc_loss = 0.0567, neg_loss = 0.0100, hneg_loss = 0.0353, push_loss = 0.2966, pull_loss = 0.0005, 0.842 seconds/batch
+Epoch 15, Batch 650, lr = 0.00006, final_loss = 4.3362, nll_loss = 4.2714, hneg_nll_loss = 4.4010, ivc_loss = 0.0598, neg_loss = 0.0098, hneg_loss = 0.0388, push_loss = 0.3015, pull_loss = 0.0006, 0.846 seconds/batch
+Epoch 15, Batch 700, lr = 0.00006, final_loss = 4.3055, nll_loss = 4.2409, hneg_nll_loss = 4.3700, ivc_loss = 0.0592, neg_loss = 0.0095, hneg_loss = 0.0383, push_loss = 0.3034, pull_loss = 0.0008, 0.850 seconds/batch
+Epoch 15, Batch 750, lr = 0.00006, final_loss = 4.2720, nll_loss = 4.2080, hneg_nll_loss = 4.3361, ivc_loss = 0.0602, neg_loss = 0.0093, hneg_loss = 0.0394, push_loss = 0.2986, pull_loss = 0.0007, 0.854 seconds/batch
+Epoch 15, Batch 800, lr = 0.00006, final_loss = 4.3064, nll_loss = 4.2404, hneg_nll_loss = 4.3723, ivc_loss = 0.0575, neg_loss = 0.0103, hneg_loss = 0.0356, push_loss = 0.2970, pull_loss = 0.0008, 0.857 seconds/batch
+Epoch 15, Batch 850, lr = 0.00006, final_loss = 4.3209, nll_loss = 4.2566, hneg_nll_loss = 4.3852, ivc_loss = 0.0617, neg_loss = 0.0114, hneg_loss = 0.0386, push_loss = 0.2979, pull_loss = 0.0009, 0.860 seconds/batch
+Epoch 15, Batch 900, lr = 0.00006, final_loss = 4.2754, nll_loss = 4.2111, hneg_nll_loss = 4.3396, ivc_loss = 0.0595, neg_loss = 0.0104, hneg_loss = 0.0375, push_loss = 0.2964, pull_loss = 0.0008, 0.863 seconds/batch
+Epoch 15, Batch 950, lr = 0.00006, final_loss = 4.3085, nll_loss = 4.2471, hneg_nll_loss = 4.3699, ivc_loss = 0.0638, neg_loss = 0.0121, hneg_loss = 0.0400, push_loss = 0.2963, pull_loss = 0.0008, 0.865 seconds/batch
+Epoch 15, Batch 1000, lr = 0.00006, final_loss = 4.3128, nll_loss = 4.2480, hneg_nll_loss = 4.3775, ivc_loss = 0.0582, neg_loss = 0.0090, hneg_loss = 0.0373, push_loss = 0.2958, pull_loss = 0.0009, 0.867 seconds/batch
+Epoch 15, Batch 1050, lr = 0.00006, final_loss = 4.3547, nll_loss = 4.2904, hneg_nll_loss = 4.4190, ivc_loss = 0.0610, neg_loss = 0.0106, hneg_loss = 0.0387, push_loss = 0.2959, pull_loss = 0.0008, 0.869 seconds/batch
+Epoch 15, Batch 1100, lr = 0.00006, final_loss = 4.2786, nll_loss = 4.2166, hneg_nll_loss = 4.3406, ivc_loss = 0.0616, neg_loss = 0.0116, hneg_loss = 0.0384, push_loss = 0.2935, pull_loss = 0.0007, 0.870 seconds/batch
+Epoch 15, Batch 1150, lr = 0.00006, final_loss = 4.2802, nll_loss = 4.2158, hneg_nll_loss = 4.3447, ivc_loss = 0.0612, neg_loss = 0.0095, hneg_loss = 0.0400, push_loss = 0.2928, pull_loss = 0.0007, 0.866 seconds/batch
+Epoch 15, Batch 1170, lr = 0.00006, final_loss = 4.2913, nll_loss = 4.2290, hneg_nll_loss = 4.3536, ivc_loss = 0.0639, neg_loss = 0.0115, hneg_loss = 0.0409, push_loss = 0.2948, pull_loss = 0.0008, 0.864 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-15.pt, num_updates 17550.
+| Rank1,mIoU 0.1924 | Rank1,IoU@0.1 0.5029 | Rank1,IoU@0.3 0.2822 | Rank1,IoU@0.5 0.1181 | Rank5,mIoU 0.5490 | Rank5,IoU@0.1 0.9679 | Rank5,IoU@0.3 0.8879 | Rank5,IoU@0.5 0.6293 |
+============================================================
+Start Epoch 16
+Epoch 16, Batch 50, lr = 0.00006, final_loss = 4.2584, nll_loss = 4.1947, hneg_nll_loss = 4.3220, ivc_loss = 0.0585, neg_loss = 0.0092, hneg_loss = 0.0378, push_loss = 0.2951, pull_loss = 0.0007, 0.651 seconds/batch
+Epoch 16, Batch 100, lr = 0.00006, final_loss = 4.2495, nll_loss = 4.1843, hneg_nll_loss = 4.3147, ivc_loss = 0.0593, neg_loss = 0.0103, hneg_loss = 0.0370, push_loss = 0.2930, pull_loss = 0.0008, 0.648 seconds/batch
+Epoch 16, Batch 150, lr = 0.00006, final_loss = 4.2627, nll_loss = 4.1971, hneg_nll_loss = 4.3284, ivc_loss = 0.0588, neg_loss = 0.0096, hneg_loss = 0.0373, push_loss = 0.2933, pull_loss = 0.0007, 0.682 seconds/batch
+Epoch 16, Batch 200, lr = 0.00006, final_loss = 4.2658, nll_loss = 4.2032, hneg_nll_loss = 4.3284, ivc_loss = 0.0608, neg_loss = 0.0105, hneg_loss = 0.0389, push_loss = 0.2949, pull_loss = 0.0006, 0.716 seconds/batch
+Epoch 16, Batch 250, lr = 0.00006, final_loss = 4.2739, nll_loss = 4.2096, hneg_nll_loss = 4.3382, ivc_loss = 0.0613, neg_loss = 0.0115, hneg_loss = 0.0384, push_loss = 0.2936, pull_loss = 0.0007, 0.752 seconds/batch
+Epoch 16, Batch 300, lr = 0.00006, final_loss = 4.2660, nll_loss = 4.1982, hneg_nll_loss = 4.3338, ivc_loss = 0.0594, neg_loss = 0.0105, hneg_loss = 0.0374, push_loss = 0.2921, pull_loss = 0.0006, 0.778 seconds/batch
+Epoch 16, Batch 350, lr = 0.00006, final_loss = 4.2746, nll_loss = 4.2111, hneg_nll_loss = 4.3381, ivc_loss = 0.0598, neg_loss = 0.0084, hneg_loss = 0.0397, push_loss = 0.2913, pull_loss = 0.0006, 0.795 seconds/batch
+Epoch 16, Batch 400, lr = 0.00006, final_loss = 4.2924, nll_loss = 4.2271, hneg_nll_loss = 4.3577, ivc_loss = 0.0591, neg_loss = 0.0097, hneg_loss = 0.0378, push_loss = 0.2888, pull_loss = 0.0005, 0.809 seconds/batch
+Epoch 16, Batch 450, lr = 0.00006, final_loss = 4.2216, nll_loss = 4.1555, hneg_nll_loss = 4.2877, ivc_loss = 0.0545, neg_loss = 0.0089, hneg_loss = 0.0339, push_loss = 0.2897, pull_loss = 0.0006, 0.819 seconds/batch
+Epoch 16, Batch 500, lr = 0.00006, final_loss = 4.3005, nll_loss = 4.2356, hneg_nll_loss = 4.3654, ivc_loss = 0.0573, neg_loss = 0.0076, hneg_loss = 0.0375, push_loss = 0.2913, pull_loss = 0.0007, 0.828 seconds/batch
+Epoch 16, Batch 550, lr = 0.00006, final_loss = 4.2771, nll_loss = 4.2157, hneg_nll_loss = 4.3384, ivc_loss = 0.0614, neg_loss = 0.0082, hneg_loss = 0.0415, push_loss = 0.2925, pull_loss = 0.0008, 0.835 seconds/batch
+Epoch 16, Batch 600, lr = 0.00006, final_loss = 4.3128, nll_loss = 4.2479, hneg_nll_loss = 4.3778, ivc_loss = 0.0590, neg_loss = 0.0085, hneg_loss = 0.0381, push_loss = 0.2891, pull_loss = 0.0010, 0.841 seconds/batch
+Epoch 16, Batch 650, lr = 0.00006, final_loss = 4.2673, nll_loss = 4.2053, hneg_nll_loss = 4.3292, ivc_loss = 0.0612, neg_loss = 0.0079, hneg_loss = 0.0410, push_loss = 0.2869, pull_loss = 0.0010, 0.846 seconds/batch
+Epoch 16, Batch 700, lr = 0.00006, final_loss = 4.2647, nll_loss = 4.2013, hneg_nll_loss = 4.3281, ivc_loss = 0.0579, neg_loss = 0.0082, hneg_loss = 0.0370, push_loss = 0.2877, pull_loss = 0.0010, 0.850 seconds/batch
+Epoch 16, Batch 750, lr = 0.00006, final_loss = 4.2839, nll_loss = 4.2175, hneg_nll_loss = 4.3502, ivc_loss = 0.0562, neg_loss = 0.0068, hneg_loss = 0.0365, push_loss = 0.2873, pull_loss = 0.0011, 0.854 seconds/batch
+Epoch 16, Batch 800, lr = 0.00006, final_loss = 4.2731, nll_loss = 4.2109, hneg_nll_loss = 4.3353, ivc_loss = 0.0603, neg_loss = 0.0077, hneg_loss = 0.0401, push_loss = 0.2871, pull_loss = 0.0012, 0.857 seconds/batch
+Epoch 16, Batch 850, lr = 0.00006, final_loss = 4.2902, nll_loss = 4.2246, hneg_nll_loss = 4.3559, ivc_loss = 0.0581, neg_loss = 0.0084, hneg_loss = 0.0373, push_loss = 0.2900, pull_loss = 0.0013, 0.859 seconds/batch
+Epoch 16, Batch 900, lr = 0.00006, final_loss = 4.2760, nll_loss = 4.2101, hneg_nll_loss = 4.3419, ivc_loss = 0.0575, neg_loss = 0.0084, hneg_loss = 0.0366, push_loss = 0.2889, pull_loss = 0.0013, 0.862 seconds/batch
+Epoch 16, Batch 950, lr = 0.00006, final_loss = 4.3240, nll_loss = 4.2633, hneg_nll_loss = 4.3847, ivc_loss = 0.0613, neg_loss = 0.0082, hneg_loss = 0.0410, push_loss = 0.2917, pull_loss = 0.0014, 0.864 seconds/batch
+Epoch 16, Batch 1000, lr = 0.00006, final_loss = 4.2897, nll_loss = 4.2284, hneg_nll_loss = 4.3510, ivc_loss = 0.0607, neg_loss = 0.0085, hneg_loss = 0.0408, push_loss = 0.2934, pull_loss = 0.0013, 0.865 seconds/batch
+Epoch 16, Batch 1050, lr = 0.00006, final_loss = 4.2626, nll_loss = 4.1973, hneg_nll_loss = 4.3279, ivc_loss = 0.0577, neg_loss = 0.0073, hneg_loss = 0.0382, push_loss = 0.2920, pull_loss = 0.0013, 0.867 seconds/batch
+Epoch 16, Batch 1100, lr = 0.00006, final_loss = 4.2996, nll_loss = 4.2380, hneg_nll_loss = 4.3612, ivc_loss = 0.0605, neg_loss = 0.0082, hneg_loss = 0.0402, push_loss = 0.2937, pull_loss = 0.0013, 0.869 seconds/batch
+Epoch 16, Batch 1150, lr = 0.00006, final_loss = 4.2553, nll_loss = 4.1944, hneg_nll_loss = 4.3161, ivc_loss = 0.0629, neg_loss = 0.0089, hneg_loss = 0.0420, push_loss = 0.2917, pull_loss = 0.0014, 0.865 seconds/batch
+Epoch 16, Batch 1170, lr = 0.00006, final_loss = 4.2278, nll_loss = 4.1598, hneg_nll_loss = 4.2958, ivc_loss = 0.0561, neg_loss = 0.0083, hneg_loss = 0.0357, push_loss = 0.2896, pull_loss = 0.0012, 0.863 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-16.pt, num_updates 18720.
+| Rank1,mIoU 0.1926 | Rank1,IoU@0.1 0.5326 | Rank1,IoU@0.3 0.2784 | Rank1,IoU@0.5 0.1076 | Rank5,mIoU 0.5590 | Rank5,IoU@0.1 0.9683 | Rank5,IoU@0.3 0.8906 | Rank5,IoU@0.5 0.6545 |
+============================================================
+Start Epoch 17
+Epoch 17, Batch 50, lr = 0.00006, final_loss = 4.2376, nll_loss = 4.1749, hneg_nll_loss = 4.3003, ivc_loss = 0.0595, neg_loss = 0.0078, hneg_loss = 0.0395, push_loss = 0.2909, pull_loss = 0.0013, 0.657 seconds/batch
+Epoch 17, Batch 100, lr = 0.00006, final_loss = 4.2543, nll_loss = 4.1871, hneg_nll_loss = 4.3215, ivc_loss = 0.0561, neg_loss = 0.0083, hneg_loss = 0.0355, push_loss = 0.2909, pull_loss = 0.0014, 0.650 seconds/batch
+Epoch 17, Batch 150, lr = 0.00006, final_loss = 4.2264, nll_loss = 4.1596, hneg_nll_loss = 4.2932, ivc_loss = 0.0552, neg_loss = 0.0069, hneg_loss = 0.0359, push_loss = 0.2895, pull_loss = 0.0014, 0.680 seconds/batch
+Epoch 17, Batch 200, lr = 0.00006, final_loss = 4.2512, nll_loss = 4.1894, hneg_nll_loss = 4.3131, ivc_loss = 0.0597, neg_loss = 0.0084, hneg_loss = 0.0391, push_loss = 0.2907, pull_loss = 0.0014, 0.711 seconds/batch
+Epoch 17, Batch 250, lr = 0.00006, final_loss = 4.2557, nll_loss = 4.1908, hneg_nll_loss = 4.3206, ivc_loss = 0.0577, neg_loss = 0.0081, hneg_loss = 0.0375, push_loss = 0.2918, pull_loss = 0.0014, 0.749 seconds/batch
+Epoch 17, Batch 300, lr = 0.00006, final_loss = 4.2430, nll_loss = 4.1773, hneg_nll_loss = 4.3087, ivc_loss = 0.0559, neg_loss = 0.0069, hneg_loss = 0.0369, push_loss = 0.2902, pull_loss = 0.0013, 0.775 seconds/batch
+Epoch 17, Batch 350, lr = 0.00006, final_loss = 4.2287, nll_loss = 4.1651, hneg_nll_loss = 4.2924, ivc_loss = 0.0579, neg_loss = 0.0067, hneg_loss = 0.0388, push_loss = 0.2896, pull_loss = 0.0013, 0.793 seconds/batch
+Epoch 17, Batch 400, lr = 0.00006, final_loss = 4.2652, nll_loss = 4.2009, hneg_nll_loss = 4.3295, ivc_loss = 0.0543, neg_loss = 0.0053, hneg_loss = 0.0363, push_loss = 0.2875, pull_loss = 0.0012, 0.807 seconds/batch
+Epoch 17, Batch 450, lr = 0.00006, final_loss = 4.2560, nll_loss = 4.1919, hneg_nll_loss = 4.3201, ivc_loss = 0.0577, neg_loss = 0.0067, hneg_loss = 0.0384, push_loss = 0.2870, pull_loss = 0.0013, 0.817 seconds/batch
+Epoch 17, Batch 500, lr = 0.00006, final_loss = 4.2602, nll_loss = 4.1960, hneg_nll_loss = 4.3244, ivc_loss = 0.0570, neg_loss = 0.0075, hneg_loss = 0.0368, push_loss = 0.2875, pull_loss = 0.0014, 0.826 seconds/batch
+Epoch 17, Batch 550, lr = 0.00006, final_loss = 4.2771, nll_loss = 4.2121, hneg_nll_loss = 4.3422, ivc_loss = 0.0556, neg_loss = 0.0069, hneg_loss = 0.0364, push_loss = 0.2900, pull_loss = 0.0014, 0.833 seconds/batch
+Epoch 17, Batch 600, lr = 0.00006, final_loss = 4.2771, nll_loss = 4.2144, hneg_nll_loss = 4.3397, ivc_loss = 0.0619, neg_loss = 0.0090, hneg_loss = 0.0407, push_loss = 0.2921, pull_loss = 0.0014, 0.839 seconds/batch
+Epoch 17, Batch 650, lr = 0.00006, final_loss = 4.2591, nll_loss = 4.1969, hneg_nll_loss = 4.3214, ivc_loss = 0.0600, neg_loss = 0.0074, hneg_loss = 0.0402, push_loss = 0.2903, pull_loss = 0.0014, 0.845 seconds/batch
+Epoch 17, Batch 700, lr = 0.00006, final_loss = 4.2575, nll_loss = 4.1904, hneg_nll_loss = 4.3246, ivc_loss = 0.0549, neg_loss = 0.0070, hneg_loss = 0.0353, push_loss = 0.2903, pull_loss = 0.0013, 0.849 seconds/batch
+Epoch 17, Batch 750, lr = 0.00006, final_loss = 4.2316, nll_loss = 4.1668, hneg_nll_loss = 4.2964, ivc_loss = 0.0563, neg_loss = 0.0064, hneg_loss = 0.0380, push_loss = 0.2908, pull_loss = 0.0013, 0.852 seconds/batch
+Epoch 17, Batch 800, lr = 0.00006, final_loss = 4.2244, nll_loss = 4.1618, hneg_nll_loss = 4.2870, ivc_loss = 0.0586, neg_loss = 0.0066, hneg_loss = 0.0401, push_loss = 0.2915, pull_loss = 0.0012, 0.855 seconds/batch
+Epoch 17, Batch 850, lr = 0.00006, final_loss = 4.2120, nll_loss = 4.1466, hneg_nll_loss = 4.2774, ivc_loss = 0.0547, neg_loss = 0.0068, hneg_loss = 0.0361, push_loss = 0.2922, pull_loss = 0.0011, 0.858 seconds/batch
+Epoch 17, Batch 900, lr = 0.00006, final_loss = 4.2471, nll_loss = 4.1806, hneg_nll_loss = 4.3135, ivc_loss = 0.0558, neg_loss = 0.0070, hneg_loss = 0.0368, push_loss = 0.2920, pull_loss = 0.0011, 0.861 seconds/batch
+Epoch 17, Batch 950, lr = 0.00006, final_loss = 4.2515, nll_loss = 4.1828, hneg_nll_loss = 4.3202, ivc_loss = 0.0539, neg_loss = 0.0056, hneg_loss = 0.0364, push_loss = 0.2934, pull_loss = 0.0010, 0.863 seconds/batch
+Epoch 17, Batch 1000, lr = 0.00006, final_loss = 4.2640, nll_loss = 4.1984, hneg_nll_loss = 4.3295, ivc_loss = 0.0571, neg_loss = 0.0062, hneg_loss = 0.0390, push_loss = 0.2930, pull_loss = 0.0010, 0.865 seconds/batch
+Epoch 17, Batch 1050, lr = 0.00006, final_loss = 4.2821, nll_loss = 4.2144, hneg_nll_loss = 4.3499, ivc_loss = 0.0549, neg_loss = 0.0065, hneg_loss = 0.0365, push_loss = 0.2923, pull_loss = 0.0010, 0.866 seconds/batch
+Epoch 17, Batch 1100, lr = 0.00006, final_loss = 4.2591, nll_loss = 4.1953, hneg_nll_loss = 4.3229, ivc_loss = 0.0576, neg_loss = 0.0077, hneg_loss = 0.0377, push_loss = 0.2922, pull_loss = 0.0011, 0.868 seconds/batch
+Epoch 17, Batch 1150, lr = 0.00006, final_loss = 4.2596, nll_loss = 4.1930, hneg_nll_loss = 4.3261, ivc_loss = 0.0554, neg_loss = 0.0068, hneg_loss = 0.0366, push_loss = 0.2948, pull_loss = 0.0010, 0.864 seconds/batch
+Epoch 17, Batch 1170, lr = 0.00006, final_loss = 4.3059, nll_loss = 4.2419, hneg_nll_loss = 4.3699, ivc_loss = 0.0579, neg_loss = 0.0067, hneg_loss = 0.0391, push_loss = 0.2953, pull_loss = 0.0010, 0.862 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-17.pt, num_updates 19890.
+| Rank1,mIoU 0.1865 | Rank1,IoU@0.1 0.5154 | Rank1,IoU@0.3 0.2638 | Rank1,IoU@0.5 0.1002 | Rank5,mIoU 0.5557 | Rank5,IoU@0.1 0.9674 | Rank5,IoU@0.3 0.8867 | Rank5,IoU@0.5 0.6378 |
+============================================================
+Start Epoch 18
+Epoch 18, Batch 50, lr = 0.00006, final_loss = 4.1769, nll_loss = 4.1122, hneg_nll_loss = 4.2417, ivc_loss = 0.0577, neg_loss = 0.0060, hneg_loss = 0.0394, push_loss = 0.2940, pull_loss = 0.0011, 0.646 seconds/batch
+Epoch 18, Batch 100, lr = 0.00006, final_loss = 4.1852, nll_loss = 4.1186, hneg_nll_loss = 4.2518, ivc_loss = 0.0578, neg_loss = 0.0070, hneg_loss = 0.0384, push_loss = 0.2923, pull_loss = 0.0012, 0.645 seconds/batch
+Epoch 18, Batch 150, lr = 0.00006, final_loss = 4.2359, nll_loss = 4.1690, hneg_nll_loss = 4.3028, ivc_loss = 0.0552, neg_loss = 0.0056, hneg_loss = 0.0367, push_loss = 0.2911, pull_loss = 0.0011, 0.672 seconds/batch
+Epoch 18, Batch 200, lr = 0.00006, final_loss = 4.2338, nll_loss = 4.1683, hneg_nll_loss = 4.2994, ivc_loss = 0.0570, neg_loss = 0.0059, hneg_loss = 0.0384, push_loss = 0.2941, pull_loss = 0.0010, 0.697 seconds/batch
+Epoch 18, Batch 250, lr = 0.00006, final_loss = 4.2068, nll_loss = 4.1412, hneg_nll_loss = 4.2723, ivc_loss = 0.0559, neg_loss = 0.0054, hneg_loss = 0.0377, push_loss = 0.2926, pull_loss = 0.0010, 0.739 seconds/batch
+Epoch 18, Batch 300, lr = 0.00006, final_loss = 4.1954, nll_loss = 4.1315, hneg_nll_loss = 4.2593, ivc_loss = 0.0599, neg_loss = 0.0068, hneg_loss = 0.0406, push_loss = 0.2898, pull_loss = 0.0010, 0.767 seconds/batch
+Epoch 18, Batch 350, lr = 0.00006, final_loss = 4.2322, nll_loss = 4.1650, hneg_nll_loss = 4.2993, ivc_loss = 0.0557, neg_loss = 0.0061, hneg_loss = 0.0368, push_loss = 0.2881, pull_loss = 0.0011, 0.784 seconds/batch
+Epoch 18, Batch 400, lr = 0.00006, final_loss = 4.2191, nll_loss = 4.1516, hneg_nll_loss = 4.2866, ivc_loss = 0.0580, neg_loss = 0.0062, hneg_loss = 0.0386, push_loss = 0.2903, pull_loss = 0.0012, 0.800 seconds/batch
+Epoch 18, Batch 450, lr = 0.00006, final_loss = 4.2299, nll_loss = 4.1641, hneg_nll_loss = 4.2956, ivc_loss = 0.0581, neg_loss = 0.0055, hneg_loss = 0.0393, push_loss = 0.2910, pull_loss = 0.0012, 0.810 seconds/batch
+Epoch 18, Batch 500, lr = 0.00006, final_loss = 4.2330, nll_loss = 4.1674, hneg_nll_loss = 4.2986, ivc_loss = 0.0590, neg_loss = 0.0076, hneg_loss = 0.0386, push_loss = 0.2886, pull_loss = 0.0010, 0.818 seconds/batch
+Epoch 18, Batch 550, lr = 0.00006, final_loss = 4.2143, nll_loss = 4.1468, hneg_nll_loss = 4.2819, ivc_loss = 0.0553, neg_loss = 0.0065, hneg_loss = 0.0362, push_loss = 0.2880, pull_loss = 0.0009, 0.825 seconds/batch
+Epoch 18, Batch 600, lr = 0.00006, final_loss = 4.2348, nll_loss = 4.1670, hneg_nll_loss = 4.3027, ivc_loss = 0.0541, neg_loss = 0.0055, hneg_loss = 0.0367, push_loss = 0.2864, pull_loss = 0.0008, 0.831 seconds/batch
+Epoch 18, Batch 650, lr = 0.00006, final_loss = 4.2749, nll_loss = 4.2077, hneg_nll_loss = 4.3421, ivc_loss = 0.0585, neg_loss = 0.0070, hneg_loss = 0.0394, push_loss = 0.2866, pull_loss = 0.0007, 0.837 seconds/batch
+Epoch 18, Batch 700, lr = 0.00006, final_loss = 4.2487, nll_loss = 4.1786, hneg_nll_loss = 4.3189, ivc_loss = 0.0540, neg_loss = 0.0064, hneg_loss = 0.0350, push_loss = 0.2851, pull_loss = 0.0008, 0.841 seconds/batch
+Epoch 18, Batch 750, lr = 0.00006, final_loss = 4.2511, nll_loss = 4.1842, hneg_nll_loss = 4.3180, ivc_loss = 0.0550, neg_loss = 0.0066, hneg_loss = 0.0359, push_loss = 0.2868, pull_loss = 0.0008, 0.845 seconds/batch
+Epoch 18, Batch 800, lr = 0.00006, final_loss = 4.2358, nll_loss = 4.1712, hneg_nll_loss = 4.3004, ivc_loss = 0.0569, neg_loss = 0.0067, hneg_loss = 0.0382, push_loss = 0.2886, pull_loss = 0.0008, 0.849 seconds/batch
+Epoch 18, Batch 850, lr = 0.00006, final_loss = 4.2258, nll_loss = 4.1608, hneg_nll_loss = 4.2908, ivc_loss = 0.0582, neg_loss = 0.0066, hneg_loss = 0.0389, push_loss = 0.2892, pull_loss = 0.0009, 0.852 seconds/batch
+Epoch 18, Batch 900, lr = 0.00006, final_loss = 4.2357, nll_loss = 4.1695, hneg_nll_loss = 4.3018, ivc_loss = 0.0563, neg_loss = 0.0067, hneg_loss = 0.0368, push_loss = 0.2882, pull_loss = 0.0009, 0.855 seconds/batch
+Epoch 18, Batch 950, lr = 0.00006, final_loss = 4.2243, nll_loss = 4.1573, hneg_nll_loss = 4.2912, ivc_loss = 0.0567, neg_loss = 0.0057, hneg_loss = 0.0378, push_loss = 0.2879, pull_loss = 0.0010, 0.858 seconds/batch
+Epoch 18, Batch 1000, lr = 0.00006, final_loss = 4.2523, nll_loss = 4.1854, hneg_nll_loss = 4.3192, ivc_loss = 0.0563, neg_loss = 0.0068, hneg_loss = 0.0363, push_loss = 0.2869, pull_loss = 0.0011, 0.860 seconds/batch
+Epoch 18, Batch 1050, lr = 0.00006, final_loss = 4.1809, nll_loss = 4.1131, hneg_nll_loss = 4.2486, ivc_loss = 0.0558, neg_loss = 0.0061, hneg_loss = 0.0364, push_loss = 0.2857, pull_loss = 0.0010, 0.862 seconds/batch
+Epoch 18, Batch 1100, lr = 0.00006, final_loss = 4.2492, nll_loss = 4.1841, hneg_nll_loss = 4.3144, ivc_loss = 0.0582, neg_loss = 0.0066, hneg_loss = 0.0388, push_loss = 0.2862, pull_loss = 0.0009, 0.864 seconds/batch
+Epoch 18, Batch 1150, lr = 0.00006, final_loss = 4.2355, nll_loss = 4.1695, hneg_nll_loss = 4.3015, ivc_loss = 0.0576, neg_loss = 0.0064, hneg_loss = 0.0383, push_loss = 0.2849, pull_loss = 0.0008, 0.861 seconds/batch
+Epoch 18, Batch 1170, lr = 0.00006, final_loss = 4.2475, nll_loss = 4.1851, hneg_nll_loss = 4.3100, ivc_loss = 0.0606, neg_loss = 0.0091, hneg_loss = 0.0383, push_loss = 0.2841, pull_loss = 0.0009, 0.859 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-18.pt, num_updates 21060.
+| Rank1,mIoU 0.2120 | Rank1,IoU@0.1 0.5281 | Rank1,IoU@0.3 0.3430 | Rank1,IoU@0.5 0.1344 | Rank5,mIoU 0.5623 | Rank5,IoU@0.1 0.9643 | Rank5,IoU@0.3 0.8760 | Rank5,IoU@0.5 0.6499 |
+============================================================
+Start Epoch 19
+Epoch 19, Batch 50, lr = 0.00006, final_loss = 4.2002, nll_loss = 4.1371, hneg_nll_loss = 4.2633, ivc_loss = 0.0576, neg_loss = 0.0065, hneg_loss = 0.0378, push_loss = 0.2850, pull_loss = 0.0010, 0.647 seconds/batch
+Epoch 19, Batch 100, lr = 0.00005, final_loss = 4.2204, nll_loss = 4.1557, hneg_nll_loss = 4.2852, ivc_loss = 0.0606, neg_loss = 0.0075, hneg_loss = 0.0399, push_loss = 0.2847, pull_loss = 0.0009, 0.645 seconds/batch
+Epoch 19, Batch 150, lr = 0.00005, final_loss = 4.1687, nll_loss = 4.1001, hneg_nll_loss = 4.2372, ivc_loss = 0.0574, neg_loss = 0.0058, hneg_loss = 0.0387, push_loss = 0.2835, pull_loss = 0.0009, 0.667 seconds/batch
+Epoch 19, Batch 200, lr = 0.00005, final_loss = 4.1686, nll_loss = 4.1032, hneg_nll_loss = 4.2340, ivc_loss = 0.0559, neg_loss = 0.0051, hneg_loss = 0.0377, push_loss = 0.2848, pull_loss = 0.0009, 0.694 seconds/batch
+Epoch 19, Batch 250, lr = 0.00005, final_loss = 4.1682, nll_loss = 4.1017, hneg_nll_loss = 4.2348, ivc_loss = 0.0592, neg_loss = 0.0067, hneg_loss = 0.0395, push_loss = 0.2828, pull_loss = 0.0010, 0.732 seconds/batch
+Epoch 19, Batch 300, lr = 0.00005, final_loss = 4.2370, nll_loss = 4.1719, hneg_nll_loss = 4.3020, ivc_loss = 0.0586, neg_loss = 0.0057, hneg_loss = 0.0398, push_loss = 0.2851, pull_loss = 0.0009, 0.759 seconds/batch
+Epoch 19, Batch 350, lr = 0.00005, final_loss = 4.2063, nll_loss = 4.1392, hneg_nll_loss = 4.2733, ivc_loss = 0.0546, neg_loss = 0.0045, hneg_loss = 0.0371, push_loss = 0.2841, pull_loss = 0.0009, 0.778 seconds/batch
+Epoch 19, Batch 400, lr = 0.00005, final_loss = 4.2056, nll_loss = 4.1394, hneg_nll_loss = 4.2718, ivc_loss = 0.0569, neg_loss = 0.0057, hneg_loss = 0.0378, push_loss = 0.2842, pull_loss = 0.0009, 0.795 seconds/batch
+Epoch 19, Batch 450, lr = 0.00005, final_loss = 4.2306, nll_loss = 4.1637, hneg_nll_loss = 4.2975, ivc_loss = 0.0571, neg_loss = 0.0050, hneg_loss = 0.0390, push_loss = 0.2860, pull_loss = 0.0010, 0.807 seconds/batch
+Epoch 19, Batch 500, lr = 0.00005, final_loss = 4.2080, nll_loss = 4.1414, hneg_nll_loss = 4.2745, ivc_loss = 0.0566, neg_loss = 0.0060, hneg_loss = 0.0378, push_loss = 0.2856, pull_loss = 0.0010, 0.816 seconds/batch
+Epoch 19, Batch 550, lr = 0.00005, final_loss = 4.1861, nll_loss = 4.1205, hneg_nll_loss = 4.2518, ivc_loss = 0.0583, neg_loss = 0.0070, hneg_loss = 0.0386, push_loss = 0.2835, pull_loss = 0.0009, 0.824 seconds/batch
+Epoch 19, Batch 600, lr = 0.00005, final_loss = 4.2057, nll_loss = 4.1364, hneg_nll_loss = 4.2750, ivc_loss = 0.0545, neg_loss = 0.0057, hneg_loss = 0.0361, push_loss = 0.2829, pull_loss = 0.0009, 0.830 seconds/batch
+Epoch 19, Batch 650, lr = 0.00005, final_loss = 4.2063, nll_loss = 4.1392, hneg_nll_loss = 4.2735, ivc_loss = 0.0572, neg_loss = 0.0070, hneg_loss = 0.0375, push_loss = 0.2839, pull_loss = 0.0009, 0.835 seconds/batch
+Epoch 19, Batch 700, lr = 0.00005, final_loss = 4.2242, nll_loss = 4.1551, hneg_nll_loss = 4.2932, ivc_loss = 0.0582, neg_loss = 0.0071, hneg_loss = 0.0382, push_loss = 0.2842, pull_loss = 0.0008, 0.840 seconds/batch
+Epoch 19, Batch 750, lr = 0.00005, final_loss = 4.2078, nll_loss = 4.1427, hneg_nll_loss = 4.2729, ivc_loss = 0.0568, neg_loss = 0.0054, hneg_loss = 0.0385, push_loss = 0.2850, pull_loss = 0.0009, 0.843 seconds/batch
+Epoch 19, Batch 800, lr = 0.00005, final_loss = 4.2077, nll_loss = 4.1429, hneg_nll_loss = 4.2725, ivc_loss = 0.0585, neg_loss = 0.0055, hneg_loss = 0.0402, push_loss = 0.2857, pull_loss = 0.0010, 0.847 seconds/batch
+Epoch 19, Batch 850, lr = 0.00005, final_loss = 4.2054, nll_loss = 4.1382, hneg_nll_loss = 4.2725, ivc_loss = 0.0564, neg_loss = 0.0056, hneg_loss = 0.0378, push_loss = 0.2859, pull_loss = 0.0010, 0.851 seconds/batch
+Epoch 19, Batch 900, lr = 0.00005, final_loss = 4.1937, nll_loss = 4.1273, hneg_nll_loss = 4.2601, ivc_loss = 0.0566, neg_loss = 0.0054, hneg_loss = 0.0376, push_loss = 0.2864, pull_loss = 0.0009, 0.853 seconds/batch
+Epoch 19, Batch 950, lr = 0.00005, final_loss = 4.1917, nll_loss = 4.1215, hneg_nll_loss = 4.2619, ivc_loss = 0.0536, neg_loss = 0.0056, hneg_loss = 0.0342, push_loss = 0.2836, pull_loss = 0.0009, 0.856 seconds/batch
+Epoch 19, Batch 1000, lr = 0.00005, final_loss = 4.2418, nll_loss = 4.1742, hneg_nll_loss = 4.3094, ivc_loss = 0.0544, neg_loss = 0.0054, hneg_loss = 0.0359, push_loss = 0.2837, pull_loss = 0.0008, 0.858 seconds/batch
+Epoch 19, Batch 1050, lr = 0.00005, final_loss = 4.2270, nll_loss = 4.1634, hneg_nll_loss = 4.2906, ivc_loss = 0.0593, neg_loss = 0.0066, hneg_loss = 0.0399, push_loss = 0.2822, pull_loss = 0.0008, 0.861 seconds/batch
+Epoch 19, Batch 1100, lr = 0.00005, final_loss = 4.2085, nll_loss = 4.1398, hneg_nll_loss = 4.2772, ivc_loss = 0.0577, neg_loss = 0.0061, hneg_loss = 0.0386, push_loss = 0.2814, pull_loss = 0.0008, 0.862 seconds/batch
+Epoch 19, Batch 1150, lr = 0.00005, final_loss = 4.2089, nll_loss = 4.1424, hneg_nll_loss = 4.2754, ivc_loss = 0.0569, neg_loss = 0.0068, hneg_loss = 0.0368, push_loss = 0.2809, pull_loss = 0.0009, 0.860 seconds/batch
+Epoch 19, Batch 1170, lr = 0.00005, final_loss = 4.2180, nll_loss = 4.1527, hneg_nll_loss = 4.2833, ivc_loss = 0.0585, neg_loss = 0.0062, hneg_loss = 0.0393, push_loss = 0.2819, pull_loss = 0.0008, 0.858 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-19.pt, num_updates 22230.
+| Rank1,mIoU 0.2472 | Rank1,IoU@0.1 0.5546 | Rank1,IoU@0.3 0.3751 | Rank1,IoU@0.5 0.1898 | Rank5,mIoU 0.5733 | Rank5,IoU@0.1 0.9666 | Rank5,IoU@0.3 0.8844 | Rank5,IoU@0.5 0.6647 |
+============================================================
+Start Epoch 20
+Epoch 20, Batch 50, lr = 0.00005, final_loss = 4.1530, nll_loss = 4.0836, hneg_nll_loss = 4.2224, ivc_loss = 0.0558, neg_loss = 0.0057, hneg_loss = 0.0370, push_loss = 0.2816, pull_loss = 0.0008, 0.656 seconds/batch
+Epoch 20, Batch 100, lr = 0.00005, final_loss = 4.1342, nll_loss = 4.0687, hneg_nll_loss = 4.1996, ivc_loss = 0.0564, neg_loss = 0.0043, hneg_loss = 0.0387, push_loss = 0.2813, pull_loss = 0.0009, 0.649 seconds/batch
+Epoch 20, Batch 150, lr = 0.00005, final_loss = 4.1566, nll_loss = 4.0924, hneg_nll_loss = 4.2209, ivc_loss = 0.0587, neg_loss = 0.0049, hneg_loss = 0.0405, push_loss = 0.2816, pull_loss = 0.0009, 0.664 seconds/batch
+Epoch 20, Batch 200, lr = 0.00005, final_loss = 4.1757, nll_loss = 4.1094, hneg_nll_loss = 4.2419, ivc_loss = 0.0595, neg_loss = 0.0059, hneg_loss = 0.0400, push_loss = 0.2820, pull_loss = 0.0008, 0.692 seconds/batch
+Epoch 20, Batch 250, lr = 0.00005, final_loss = 4.1954, nll_loss = 4.1273, hneg_nll_loss = 4.2636, ivc_loss = 0.0571, neg_loss = 0.0059, hneg_loss = 0.0374, push_loss = 0.2818, pull_loss = 0.0009, 0.728 seconds/batch
+Epoch 20, Batch 300, lr = 0.00005, final_loss = 4.1468, nll_loss = 4.0811, hneg_nll_loss = 4.2126, ivc_loss = 0.0578, neg_loss = 0.0047, hneg_loss = 0.0390, push_loss = 0.2813, pull_loss = 0.0009, 0.758 seconds/batch
+Epoch 20, Batch 350, lr = 0.00005, final_loss = 4.1542, nll_loss = 4.0837, hneg_nll_loss = 4.2248, ivc_loss = 0.0543, neg_loss = 0.0062, hneg_loss = 0.0343, push_loss = 0.2805, pull_loss = 0.0010, 0.779 seconds/batch
+Epoch 20, Batch 400, lr = 0.00005, final_loss = 4.1895, nll_loss = 4.1203, hneg_nll_loss = 4.2587, ivc_loss = 0.0560, neg_loss = 0.0054, hneg_loss = 0.0370, push_loss = 0.2797, pull_loss = 0.0010, 0.795 seconds/batch
+Epoch 20, Batch 450, lr = 0.00005, final_loss = 4.1744, nll_loss = 4.1108, hneg_nll_loss = 4.2380, ivc_loss = 0.0597, neg_loss = 0.0059, hneg_loss = 0.0402, push_loss = 0.2798, pull_loss = 0.0009, 0.805 seconds/batch
+Epoch 20, Batch 500, lr = 0.00005, final_loss = 4.2114, nll_loss = 4.1430, hneg_nll_loss = 4.2799, ivc_loss = 0.0544, neg_loss = 0.0043, hneg_loss = 0.0366, push_loss = 0.2805, pull_loss = 0.0010, 0.815 seconds/batch
+Epoch 20, Batch 550, lr = 0.00005, final_loss = 4.2092, nll_loss = 4.1404, hneg_nll_loss = 4.2780, ivc_loss = 0.0548, neg_loss = 0.0048, hneg_loss = 0.0366, push_loss = 0.2800, pull_loss = 0.0009, 0.824 seconds/batch
+Epoch 20, Batch 600, lr = 0.00005, final_loss = 4.1705, nll_loss = 4.1022, hneg_nll_loss = 4.2387, ivc_loss = 0.0544, neg_loss = 0.0045, hneg_loss = 0.0366, push_loss = 0.2803, pull_loss = 0.0009, 0.831 seconds/batch
+Epoch 20, Batch 650, lr = 0.00005, final_loss = 4.1854, nll_loss = 4.1178, hneg_nll_loss = 4.2531, ivc_loss = 0.0574, neg_loss = 0.0054, hneg_loss = 0.0385, push_loss = 0.2829, pull_loss = 0.0010, 0.836 seconds/batch
+Epoch 20, Batch 700, lr = 0.00005, final_loss = 4.1636, nll_loss = 4.0960, hneg_nll_loss = 4.2311, ivc_loss = 0.0557, neg_loss = 0.0050, hneg_loss = 0.0371, push_loss = 0.2836, pull_loss = 0.0009, 0.841 seconds/batch
+Epoch 20, Batch 750, lr = 0.00005, final_loss = 4.1912, nll_loss = 4.1231, hneg_nll_loss = 4.2593, ivc_loss = 0.0567, neg_loss = 0.0054, hneg_loss = 0.0380, push_loss = 0.2834, pull_loss = 0.0009, 0.845 seconds/batch
+Epoch 20, Batch 800, lr = 0.00005, final_loss = 4.1901, nll_loss = 4.1241, hneg_nll_loss = 4.2561, ivc_loss = 0.0574, neg_loss = 0.0048, hneg_loss = 0.0392, push_loss = 0.2835, pull_loss = 0.0009, 0.849 seconds/batch
+Epoch 20, Batch 850, lr = 0.00005, final_loss = 4.1802, nll_loss = 4.1132, hneg_nll_loss = 4.2471, ivc_loss = 0.0568, neg_loss = 0.0048, hneg_loss = 0.0388, push_loss = 0.2831, pull_loss = 0.0008, 0.852 seconds/batch
+Epoch 20, Batch 900, lr = 0.00005, final_loss = 4.1658, nll_loss = 4.1034, hneg_nll_loss = 4.2283, ivc_loss = 0.0610, neg_loss = 0.0060, hneg_loss = 0.0417, push_loss = 0.2822, pull_loss = 0.0008, 0.855 seconds/batch
+Epoch 20, Batch 950, lr = 0.00005, final_loss = 4.2125, nll_loss = 4.1414, hneg_nll_loss = 4.2835, ivc_loss = 0.0550, neg_loss = 0.0057, hneg_loss = 0.0358, push_loss = 0.2828, pull_loss = 0.0008, 0.857 seconds/batch
+Epoch 20, Batch 1000, lr = 0.00005, final_loss = 4.1627, nll_loss = 4.0964, hneg_nll_loss = 4.2291, ivc_loss = 0.0560, neg_loss = 0.0045, hneg_loss = 0.0384, push_loss = 0.2839, pull_loss = 0.0008, 0.860 seconds/batch
+Epoch 20, Batch 1050, lr = 0.00005, final_loss = 4.2212, nll_loss = 4.1559, hneg_nll_loss = 4.2865, ivc_loss = 0.0578, neg_loss = 0.0052, hneg_loss = 0.0394, push_loss = 0.2826, pull_loss = 0.0008, 0.861 seconds/batch
+Epoch 20, Batch 1100, lr = 0.00005, final_loss = 4.2014, nll_loss = 4.1368, hneg_nll_loss = 4.2660, ivc_loss = 0.0579, neg_loss = 0.0056, hneg_loss = 0.0390, push_loss = 0.2818, pull_loss = 0.0009, 0.863 seconds/batch
+Epoch 20, Batch 1150, lr = 0.00005, final_loss = 4.2328, nll_loss = 4.1637, hneg_nll_loss = 4.3019, ivc_loss = 0.0556, neg_loss = 0.0045, hneg_loss = 0.0375, push_loss = 0.2811, pull_loss = 0.0009, 0.861 seconds/batch
+Epoch 20, Batch 1170, lr = 0.00005, final_loss = 4.2105, nll_loss = 4.1385, hneg_nll_loss = 4.2825, ivc_loss = 0.0518, neg_loss = 0.0056, hneg_loss = 0.0326, push_loss = 0.2803, pull_loss = 0.0009, 0.859 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-20.pt, num_updates 23400.
+| Rank1,mIoU 0.2521 | Rank1,IoU@0.1 0.5372 | Rank1,IoU@0.3 0.3850 | Rank1,IoU@0.5 0.2030 | Rank5,mIoU 0.5754 | Rank5,IoU@0.1 0.9639 | Rank5,IoU@0.3 0.8775 | Rank5,IoU@0.5 0.6691 |
+============================================================
+Start Epoch 21
+Epoch 21, Batch 50, lr = 0.00005, final_loss = 4.1391, nll_loss = 4.0686, hneg_nll_loss = 4.2097, ivc_loss = 0.0551, neg_loss = 0.0050, hneg_loss = 0.0366, push_loss = 0.2802, pull_loss = 0.0009, 0.649 seconds/batch
+Epoch 21, Batch 100, lr = 0.00005, final_loss = 4.1604, nll_loss = 4.0908, hneg_nll_loss = 4.2300, ivc_loss = 0.0538, neg_loss = 0.0042, hneg_loss = 0.0359, push_loss = 0.2799, pull_loss = 0.0008, 0.646 seconds/batch
+Epoch 21, Batch 150, lr = 0.00005, final_loss = 4.1429, nll_loss = 4.0759, hneg_nll_loss = 4.2099, ivc_loss = 0.0569, neg_loss = 0.0032, hneg_loss = 0.0396, push_loss = 0.2790, pull_loss = 0.0009, 0.656 seconds/batch
+Epoch 21, Batch 200, lr = 0.00005, final_loss = 4.1357, nll_loss = 4.0674, hneg_nll_loss = 4.2041, ivc_loss = 0.0571, neg_loss = 0.0047, hneg_loss = 0.0386, push_loss = 0.2787, pull_loss = 0.0009, 0.685 seconds/batch
+Epoch 21, Batch 250, lr = 0.00005, final_loss = 4.1492, nll_loss = 4.0824, hneg_nll_loss = 4.2160, ivc_loss = 0.0585, neg_loss = 0.0056, hneg_loss = 0.0391, push_loss = 0.2789, pull_loss = 0.0009, 0.718 seconds/batch
+Epoch 21, Batch 300, lr = 0.00005, final_loss = 4.1409, nll_loss = 4.0727, hneg_nll_loss = 4.2091, ivc_loss = 0.0551, neg_loss = 0.0037, hneg_loss = 0.0376, push_loss = 0.2795, pull_loss = 0.0009, 0.750 seconds/batch
+Epoch 21, Batch 350, lr = 0.00005, final_loss = 4.1628, nll_loss = 4.0930, hneg_nll_loss = 4.2327, ivc_loss = 0.0537, neg_loss = 0.0041, hneg_loss = 0.0358, push_loss = 0.2790, pull_loss = 0.0009, 0.773 seconds/batch
+Epoch 21, Batch 400, lr = 0.00005, final_loss = 4.1666, nll_loss = 4.0969, hneg_nll_loss = 4.2362, ivc_loss = 0.0570, neg_loss = 0.0044, hneg_loss = 0.0389, push_loss = 0.2792, pull_loss = 0.0009, 0.789 seconds/batch
+Epoch 21, Batch 450, lr = 0.00005, final_loss = 4.1449, nll_loss = 4.0790, hneg_nll_loss = 4.2108, ivc_loss = 0.0594, neg_loss = 0.0056, hneg_loss = 0.0399, push_loss = 0.2790, pull_loss = 0.0009, 0.802 seconds/batch
+Epoch 21, Batch 500, lr = 0.00005, final_loss = 4.1710, nll_loss = 4.1019, hneg_nll_loss = 4.2401, ivc_loss = 0.0556, neg_loss = 0.0053, hneg_loss = 0.0360, push_loss = 0.2786, pull_loss = 0.0009, 0.812 seconds/batch
+Epoch 21, Batch 550, lr = 0.00005, final_loss = 4.1553, nll_loss = 4.0868, hneg_nll_loss = 4.2237, ivc_loss = 0.0560, neg_loss = 0.0046, hneg_loss = 0.0372, push_loss = 0.2788, pull_loss = 0.0009, 0.820 seconds/batch
+Epoch 21, Batch 600, lr = 0.00005, final_loss = 4.1550, nll_loss = 4.0834, hneg_nll_loss = 4.2265, ivc_loss = 0.0524, neg_loss = 0.0043, hneg_loss = 0.0340, push_loss = 0.2781, pull_loss = 0.0008, 0.827 seconds/batch
+Epoch 21, Batch 650, lr = 0.00005, final_loss = 4.1533, nll_loss = 4.0839, hneg_nll_loss = 4.2226, ivc_loss = 0.0548, neg_loss = 0.0046, hneg_loss = 0.0361, push_loss = 0.2787, pull_loss = 0.0008, 0.833 seconds/batch
+Epoch 21, Batch 700, lr = 0.00005, final_loss = 4.1880, nll_loss = 4.1204, hneg_nll_loss = 4.2555, ivc_loss = 0.0553, neg_loss = 0.0045, hneg_loss = 0.0370, push_loss = 0.2782, pull_loss = 0.0008, 0.839 seconds/batch
+Epoch 21, Batch 750, lr = 0.00005, final_loss = 4.1709, nll_loss = 4.1027, hneg_nll_loss = 4.2391, ivc_loss = 0.0554, neg_loss = 0.0051, hneg_loss = 0.0363, push_loss = 0.2778, pull_loss = 0.0008, 0.844 seconds/batch
+Epoch 21, Batch 800, lr = 0.00005, final_loss = 4.1637, nll_loss = 4.0964, hneg_nll_loss = 4.2310, ivc_loss = 0.0579, neg_loss = 0.0046, hneg_loss = 0.0392, push_loss = 0.2786, pull_loss = 0.0009, 0.847 seconds/batch
+Epoch 21, Batch 850, lr = 0.00005, final_loss = 4.1509, nll_loss = 4.0815, hneg_nll_loss = 4.2202, ivc_loss = 0.0546, neg_loss = 0.0041, hneg_loss = 0.0364, push_loss = 0.2785, pull_loss = 0.0009, 0.851 seconds/batch
+Epoch 21, Batch 900, lr = 0.00005, final_loss = 4.1497, nll_loss = 4.0826, hneg_nll_loss = 4.2169, ivc_loss = 0.0563, neg_loss = 0.0055, hneg_loss = 0.0370, push_loss = 0.2789, pull_loss = 0.0009, 0.853 seconds/batch
+Epoch 21, Batch 950, lr = 0.00005, final_loss = 4.1927, nll_loss = 4.1233, hneg_nll_loss = 4.2620, ivc_loss = 0.0561, neg_loss = 0.0054, hneg_loss = 0.0369, push_loss = 0.2796, pull_loss = 0.0009, 0.856 seconds/batch
+Epoch 21, Batch 1000, lr = 0.00005, final_loss = 4.2256, nll_loss = 4.1593, hneg_nll_loss = 4.2919, ivc_loss = 0.0570, neg_loss = 0.0039, hneg_loss = 0.0388, push_loss = 0.2808, pull_loss = 0.0009, 0.858 seconds/batch
+Epoch 21, Batch 1050, lr = 0.00005, final_loss = 4.1619, nll_loss = 4.0931, hneg_nll_loss = 4.2307, ivc_loss = 0.0589, neg_loss = 0.0048, hneg_loss = 0.0397, push_loss = 0.2820, pull_loss = 0.0009, 0.861 seconds/batch
+Epoch 21, Batch 1100, lr = 0.00005, final_loss = 4.2054, nll_loss = 4.1354, hneg_nll_loss = 4.2753, ivc_loss = 0.0555, neg_loss = 0.0040, hneg_loss = 0.0374, push_loss = 0.2821, pull_loss = 0.0008, 0.862 seconds/batch
+Epoch 21, Batch 1150, lr = 0.00005, final_loss = 4.1399, nll_loss = 4.0725, hneg_nll_loss = 4.2073, ivc_loss = 0.0582, neg_loss = 0.0050, hneg_loss = 0.0394, push_loss = 0.2827, pull_loss = 0.0009, 0.860 seconds/batch
+Epoch 21, Batch 1170, lr = 0.00005, final_loss = 4.1383, nll_loss = 4.0713, hneg_nll_loss = 4.2052, ivc_loss = 0.0604, neg_loss = 0.0057, hneg_loss = 0.0408, push_loss = 0.2824, pull_loss = 0.0008, 0.858 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-21.pt, num_updates 24570.
+| Rank1,mIoU 0.2625 | Rank1,IoU@0.1 0.5615 | Rank1,IoU@0.3 0.4081 | Rank1,IoU@0.5 0.2147 | Rank5,mIoU 0.5888 | Rank5,IoU@0.1 0.9655 | Rank5,IoU@0.3 0.8817 | Rank5,IoU@0.5 0.6953 |
+============================================================
+Start Epoch 22
+Epoch 22, Batch 50, lr = 0.00005, final_loss = 4.1165, nll_loss = 4.0477, hneg_nll_loss = 4.1854, ivc_loss = 0.0549, neg_loss = 0.0035, hneg_loss = 0.0377, push_loss = 0.2813, pull_loss = 0.0008, 0.644 seconds/batch
+Epoch 22, Batch 100, lr = 0.00005, final_loss = 4.1123, nll_loss = 4.0440, hneg_nll_loss = 4.1807, ivc_loss = 0.0568, neg_loss = 0.0049, hneg_loss = 0.0382, push_loss = 0.2799, pull_loss = 0.0008, 0.643 seconds/batch
+Epoch 22, Batch 150, lr = 0.00005, final_loss = 4.1299, nll_loss = 4.0641, hneg_nll_loss = 4.1956, ivc_loss = 0.0572, neg_loss = 0.0047, hneg_loss = 0.0388, push_loss = 0.2786, pull_loss = 0.0008, 0.650 seconds/batch
+Epoch 22, Batch 200, lr = 0.00005, final_loss = 4.1403, nll_loss = 4.0719, hneg_nll_loss = 4.2087, ivc_loss = 0.0564, neg_loss = 0.0044, hneg_loss = 0.0375, push_loss = 0.2794, pull_loss = 0.0009, 0.681 seconds/batch
+Epoch 22, Batch 250, lr = 0.00005, final_loss = 4.1126, nll_loss = 4.0427, hneg_nll_loss = 4.1826, ivc_loss = 0.0540, neg_loss = 0.0042, hneg_loss = 0.0351, push_loss = 0.2813, pull_loss = 0.0008, 0.712 seconds/batch
+Epoch 22, Batch 300, lr = 0.00005, final_loss = 4.1661, nll_loss = 4.0942, hneg_nll_loss = 4.2381, ivc_loss = 0.0554, neg_loss = 0.0043, hneg_loss = 0.0362, push_loss = 0.2814, pull_loss = 0.0009, 0.746 seconds/batch
+Epoch 22, Batch 350, lr = 0.00005, final_loss = 4.0838, nll_loss = 4.0146, hneg_nll_loss = 4.1530, ivc_loss = 0.0565, neg_loss = 0.0047, hneg_loss = 0.0371, push_loss = 0.2786, pull_loss = 0.0009, 0.769 seconds/batch
+Epoch 22, Batch 400, lr = 0.00005, final_loss = 4.1544, nll_loss = 4.0874, hneg_nll_loss = 4.2213, ivc_loss = 0.0582, neg_loss = 0.0047, hneg_loss = 0.0389, push_loss = 0.2776, pull_loss = 0.0008, 0.785 seconds/batch
+Epoch 22, Batch 450, lr = 0.00005, final_loss = 4.1531, nll_loss = 4.0854, hneg_nll_loss = 4.2209, ivc_loss = 0.0582, neg_loss = 0.0035, hneg_loss = 0.0399, push_loss = 0.2773, pull_loss = 0.0009, 0.798 seconds/batch
+Epoch 22, Batch 500, lr = 0.00005, final_loss = 4.1477, nll_loss = 4.0795, hneg_nll_loss = 4.2160, ivc_loss = 0.0557, neg_loss = 0.0039, hneg_loss = 0.0375, push_loss = 0.2762, pull_loss = 0.0009, 0.809 seconds/batch
+Epoch 22, Batch 550, lr = 0.00005, final_loss = 4.1392, nll_loss = 4.0700, hneg_nll_loss = 4.2084, ivc_loss = 0.0548, neg_loss = 0.0031, hneg_loss = 0.0371, push_loss = 0.2771, pull_loss = 0.0009, 0.818 seconds/batch
+Epoch 22, Batch 600, lr = 0.00005, final_loss = 4.0869, nll_loss = 4.0193, hneg_nll_loss = 4.1544, ivc_loss = 0.0573, neg_loss = 0.0044, hneg_loss = 0.0382, push_loss = 0.2786, pull_loss = 0.0009, 0.825 seconds/batch
+Epoch 22, Batch 650, lr = 0.00005, final_loss = 4.1427, nll_loss = 4.0752, hneg_nll_loss = 4.2101, ivc_loss = 0.0572, neg_loss = 0.0039, hneg_loss = 0.0385, push_loss = 0.2785, pull_loss = 0.0009, 0.831 seconds/batch
+Epoch 22, Batch 700, lr = 0.00005, final_loss = 4.1452, nll_loss = 4.0766, hneg_nll_loss = 4.2138, ivc_loss = 0.0573, neg_loss = 0.0045, hneg_loss = 0.0378, push_loss = 0.2777, pull_loss = 0.0009, 0.836 seconds/batch
+Epoch 22, Batch 750, lr = 0.00005, final_loss = 4.1630, nll_loss = 4.0957, hneg_nll_loss = 4.2304, ivc_loss = 0.0556, neg_loss = 0.0036, hneg_loss = 0.0372, push_loss = 0.2781, pull_loss = 0.0008, 0.841 seconds/batch
+Epoch 22, Batch 800, lr = 0.00005, final_loss = 4.1563, nll_loss = 4.0900, hneg_nll_loss = 4.2226, ivc_loss = 0.0564, neg_loss = 0.0033, hneg_loss = 0.0382, push_loss = 0.2786, pull_loss = 0.0009, 0.845 seconds/batch
+Epoch 22, Batch 850, lr = 0.00005, final_loss = 4.1598, nll_loss = 4.0896, hneg_nll_loss = 4.2300, ivc_loss = 0.0568, neg_loss = 0.0045, hneg_loss = 0.0372, push_loss = 0.2791, pull_loss = 0.0009, 0.848 seconds/batch
+Epoch 22, Batch 900, lr = 0.00005, final_loss = 4.1803, nll_loss = 4.1089, hneg_nll_loss = 4.2516, ivc_loss = 0.0543, neg_loss = 0.0040, hneg_loss = 0.0350, push_loss = 0.2796, pull_loss = 0.0008, 0.852 seconds/batch
+Epoch 22, Batch 950, lr = 0.00005, final_loss = 4.1472, nll_loss = 4.0773, hneg_nll_loss = 4.2171, ivc_loss = 0.0574, neg_loss = 0.0040, hneg_loss = 0.0380, push_loss = 0.2797, pull_loss = 0.0008, 0.854 seconds/batch
+Epoch 22, Batch 1000, lr = 0.00005, final_loss = 4.1542, nll_loss = 4.0827, hneg_nll_loss = 4.2257, ivc_loss = 0.0562, neg_loss = 0.0042, hneg_loss = 0.0366, push_loss = 0.2785, pull_loss = 0.0009, 0.857 seconds/batch
+Epoch 22, Batch 1050, lr = 0.00005, final_loss = 4.1578, nll_loss = 4.0878, hneg_nll_loss = 4.2277, ivc_loss = 0.0557, neg_loss = 0.0035, hneg_loss = 0.0371, push_loss = 0.2783, pull_loss = 0.0009, 0.860 seconds/batch
+Epoch 22, Batch 1100, lr = 0.00005, final_loss = 4.1674, nll_loss = 4.0987, hneg_nll_loss = 4.2360, ivc_loss = 0.0576, neg_loss = 0.0044, hneg_loss = 0.0377, push_loss = 0.2794, pull_loss = 0.0009, 0.862 seconds/batch
+Epoch 22, Batch 1150, lr = 0.00005, final_loss = 4.1549, nll_loss = 4.0866, hneg_nll_loss = 4.2231, ivc_loss = 0.0565, neg_loss = 0.0033, hneg_loss = 0.0380, push_loss = 0.2788, pull_loss = 0.0008, 0.860 seconds/batch
+Epoch 22, Batch 1170, lr = 0.00005, final_loss = 4.1190, nll_loss = 4.0505, hneg_nll_loss = 4.1875, ivc_loss = 0.0569, neg_loss = 0.0042, hneg_loss = 0.0379, push_loss = 0.2786, pull_loss = 0.0008, 0.859 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-22.pt, num_updates 25740.
+| Rank1,mIoU 0.2484 | Rank1,IoU@0.1 0.5876 | Rank1,IoU@0.3 0.3893 | Rank1,IoU@0.5 0.1722 | Rank5,mIoU 0.6000 | Rank5,IoU@0.1 0.9642 | Rank5,IoU@0.3 0.8767 | Rank5,IoU@0.5 0.7128 |
+============================================================
+Start Epoch 23
+Epoch 23, Batch 50, lr = 0.00005, final_loss = 4.0670, nll_loss = 3.9959, hneg_nll_loss = 4.1380, ivc_loss = 0.0542, neg_loss = 0.0036, hneg_loss = 0.0352, push_loss = 0.2797, pull_loss = 0.0008, 0.643 seconds/batch
+Epoch 23, Batch 100, lr = 0.00005, final_loss = 4.0922, nll_loss = 4.0229, hneg_nll_loss = 4.1615, ivc_loss = 0.0567, neg_loss = 0.0029, hneg_loss = 0.0383, push_loss = 0.2790, pull_loss = 0.0008, 0.645 seconds/batch
+Epoch 23, Batch 150, lr = 0.00005, final_loss = 4.1043, nll_loss = 4.0328, hneg_nll_loss = 4.1757, ivc_loss = 0.0550, neg_loss = 0.0038, hneg_loss = 0.0357, push_loss = 0.2782, pull_loss = 0.0008, 0.649 seconds/batch
+Epoch 23, Batch 200, lr = 0.00005, final_loss = 4.1145, nll_loss = 4.0451, hneg_nll_loss = 4.1840, ivc_loss = 0.0550, neg_loss = 0.0043, hneg_loss = 0.0350, push_loss = 0.2779, pull_loss = 0.0008, 0.680 seconds/batch
+Epoch 23, Batch 250, lr = 0.00005, final_loss = 4.1069, nll_loss = 4.0344, hneg_nll_loss = 4.1793, ivc_loss = 0.0534, neg_loss = 0.0034, hneg_loss = 0.0343, push_loss = 0.2768, pull_loss = 0.0008, 0.713 seconds/batch
+Epoch 23, Batch 300, lr = 0.00005, final_loss = 4.1100, nll_loss = 4.0433, hneg_nll_loss = 4.1767, ivc_loss = 0.0581, neg_loss = 0.0032, hneg_loss = 0.0393, push_loss = 0.2762, pull_loss = 0.0008, 0.746 seconds/batch
+Epoch 23, Batch 350, lr = 0.00005, final_loss = 4.1238, nll_loss = 4.0538, hneg_nll_loss = 4.1937, ivc_loss = 0.0563, neg_loss = 0.0034, hneg_loss = 0.0376, push_loss = 0.2756, pull_loss = 0.0008, 0.769 seconds/batch
+Epoch 23, Batch 400, lr = 0.00005, final_loss = 4.1098, nll_loss = 4.0442, hneg_nll_loss = 4.1753, ivc_loss = 0.0582, neg_loss = 0.0040, hneg_loss = 0.0390, push_loss = 0.2763, pull_loss = 0.0008, 0.786 seconds/batch
+Epoch 23, Batch 450, lr = 0.00005, final_loss = 4.1367, nll_loss = 4.0667, hneg_nll_loss = 4.2067, ivc_loss = 0.0560, neg_loss = 0.0042, hneg_loss = 0.0367, push_loss = 0.2772, pull_loss = 0.0007, 0.799 seconds/batch
+Epoch 23, Batch 500, lr = 0.00005, final_loss = 4.1202, nll_loss = 4.0533, hneg_nll_loss = 4.1871, ivc_loss = 0.0582, neg_loss = 0.0041, hneg_loss = 0.0390, push_loss = 0.2770, pull_loss = 0.0007, 0.810 seconds/batch
+Epoch 23, Batch 550, lr = 0.00005, final_loss = 4.1312, nll_loss = 4.0623, hneg_nll_loss = 4.2000, ivc_loss = 0.0547, neg_loss = 0.0031, hneg_loss = 0.0367, push_loss = 0.2775, pull_loss = 0.0007, 0.819 seconds/batch
+Epoch 23, Batch 600, lr = 0.00005, final_loss = 4.1117, nll_loss = 4.0407, hneg_nll_loss = 4.1828, ivc_loss = 0.0552, neg_loss = 0.0035, hneg_loss = 0.0365, push_loss = 0.2789, pull_loss = 0.0008, 0.826 seconds/batch
+Epoch 23, Batch 650, lr = 0.00005, final_loss = 4.1533, nll_loss = 4.0837, hneg_nll_loss = 4.2230, ivc_loss = 0.0566, neg_loss = 0.0032, hneg_loss = 0.0379, push_loss = 0.2796, pull_loss = 0.0008, 0.831 seconds/batch
+Epoch 23, Batch 700, lr = 0.00005, final_loss = 4.1261, nll_loss = 4.0577, hneg_nll_loss = 4.1944, ivc_loss = 0.0577, neg_loss = 0.0035, hneg_loss = 0.0385, push_loss = 0.2796, pull_loss = 0.0008, 0.836 seconds/batch
+Epoch 23, Batch 750, lr = 0.00005, final_loss = 4.1475, nll_loss = 4.0772, hneg_nll_loss = 4.2178, ivc_loss = 0.0533, neg_loss = 0.0028, hneg_loss = 0.0348, push_loss = 0.2806, pull_loss = 0.0007, 0.841 seconds/batch
+Epoch 23, Batch 800, lr = 0.00005, final_loss = 4.1552, nll_loss = 4.0868, hneg_nll_loss = 4.2237, ivc_loss = 0.0580, neg_loss = 0.0036, hneg_loss = 0.0391, push_loss = 0.2794, pull_loss = 0.0007, 0.845 seconds/batch
+Epoch 23, Batch 850, lr = 0.00005, final_loss = 4.1284, nll_loss = 4.0570, hneg_nll_loss = 4.1998, ivc_loss = 0.0548, neg_loss = 0.0034, hneg_loss = 0.0362, push_loss = 0.2788, pull_loss = 0.0007, 0.849 seconds/batch
+Epoch 23, Batch 900, lr = 0.00005, final_loss = 4.1389, nll_loss = 4.0701, hneg_nll_loss = 4.2077, ivc_loss = 0.0550, neg_loss = 0.0035, hneg_loss = 0.0362, push_loss = 0.2787, pull_loss = 0.0006, 0.852 seconds/batch
+Epoch 23, Batch 950, lr = 0.00005, final_loss = 4.0895, nll_loss = 4.0229, hneg_nll_loss = 4.1561, ivc_loss = 0.0596, neg_loss = 0.0046, hneg_loss = 0.0398, push_loss = 0.2774, pull_loss = 0.0007, 0.855 seconds/batch
+Epoch 23, Batch 1000, lr = 0.00005, final_loss = 4.1289, nll_loss = 4.0577, hneg_nll_loss = 4.2000, ivc_loss = 0.0532, neg_loss = 0.0036, hneg_loss = 0.0341, push_loss = 0.2781, pull_loss = 0.0007, 0.857 seconds/batch
+Epoch 23, Batch 1050, lr = 0.00005, final_loss = 4.1346, nll_loss = 4.0635, hneg_nll_loss = 4.2057, ivc_loss = 0.0556, neg_loss = 0.0041, hneg_loss = 0.0361, push_loss = 0.2790, pull_loss = 0.0007, 0.859 seconds/batch
+Epoch 23, Batch 1100, lr = 0.00005, final_loss = 4.1172, nll_loss = 4.0498, hneg_nll_loss = 4.1847, ivc_loss = 0.0587, neg_loss = 0.0040, hneg_loss = 0.0395, push_loss = 0.2796, pull_loss = 0.0007, 0.861 seconds/batch
+Epoch 23, Batch 1150, lr = 0.00005, final_loss = 4.1403, nll_loss = 4.0694, hneg_nll_loss = 4.2112, ivc_loss = 0.0571, neg_loss = 0.0051, hneg_loss = 0.0364, push_loss = 0.2804, pull_loss = 0.0007, 0.858 seconds/batch
+Epoch 23, Batch 1170, lr = 0.00005, final_loss = 4.1530, nll_loss = 4.0854, hneg_nll_loss = 4.2207, ivc_loss = 0.0584, neg_loss = 0.0030, hneg_loss = 0.0400, push_loss = 0.2792, pull_loss = 0.0007, 0.856 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-23.pt, num_updates 26910.
+| Rank1,mIoU 0.2783 | Rank1,IoU@0.1 0.5889 | Rank1,IoU@0.3 0.4196 | Rank1,IoU@0.5 0.2450 | Rank5,mIoU 0.5863 | Rank5,IoU@0.1 0.9594 | Rank5,IoU@0.3 0.8675 | Rank5,IoU@0.5 0.6922 |
+============================================================
+Start Epoch 24
+Epoch 24, Batch 50, lr = 0.00005, final_loss = 4.0695, nll_loss = 3.9996, hneg_nll_loss = 4.1395, ivc_loss = 0.0559, neg_loss = 0.0032, hneg_loss = 0.0376, push_loss = 0.2780, pull_loss = 0.0006, 0.649 seconds/batch
+Epoch 24, Batch 100, lr = 0.00005, final_loss = 4.0599, nll_loss = 3.9906, hneg_nll_loss = 4.1291, ivc_loss = 0.0536, neg_loss = 0.0032, hneg_loss = 0.0351, push_loss = 0.2789, pull_loss = 0.0006, 0.646 seconds/batch
+Epoch 24, Batch 150, lr = 0.00005, final_loss = 4.0936, nll_loss = 4.0225, hneg_nll_loss = 4.1648, ivc_loss = 0.0532, neg_loss = 0.0028, hneg_loss = 0.0353, push_loss = 0.2782, pull_loss = 0.0006, 0.646 seconds/batch
+Epoch 24, Batch 200, lr = 0.00005, final_loss = 4.0993, nll_loss = 4.0308, hneg_nll_loss = 4.1678, ivc_loss = 0.0568, neg_loss = 0.0030, hneg_loss = 0.0387, push_loss = 0.2787, pull_loss = 0.0006, 0.677 seconds/batch
+Epoch 24, Batch 250, lr = 0.00005, final_loss = 4.0913, nll_loss = 4.0200, hneg_nll_loss = 4.1627, ivc_loss = 0.0558, neg_loss = 0.0056, hneg_loss = 0.0349, push_loss = 0.2785, pull_loss = 0.0005, 0.706 seconds/batch
+Epoch 24, Batch 300, lr = 0.00005, final_loss = 4.0963, nll_loss = 4.0264, hneg_nll_loss = 4.1661, ivc_loss = 0.0563, neg_loss = 0.0029, hneg_loss = 0.0381, push_loss = 0.2777, pull_loss = 0.0006, 0.739 seconds/batch
+Epoch 24, Batch 350, lr = 0.00005, final_loss = 4.0757, nll_loss = 4.0045, hneg_nll_loss = 4.1470, ivc_loss = 0.0570, neg_loss = 0.0047, hneg_loss = 0.0367, push_loss = 0.2781, pull_loss = 0.0006, 0.762 seconds/batch
+Epoch 24, Batch 400, lr = 0.00005, final_loss = 4.1522, nll_loss = 4.0847, hneg_nll_loss = 4.2197, ivc_loss = 0.0588, neg_loss = 0.0037, hneg_loss = 0.0398, push_loss = 0.2776, pull_loss = 0.0006, 0.780 seconds/batch
+Epoch 24, Batch 450, lr = 0.00005, final_loss = 4.0914, nll_loss = 4.0207, hneg_nll_loss = 4.1620, ivc_loss = 0.0575, neg_loss = 0.0044, hneg_loss = 0.0379, push_loss = 0.2775, pull_loss = 0.0006, 0.793 seconds/batch
+Epoch 24, Batch 500, lr = 0.00005, final_loss = 4.0897, nll_loss = 4.0201, hneg_nll_loss = 4.1594, ivc_loss = 0.0543, neg_loss = 0.0029, hneg_loss = 0.0362, push_loss = 0.2773, pull_loss = 0.0006, 0.804 seconds/batch
+Epoch 24, Batch 550, lr = 0.00005, final_loss = 4.0955, nll_loss = 4.0236, hneg_nll_loss = 4.1675, ivc_loss = 0.0539, neg_loss = 0.0036, hneg_loss = 0.0348, push_loss = 0.2777, pull_loss = 0.0005, 0.814 seconds/batch
+Epoch 24, Batch 600, lr = 0.00005, final_loss = 4.1429, nll_loss = 4.0746, hneg_nll_loss = 4.2112, ivc_loss = 0.0575, neg_loss = 0.0038, hneg_loss = 0.0383, push_loss = 0.2767, pull_loss = 0.0005, 0.822 seconds/batch
+Epoch 24, Batch 650, lr = 0.00005, final_loss = 4.1103, nll_loss = 4.0418, hneg_nll_loss = 4.1789, ivc_loss = 0.0557, neg_loss = 0.0032, hneg_loss = 0.0368, push_loss = 0.2772, pull_loss = 0.0006, 0.827 seconds/batch
+Epoch 24, Batch 700, lr = 0.00005, final_loss = 4.0954, nll_loss = 4.0232, hneg_nll_loss = 4.1675, ivc_loss = 0.0558, neg_loss = 0.0034, hneg_loss = 0.0364, push_loss = 0.2777, pull_loss = 0.0006, 0.832 seconds/batch
+Epoch 24, Batch 750, lr = 0.00005, final_loss = 4.0972, nll_loss = 4.0269, hneg_nll_loss = 4.1676, ivc_loss = 0.0570, neg_loss = 0.0038, hneg_loss = 0.0369, push_loss = 0.2782, pull_loss = 0.0006, 0.837 seconds/batch
+Epoch 24, Batch 800, lr = 0.00005, final_loss = 4.1131, nll_loss = 4.0434, hneg_nll_loss = 4.1828, ivc_loss = 0.0563, neg_loss = 0.0023, hneg_loss = 0.0376, push_loss = 0.2776, pull_loss = 0.0006, 0.842 seconds/batch
+Epoch 24, Batch 850, lr = 0.00005, final_loss = 4.1155, nll_loss = 4.0439, hneg_nll_loss = 4.1870, ivc_loss = 0.0557, neg_loss = 0.0030, hneg_loss = 0.0368, push_loss = 0.2772, pull_loss = 0.0006, 0.845 seconds/batch
+Epoch 24, Batch 900, lr = 0.00005, final_loss = 4.1349, nll_loss = 4.0632, hneg_nll_loss = 4.2066, ivc_loss = 0.0560, neg_loss = 0.0037, hneg_loss = 0.0367, push_loss = 0.2787, pull_loss = 0.0005, 0.849 seconds/batch
+Epoch 24, Batch 950, lr = 0.00005, final_loss = 4.1022, nll_loss = 4.0348, hneg_nll_loss = 4.1696, ivc_loss = 0.0614, neg_loss = 0.0059, hneg_loss = 0.0402, push_loss = 0.2780, pull_loss = 0.0006, 0.852 seconds/batch
+Epoch 24, Batch 1000, lr = 0.00005, final_loss = 4.0940, nll_loss = 4.0234, hneg_nll_loss = 4.1647, ivc_loss = 0.0567, neg_loss = 0.0048, hneg_loss = 0.0364, push_loss = 0.2781, pull_loss = 0.0006, 0.855 seconds/batch
+Epoch 24, Batch 1050, lr = 0.00005, final_loss = 4.0958, nll_loss = 4.0274, hneg_nll_loss = 4.1643, ivc_loss = 0.0551, neg_loss = 0.0037, hneg_loss = 0.0360, push_loss = 0.2783, pull_loss = 0.0006, 0.857 seconds/batch
+Epoch 24, Batch 1100, lr = 0.00005, final_loss = 4.1113, nll_loss = 4.0389, hneg_nll_loss = 4.1836, ivc_loss = 0.0569, neg_loss = 0.0055, hneg_loss = 0.0359, push_loss = 0.2782, pull_loss = 0.0006, 0.859 seconds/batch
+Epoch 24, Batch 1150, lr = 0.00005, final_loss = 4.1271, nll_loss = 4.0580, hneg_nll_loss = 4.1962, ivc_loss = 0.0541, neg_loss = 0.0029, hneg_loss = 0.0352, push_loss = 0.2784, pull_loss = 0.0006, 0.857 seconds/batch
+Epoch 24, Batch 1170, lr = 0.00005, final_loss = 4.1425, nll_loss = 4.0694, hneg_nll_loss = 4.2157, ivc_loss = 0.0546, neg_loss = 0.0025, hneg_loss = 0.0357, push_loss = 0.2785, pull_loss = 0.0006, 0.855 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-24.pt, num_updates 28080.
+| Rank1,mIoU 0.2906 | Rank1,IoU@0.1 0.6202 | Rank1,IoU@0.3 0.4321 | Rank1,IoU@0.5 0.2628 | Rank5,mIoU 0.5942 | Rank5,IoU@0.1 0.9551 | Rank5,IoU@0.3 0.8578 | Rank5,IoU@0.5 0.7248 |
+============================================================
+Start Epoch 25
+Epoch 25, Batch 50, lr = 0.00005, final_loss = 4.0633, nll_loss = 3.9958, hneg_nll_loss = 4.1308, ivc_loss = 0.0593, neg_loss = 0.0041, hneg_loss = 0.0385, push_loss = 0.2781, pull_loss = 0.0006, 0.646 seconds/batch
+Epoch 25, Batch 100, lr = 0.00005, final_loss = 4.0927, nll_loss = 4.0259, hneg_nll_loss = 4.1596, ivc_loss = 0.0595, neg_loss = 0.0026, hneg_loss = 0.0401, push_loss = 0.2785, pull_loss = 0.0006, 0.644 seconds/batch
+Epoch 25, Batch 150, lr = 0.00005, final_loss = 4.0672, nll_loss = 3.9931, hneg_nll_loss = 4.1413, ivc_loss = 0.0533, neg_loss = 0.0030, hneg_loss = 0.0339, push_loss = 0.2774, pull_loss = 0.0006, 0.644 seconds/batch
+Epoch 25, Batch 200, lr = 0.00005, final_loss = 4.0390, nll_loss = 3.9668, hneg_nll_loss = 4.1112, ivc_loss = 0.0526, neg_loss = 0.0020, hneg_loss = 0.0347, push_loss = 0.2768, pull_loss = 0.0006, 0.675 seconds/batch
+Epoch 25, Batch 250, lr = 0.00005, final_loss = 4.0752, nll_loss = 4.0052, hneg_nll_loss = 4.1453, ivc_loss = 0.0589, neg_loss = 0.0050, hneg_loss = 0.0380, push_loss = 0.2766, pull_loss = 0.0006, 0.699 seconds/batch
+Epoch 25, Batch 300, lr = 0.00005, final_loss = 4.0731, nll_loss = 4.0026, hneg_nll_loss = 4.1436, ivc_loss = 0.0551, neg_loss = 0.0030, hneg_loss = 0.0359, push_loss = 0.2772, pull_loss = 0.0006, 0.734 seconds/batch
+Epoch 25, Batch 350, lr = 0.00005, final_loss = 4.1096, nll_loss = 4.0403, hneg_nll_loss = 4.1789, ivc_loss = 0.0582, neg_loss = 0.0037, hneg_loss = 0.0382, push_loss = 0.2766, pull_loss = 0.0006, 0.757 seconds/batch
+Epoch 25, Batch 400, lr = 0.00005, final_loss = 4.1116, nll_loss = 4.0426, hneg_nll_loss = 4.1805, ivc_loss = 0.0576, neg_loss = 0.0030, hneg_loss = 0.0381, push_loss = 0.2769, pull_loss = 0.0007, 0.776 seconds/batch
+Epoch 25, Batch 450, lr = 0.00005, final_loss = 4.0669, nll_loss = 3.9984, hneg_nll_loss = 4.1353, ivc_loss = 0.0558, neg_loss = 0.0030, hneg_loss = 0.0365, push_loss = 0.2760, pull_loss = 0.0006, 0.790 seconds/batch
+Epoch 25, Batch 500, lr = 0.00005, final_loss = 4.0638, nll_loss = 3.9913, hneg_nll_loss = 4.1362, ivc_loss = 0.0557, neg_loss = 0.0034, hneg_loss = 0.0362, push_loss = 0.2754, pull_loss = 0.0006, 0.801 seconds/batch
+Epoch 25, Batch 550, lr = 0.00005, final_loss = 4.0674, nll_loss = 3.9991, hneg_nll_loss = 4.1358, ivc_loss = 0.0575, neg_loss = 0.0031, hneg_loss = 0.0383, push_loss = 0.2761, pull_loss = 0.0006, 0.812 seconds/batch
+Epoch 25, Batch 600, lr = 0.00005, final_loss = 4.0735, nll_loss = 4.0023, hneg_nll_loss = 4.1446, ivc_loss = 0.0559, neg_loss = 0.0025, hneg_loss = 0.0371, push_loss = 0.2770, pull_loss = 0.0006, 0.820 seconds/batch
+Epoch 25, Batch 650, lr = 0.00005, final_loss = 4.0956, nll_loss = 4.0244, hneg_nll_loss = 4.1668, ivc_loss = 0.0531, neg_loss = 0.0022, hneg_loss = 0.0346, push_loss = 0.2776, pull_loss = 0.0006, 0.827 seconds/batch
+Epoch 25, Batch 700, lr = 0.00005, final_loss = 4.0790, nll_loss = 4.0071, hneg_nll_loss = 4.1510, ivc_loss = 0.0542, neg_loss = 0.0031, hneg_loss = 0.0349, push_loss = 0.2768, pull_loss = 0.0006, 0.832 seconds/batch
+Epoch 25, Batch 750, lr = 0.00005, final_loss = 4.1105, nll_loss = 4.0391, hneg_nll_loss = 4.1819, ivc_loss = 0.0552, neg_loss = 0.0033, hneg_loss = 0.0359, push_loss = 0.2770, pull_loss = 0.0006, 0.837 seconds/batch
+Epoch 25, Batch 800, lr = 0.00005, final_loss = 4.1091, nll_loss = 4.0382, hneg_nll_loss = 4.1800, ivc_loss = 0.0568, neg_loss = 0.0032, hneg_loss = 0.0375, push_loss = 0.2775, pull_loss = 0.0006, 0.840 seconds/batch
+Epoch 25, Batch 850, lr = 0.00005, final_loss = 4.1274, nll_loss = 4.0551, hneg_nll_loss = 4.1996, ivc_loss = 0.0568, neg_loss = 0.0039, hneg_loss = 0.0360, push_loss = 0.2799, pull_loss = 0.0006, 0.845 seconds/batch
+Epoch 25, Batch 900, lr = 0.00005, final_loss = 4.0894, nll_loss = 4.0196, hneg_nll_loss = 4.1591, ivc_loss = 0.0582, neg_loss = 0.0035, hneg_loss = 0.0382, push_loss = 0.2790, pull_loss = 0.0005, 0.848 seconds/batch
+Epoch 25, Batch 950, lr = 0.00005, final_loss = 4.0775, nll_loss = 4.0058, hneg_nll_loss = 4.1492, ivc_loss = 0.0565, neg_loss = 0.0040, hneg_loss = 0.0362, push_loss = 0.2777, pull_loss = 0.0005, 0.851 seconds/batch
+Epoch 25, Batch 1000, lr = 0.00005, final_loss = 4.0833, nll_loss = 4.0140, hneg_nll_loss = 4.1526, ivc_loss = 0.0583, neg_loss = 0.0035, hneg_loss = 0.0387, push_loss = 0.2774, pull_loss = 0.0005, 0.854 seconds/batch
+Epoch 25, Batch 1050, lr = 0.00005, final_loss = 4.0811, nll_loss = 4.0093, hneg_nll_loss = 4.1529, ivc_loss = 0.0541, neg_loss = 0.0028, hneg_loss = 0.0353, push_loss = 0.2773, pull_loss = 0.0005, 0.857 seconds/batch
+Epoch 25, Batch 1100, lr = 0.00005, final_loss = 4.1093, nll_loss = 4.0401, hneg_nll_loss = 4.1786, ivc_loss = 0.0584, neg_loss = 0.0045, hneg_loss = 0.0378, push_loss = 0.2771, pull_loss = 0.0005, 0.859 seconds/batch
+Epoch 25, Batch 1150, lr = 0.00005, final_loss = 4.0945, nll_loss = 4.0226, hneg_nll_loss = 4.1664, ivc_loss = 0.0554, neg_loss = 0.0030, hneg_loss = 0.0359, push_loss = 0.2776, pull_loss = 0.0005, 0.857 seconds/batch
+Epoch 25, Batch 1170, lr = 0.00005, final_loss = 4.0568, nll_loss = 3.9853, hneg_nll_loss = 4.1284, ivc_loss = 0.0547, neg_loss = 0.0021, hneg_loss = 0.0360, push_loss = 0.2783, pull_loss = 0.0005, 0.855 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-25.pt, num_updates 29250.
+| Rank1,mIoU 0.2966 | Rank1,IoU@0.1 0.6363 | Rank1,IoU@0.3 0.4383 | Rank1,IoU@0.5 0.2844 | Rank5,mIoU 0.5942 | Rank5,IoU@0.1 0.9574 | Rank5,IoU@0.3 0.8579 | Rank5,IoU@0.5 0.7456 |
+============================================================
+Start Epoch 26
+Epoch 26, Batch 50, lr = 0.00005, final_loss = 4.0039, nll_loss = 3.9321, hneg_nll_loss = 4.0758, ivc_loss = 0.0555, neg_loss = 0.0024, hneg_loss = 0.0366, push_loss = 0.2780, pull_loss = 0.0005, 0.648 seconds/batch
+Epoch 26, Batch 100, lr = 0.00005, final_loss = 4.0607, nll_loss = 3.9895, hneg_nll_loss = 4.1319, ivc_loss = 0.0564, neg_loss = 0.0031, hneg_loss = 0.0369, push_loss = 0.2784, pull_loss = 0.0005, 0.645 seconds/batch
+Epoch 26, Batch 150, lr = 0.00005, final_loss = 4.0376, nll_loss = 3.9609, hneg_nll_loss = 4.1143, ivc_loss = 0.0550, neg_loss = 0.0034, hneg_loss = 0.0349, push_loss = 0.2781, pull_loss = 0.0005, 0.644 seconds/batch
+Epoch 26, Batch 200, lr = 0.00005, final_loss = 4.0689, nll_loss = 3.9976, hneg_nll_loss = 4.1403, ivc_loss = 0.0565, neg_loss = 0.0029, hneg_loss = 0.0368, push_loss = 0.2780, pull_loss = 0.0005, 0.676 seconds/batch
+Epoch 26, Batch 250, lr = 0.00005, final_loss = 4.0434, nll_loss = 3.9709, hneg_nll_loss = 4.1160, ivc_loss = 0.0549, neg_loss = 0.0029, hneg_loss = 0.0354, push_loss = 0.2775, pull_loss = 0.0005, 0.697 seconds/batch
+Epoch 26, Batch 300, lr = 0.00005, final_loss = 4.1058, nll_loss = 4.0316, hneg_nll_loss = 4.1801, ivc_loss = 0.0539, neg_loss = 0.0029, hneg_loss = 0.0348, push_loss = 0.2762, pull_loss = 0.0005, 0.732 seconds/batch
+Epoch 26, Batch 350, lr = 0.00005, final_loss = 4.0826, nll_loss = 4.0084, hneg_nll_loss = 4.1567, ivc_loss = 0.0557, neg_loss = 0.0035, hneg_loss = 0.0354, push_loss = 0.2778, pull_loss = 0.0005, 0.756 seconds/batch
+Epoch 26, Batch 400, lr = 0.00005, final_loss = 4.0647, nll_loss = 3.9935, hneg_nll_loss = 4.1359, ivc_loss = 0.0564, neg_loss = 0.0038, hneg_loss = 0.0358, push_loss = 0.2780, pull_loss = 0.0005, 0.774 seconds/batch
+Epoch 26, Batch 450, lr = 0.00005, final_loss = 4.0939, nll_loss = 4.0245, hneg_nll_loss = 4.1634, ivc_loss = 0.0567, neg_loss = 0.0024, hneg_loss = 0.0374, push_loss = 0.2787, pull_loss = 0.0005, 0.788 seconds/batch
+Epoch 26, Batch 500, lr = 0.00005, final_loss = 4.0524, nll_loss = 3.9771, hneg_nll_loss = 4.1277, ivc_loss = 0.0548, neg_loss = 0.0032, hneg_loss = 0.0343, push_loss = 0.2798, pull_loss = 0.0005, 0.799 seconds/batch
+Epoch 26, Batch 550, lr = 0.00005, final_loss = 4.0524, nll_loss = 3.9838, hneg_nll_loss = 4.1210, ivc_loss = 0.0578, neg_loss = 0.0034, hneg_loss = 0.0376, push_loss = 0.2794, pull_loss = 0.0005, 0.809 seconds/batch
+Epoch 26, Batch 600, lr = 0.00005, final_loss = 4.0898, nll_loss = 4.0177, hneg_nll_loss = 4.1619, ivc_loss = 0.0569, neg_loss = 0.0043, hneg_loss = 0.0364, push_loss = 0.2783, pull_loss = 0.0005, 0.817 seconds/batch
+Epoch 26, Batch 650, lr = 0.00005, final_loss = 4.0767, nll_loss = 4.0055, hneg_nll_loss = 4.1480, ivc_loss = 0.0553, neg_loss = 0.0027, hneg_loss = 0.0361, push_loss = 0.2782, pull_loss = 0.0005, 0.824 seconds/batch
+Epoch 26, Batch 700, lr = 0.00005, final_loss = 4.0490, nll_loss = 3.9803, hneg_nll_loss = 4.1177, ivc_loss = 0.0561, neg_loss = 0.0036, hneg_loss = 0.0361, push_loss = 0.2774, pull_loss = 0.0005, 0.830 seconds/batch
+Epoch 26, Batch 750, lr = 0.00005, final_loss = 4.0694, nll_loss = 4.0011, hneg_nll_loss = 4.1377, ivc_loss = 0.0565, neg_loss = 0.0027, hneg_loss = 0.0373, push_loss = 0.2778, pull_loss = 0.0005, 0.835 seconds/batch
+Epoch 26, Batch 800, lr = 0.00005, final_loss = 4.0730, nll_loss = 4.0012, hneg_nll_loss = 4.1448, ivc_loss = 0.0568, neg_loss = 0.0030, hneg_loss = 0.0371, push_loss = 0.2784, pull_loss = 0.0005, 0.840 seconds/batch
+Epoch 26, Batch 850, lr = 0.00005, final_loss = 4.0651, nll_loss = 3.9902, hneg_nll_loss = 4.1400, ivc_loss = 0.0538, neg_loss = 0.0034, hneg_loss = 0.0338, push_loss = 0.2782, pull_loss = 0.0005, 0.843 seconds/batch
+Epoch 26, Batch 900, lr = 0.00005, final_loss = 4.0622, nll_loss = 3.9928, hneg_nll_loss = 4.1315, ivc_loss = 0.0578, neg_loss = 0.0034, hneg_loss = 0.0380, push_loss = 0.2780, pull_loss = 0.0005, 0.846 seconds/batch
+Epoch 26, Batch 950, lr = 0.00005, final_loss = 4.0717, nll_loss = 4.0005, hneg_nll_loss = 4.1429, ivc_loss = 0.0560, neg_loss = 0.0031, hneg_loss = 0.0363, push_loss = 0.2784, pull_loss = 0.0005, 0.849 seconds/batch
+Epoch 26, Batch 1000, lr = 0.00005, final_loss = 4.0368, nll_loss = 3.9680, hneg_nll_loss = 4.1056, ivc_loss = 0.0569, neg_loss = 0.0026, hneg_loss = 0.0380, push_loss = 0.2781, pull_loss = 0.0005, 0.852 seconds/batch
+Epoch 26, Batch 1050, lr = 0.00005, final_loss = 4.1045, nll_loss = 4.0331, hneg_nll_loss = 4.1759, ivc_loss = 0.0565, neg_loss = 0.0034, hneg_loss = 0.0369, push_loss = 0.2781, pull_loss = 0.0005, 0.855 seconds/batch
+Epoch 26, Batch 1100, lr = 0.00005, final_loss = 4.0628, nll_loss = 3.9879, hneg_nll_loss = 4.1377, ivc_loss = 0.0536, neg_loss = 0.0036, hneg_loss = 0.0342, push_loss = 0.2774, pull_loss = 0.0005, 0.857 seconds/batch
+Epoch 26, Batch 1150, lr = 0.00005, final_loss = 4.0741, nll_loss = 4.0057, hneg_nll_loss = 4.1426, ivc_loss = 0.0578, neg_loss = 0.0037, hneg_loss = 0.0380, push_loss = 0.2778, pull_loss = 0.0005, 0.855 seconds/batch
+Epoch 26, Batch 1170, lr = 0.00005, final_loss = 4.0595, nll_loss = 3.9901, hneg_nll_loss = 4.1288, ivc_loss = 0.0594, neg_loss = 0.0027, hneg_loss = 0.0403, push_loss = 0.2784, pull_loss = 0.0005, 0.853 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-26.pt, num_updates 30420.
+| Rank1,mIoU 0.3013 | Rank1,IoU@0.1 0.6284 | Rank1,IoU@0.3 0.4323 | Rank1,IoU@0.5 0.3054 | Rank5,mIoU 0.6035 | Rank5,IoU@0.1 0.9570 | Rank5,IoU@0.3 0.8642 | Rank5,IoU@0.5 0.7584 |
+============================================================
+Start Epoch 27
+Epoch 27, Batch 50, lr = 0.00005, final_loss = 4.0343, nll_loss = 3.9644, hneg_nll_loss = 4.1043, ivc_loss = 0.0567, neg_loss = 0.0018, hneg_loss = 0.0382, push_loss = 0.2788, pull_loss = 0.0004, 0.650 seconds/batch
+Epoch 27, Batch 100, lr = 0.00005, final_loss = 3.9931, nll_loss = 3.9265, hneg_nll_loss = 4.0596, ivc_loss = 0.0599, neg_loss = 0.0034, hneg_loss = 0.0398, push_loss = 0.2795, pull_loss = 0.0004, 0.646 seconds/batch
+Epoch 27, Batch 150, lr = 0.00005, final_loss = 4.0191, nll_loss = 3.9471, hneg_nll_loss = 4.0912, ivc_loss = 0.0562, neg_loss = 0.0026, hneg_loss = 0.0366, push_loss = 0.2794, pull_loss = 0.0004, 0.645 seconds/batch
+Epoch 27, Batch 200, lr = 0.00005, final_loss = 4.0529, nll_loss = 3.9822, hneg_nll_loss = 4.1237, ivc_loss = 0.0564, neg_loss = 0.0035, hneg_loss = 0.0358, push_loss = 0.2794, pull_loss = 0.0004, 0.674 seconds/batch
+Epoch 27, Batch 250, lr = 0.00005, final_loss = 4.0395, nll_loss = 3.9656, hneg_nll_loss = 4.1134, ivc_loss = 0.0551, neg_loss = 0.0031, hneg_loss = 0.0351, push_loss = 0.2786, pull_loss = 0.0004, 0.693 seconds/batch
+Epoch 27, Batch 300, lr = 0.00005, final_loss = 4.0595, nll_loss = 3.9906, hneg_nll_loss = 4.1285, ivc_loss = 0.0593, neg_loss = 0.0029, hneg_loss = 0.0393, push_loss = 0.2797, pull_loss = 0.0004, 0.727 seconds/batch
+Epoch 27, Batch 350, lr = 0.00005, final_loss = 3.9953, nll_loss = 3.9252, hneg_nll_loss = 4.0654, ivc_loss = 0.0565, neg_loss = 0.0024, hneg_loss = 0.0370, push_loss = 0.2793, pull_loss = 0.0004, 0.752 seconds/batch
+Epoch 27, Batch 400, lr = 0.00005, final_loss = 4.0228, nll_loss = 3.9524, hneg_nll_loss = 4.0931, ivc_loss = 0.0566, neg_loss = 0.0021, hneg_loss = 0.0375, push_loss = 0.2785, pull_loss = 0.0004, 0.771 seconds/batch
+Epoch 27, Batch 450, lr = 0.00005, final_loss = 4.0346, nll_loss = 3.9632, hneg_nll_loss = 4.1061, ivc_loss = 0.0555, neg_loss = 0.0032, hneg_loss = 0.0350, push_loss = 0.2788, pull_loss = 0.0004, 0.786 seconds/batch
+Epoch 27, Batch 500, lr = 0.00005, final_loss = 4.0249, nll_loss = 3.9532, hneg_nll_loss = 4.0966, ivc_loss = 0.0577, neg_loss = 0.0031, hneg_loss = 0.0375, push_loss = 0.2780, pull_loss = 0.0005, 0.797 seconds/batch
+Epoch 27, Batch 550, lr = 0.00005, final_loss = 4.0463, nll_loss = 3.9741, hneg_nll_loss = 4.1184, ivc_loss = 0.0574, neg_loss = 0.0027, hneg_loss = 0.0377, push_loss = 0.2779, pull_loss = 0.0004, 0.807 seconds/batch
+Epoch 27, Batch 600, lr = 0.00005, final_loss = 4.0482, nll_loss = 3.9741, hneg_nll_loss = 4.1224, ivc_loss = 0.0549, neg_loss = 0.0026, hneg_loss = 0.0350, push_loss = 0.2789, pull_loss = 0.0004, 0.815 seconds/batch
+Epoch 27, Batch 650, lr = 0.00005, final_loss = 4.0723, nll_loss = 3.9952, hneg_nll_loss = 4.1495, ivc_loss = 0.0537, neg_loss = 0.0033, hneg_loss = 0.0332, push_loss = 0.2780, pull_loss = 0.0004, 0.823 seconds/batch
+Epoch 27, Batch 700, lr = 0.00005, final_loss = 4.0707, nll_loss = 3.9989, hneg_nll_loss = 4.1425, ivc_loss = 0.0574, neg_loss = 0.0031, hneg_loss = 0.0371, push_loss = 0.2785, pull_loss = 0.0004, 0.829 seconds/batch
+Epoch 27, Batch 750, lr = 0.00005, final_loss = 4.0756, nll_loss = 4.0041, hneg_nll_loss = 4.1472, ivc_loss = 0.0558, neg_loss = 0.0023, hneg_loss = 0.0364, push_loss = 0.2779, pull_loss = 0.0004, 0.834 seconds/batch
+Epoch 27, Batch 800, lr = 0.00005, final_loss = 4.0733, nll_loss = 3.9996, hneg_nll_loss = 4.1471, ivc_loss = 0.0554, neg_loss = 0.0022, hneg_loss = 0.0363, push_loss = 0.2768, pull_loss = 0.0004, 0.838 seconds/batch
+Epoch 27, Batch 850, lr = 0.00005, final_loss = 4.0272, nll_loss = 3.9555, hneg_nll_loss = 4.0988, ivc_loss = 0.0557, neg_loss = 0.0030, hneg_loss = 0.0358, push_loss = 0.2768, pull_loss = 0.0004, 0.841 seconds/batch
+Epoch 27, Batch 900, lr = 0.00005, final_loss = 4.0481, nll_loss = 3.9752, hneg_nll_loss = 4.1211, ivc_loss = 0.0550, neg_loss = 0.0034, hneg_loss = 0.0348, push_loss = 0.2770, pull_loss = 0.0004, 0.845 seconds/batch
+Epoch 27, Batch 950, lr = 0.00005, final_loss = 4.0608, nll_loss = 3.9930, hneg_nll_loss = 4.1285, ivc_loss = 0.0585, neg_loss = 0.0023, hneg_loss = 0.0393, push_loss = 0.2779, pull_loss = 0.0004, 0.848 seconds/batch
+Epoch 27, Batch 1000, lr = 0.00005, final_loss = 4.0751, nll_loss = 4.0037, hneg_nll_loss = 4.1466, ivc_loss = 0.0558, neg_loss = 0.0028, hneg_loss = 0.0362, push_loss = 0.2775, pull_loss = 0.0004, 0.851 seconds/batch
+Epoch 27, Batch 1050, lr = 0.00005, final_loss = 4.0660, nll_loss = 3.9945, hneg_nll_loss = 4.1375, ivc_loss = 0.0570, neg_loss = 0.0031, hneg_loss = 0.0374, push_loss = 0.2768, pull_loss = 0.0004, 0.853 seconds/batch
+Epoch 27, Batch 1100, lr = 0.00005, final_loss = 4.1011, nll_loss = 4.0278, hneg_nll_loss = 4.1744, ivc_loss = 0.0553, neg_loss = 0.0028, hneg_loss = 0.0359, push_loss = 0.2776, pull_loss = 0.0004, 0.855 seconds/batch
+Epoch 27, Batch 1150, lr = 0.00005, final_loss = 4.0383, nll_loss = 3.9686, hneg_nll_loss = 4.1080, ivc_loss = 0.0587, neg_loss = 0.0038, hneg_loss = 0.0383, push_loss = 0.2778, pull_loss = 0.0004, 0.853 seconds/batch
+Epoch 27, Batch 1170, lr = 0.00005, final_loss = 4.0591, nll_loss = 3.9856, hneg_nll_loss = 4.1326, ivc_loss = 0.0547, neg_loss = 0.0020, hneg_loss = 0.0359, push_loss = 0.2788, pull_loss = 0.0004, 0.851 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-27.pt, num_updates 31590.
+| Rank1,mIoU 0.3018 | Rank1,IoU@0.1 0.6432 | Rank1,IoU@0.3 0.4384 | Rank1,IoU@0.5 0.2933 | Rank5,mIoU 0.5940 | Rank5,IoU@0.1 0.9547 | Rank5,IoU@0.3 0.8537 | Rank5,IoU@0.5 0.7398 |
+============================================================
+Start Epoch 28
+Epoch 28, Batch 50, lr = 0.00004, final_loss = 4.0176, nll_loss = 3.9449, hneg_nll_loss = 4.0903, ivc_loss = 0.0563, neg_loss = 0.0031, hneg_loss = 0.0363, push_loss = 0.2786, pull_loss = 0.0004, 0.646 seconds/batch
+Epoch 28, Batch 100, lr = 0.00004, final_loss = 4.0245, nll_loss = 3.9541, hneg_nll_loss = 4.0950, ivc_loss = 0.0574, neg_loss = 0.0023, hneg_loss = 0.0380, push_loss = 0.2788, pull_loss = 0.0004, 0.644 seconds/batch
+Epoch 28, Batch 150, lr = 0.00004, final_loss = 3.9920, nll_loss = 3.9225, hneg_nll_loss = 4.0616, ivc_loss = 0.0570, neg_loss = 0.0024, hneg_loss = 0.0375, push_loss = 0.2786, pull_loss = 0.0004, 0.644 seconds/batch
+Epoch 28, Batch 200, lr = 0.00004, final_loss = 4.0095, nll_loss = 3.9380, hneg_nll_loss = 4.0810, ivc_loss = 0.0550, neg_loss = 0.0021, hneg_loss = 0.0358, push_loss = 0.2787, pull_loss = 0.0004, 0.670 seconds/batch
+Epoch 28, Batch 250, lr = 0.00004, final_loss = 4.0050, nll_loss = 3.9365, hneg_nll_loss = 4.0736, ivc_loss = 0.0581, neg_loss = 0.0034, hneg_loss = 0.0376, push_loss = 0.2786, pull_loss = 0.0004, 0.691 seconds/batch
+Epoch 28, Batch 300, lr = 0.00004, final_loss = 4.0171, nll_loss = 3.9445, hneg_nll_loss = 4.0896, ivc_loss = 0.0580, neg_loss = 0.0032, hneg_loss = 0.0373, push_loss = 0.2795, pull_loss = 0.0004, 0.721 seconds/batch
+Epoch 28, Batch 350, lr = 0.00004, final_loss = 4.0207, nll_loss = 3.9502, hneg_nll_loss = 4.0913, ivc_loss = 0.0576, neg_loss = 0.0027, hneg_loss = 0.0379, push_loss = 0.2778, pull_loss = 0.0004, 0.747 seconds/batch
+Epoch 28, Batch 400, lr = 0.00004, final_loss = 4.0695, nll_loss = 3.9967, hneg_nll_loss = 4.1423, ivc_loss = 0.0552, neg_loss = 0.0028, hneg_loss = 0.0353, push_loss = 0.2777, pull_loss = 0.0004, 0.767 seconds/batch
+Epoch 28, Batch 450, lr = 0.00004, final_loss = 4.0283, nll_loss = 3.9550, hneg_nll_loss = 4.1017, ivc_loss = 0.0558, neg_loss = 0.0035, hneg_loss = 0.0352, push_loss = 0.2778, pull_loss = 0.0004, 0.781 seconds/batch
+Epoch 28, Batch 500, lr = 0.00004, final_loss = 4.0389, nll_loss = 3.9661, hneg_nll_loss = 4.1116, ivc_loss = 0.0566, neg_loss = 0.0024, hneg_loss = 0.0369, push_loss = 0.2790, pull_loss = 0.0004, 0.794 seconds/batch
+Epoch 28, Batch 550, lr = 0.00004, final_loss = 4.0020, nll_loss = 3.9279, hneg_nll_loss = 4.0762, ivc_loss = 0.0533, neg_loss = 0.0026, hneg_loss = 0.0334, push_loss = 0.2787, pull_loss = 0.0004, 0.804 seconds/batch
+Epoch 28, Batch 600, lr = 0.00004, final_loss = 4.0511, nll_loss = 3.9811, hneg_nll_loss = 4.1211, ivc_loss = 0.0563, neg_loss = 0.0023, hneg_loss = 0.0367, push_loss = 0.2787, pull_loss = 0.0004, 0.813 seconds/batch
+Epoch 28, Batch 650, lr = 0.00004, final_loss = 4.0333, nll_loss = 3.9610, hneg_nll_loss = 4.1057, ivc_loss = 0.0560, neg_loss = 0.0020, hneg_loss = 0.0367, push_loss = 0.2781, pull_loss = 0.0004, 0.820 seconds/batch
+Epoch 28, Batch 700, lr = 0.00004, final_loss = 4.0219, nll_loss = 3.9469, hneg_nll_loss = 4.0969, ivc_loss = 0.0540, neg_loss = 0.0028, hneg_loss = 0.0341, push_loss = 0.2775, pull_loss = 0.0004, 0.826 seconds/batch
+Epoch 28, Batch 750, lr = 0.00004, final_loss = 4.0540, nll_loss = 3.9803, hneg_nll_loss = 4.1277, ivc_loss = 0.0568, neg_loss = 0.0033, hneg_loss = 0.0364, push_loss = 0.2784, pull_loss = 0.0004, 0.832 seconds/batch
+Epoch 28, Batch 800, lr = 0.00004, final_loss = 4.0266, nll_loss = 3.9540, hneg_nll_loss = 4.0992, ivc_loss = 0.0566, neg_loss = 0.0028, hneg_loss = 0.0361, push_loss = 0.2796, pull_loss = 0.0004, 0.837 seconds/batch
+Epoch 28, Batch 850, lr = 0.00004, final_loss = 4.0528, nll_loss = 3.9825, hneg_nll_loss = 4.1232, ivc_loss = 0.0564, neg_loss = 0.0022, hneg_loss = 0.0363, push_loss = 0.2796, pull_loss = 0.0004, 0.841 seconds/batch
+Epoch 28, Batch 900, lr = 0.00004, final_loss = 4.0355, nll_loss = 3.9633, hneg_nll_loss = 4.1078, ivc_loss = 0.0573, neg_loss = 0.0025, hneg_loss = 0.0371, push_loss = 0.2794, pull_loss = 0.0004, 0.844 seconds/batch
+Epoch 28, Batch 950, lr = 0.00004, final_loss = 4.0250, nll_loss = 3.9516, hneg_nll_loss = 4.0984, ivc_loss = 0.0559, neg_loss = 0.0030, hneg_loss = 0.0355, push_loss = 0.2788, pull_loss = 0.0004, 0.847 seconds/batch
+Epoch 28, Batch 1000, lr = 0.00004, final_loss = 4.0318, nll_loss = 3.9592, hneg_nll_loss = 4.1044, ivc_loss = 0.0551, neg_loss = 0.0022, hneg_loss = 0.0355, push_loss = 0.2787, pull_loss = 0.0004, 0.850 seconds/batch
+Epoch 28, Batch 1050, lr = 0.00004, final_loss = 4.0255, nll_loss = 3.9543, hneg_nll_loss = 4.0966, ivc_loss = 0.0578, neg_loss = 0.0033, hneg_loss = 0.0368, push_loss = 0.2796, pull_loss = 0.0004, 0.853 seconds/batch
+Epoch 28, Batch 1100, lr = 0.00004, final_loss = 4.0396, nll_loss = 3.9689, hneg_nll_loss = 4.1104, ivc_loss = 0.0558, neg_loss = 0.0028, hneg_loss = 0.0353, push_loss = 0.2797, pull_loss = 0.0004, 0.855 seconds/batch
+Epoch 28, Batch 1150, lr = 0.00004, final_loss = 4.0262, nll_loss = 3.9576, hneg_nll_loss = 4.0948, ivc_loss = 0.0570, neg_loss = 0.0025, hneg_loss = 0.0370, push_loss = 0.2786, pull_loss = 0.0004, 0.853 seconds/batch
+Epoch 28, Batch 1170, lr = 0.00004, final_loss = 4.0356, nll_loss = 3.9650, hneg_nll_loss = 4.1063, ivc_loss = 0.0609, neg_loss = 0.0045, hneg_loss = 0.0390, push_loss = 0.2782, pull_loss = 0.0004, 0.852 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-28.pt, num_updates 32760.
+| Rank1,mIoU 0.3106 | Rank1,IoU@0.1 0.6556 | Rank1,IoU@0.3 0.4398 | Rank1,IoU@0.5 0.3034 | Rank5,mIoU 0.6020 | Rank5,IoU@0.1 0.9534 | Rank5,IoU@0.3 0.8548 | Rank5,IoU@0.5 0.7383 |
+============================================================
+Start Epoch 29
+Epoch 29, Batch 50, lr = 0.00004, final_loss = 3.9650, nll_loss = 3.8933, hneg_nll_loss = 4.0367, ivc_loss = 0.0555, neg_loss = 0.0020, hneg_loss = 0.0359, push_loss = 0.2791, pull_loss = 0.0003, 0.647 seconds/batch
+Epoch 29, Batch 100, lr = 0.00004, final_loss = 3.9500, nll_loss = 3.8776, hneg_nll_loss = 4.0225, ivc_loss = 0.0573, neg_loss = 0.0026, hneg_loss = 0.0370, push_loss = 0.2791, pull_loss = 0.0003, 0.645 seconds/batch
+Epoch 29, Batch 150, lr = 0.00004, final_loss = 4.0244, nll_loss = 3.9480, hneg_nll_loss = 4.1009, ivc_loss = 0.0535, neg_loss = 0.0020, hneg_loss = 0.0338, push_loss = 0.2789, pull_loss = 0.0003, 0.644 seconds/batch
+Epoch 29, Batch 200, lr = 0.00004, final_loss = 3.9942, nll_loss = 3.9230, hneg_nll_loss = 4.0655, ivc_loss = 0.0594, neg_loss = 0.0020, hneg_loss = 0.0394, push_loss = 0.2798, pull_loss = 0.0004, 0.666 seconds/batch
+Epoch 29, Batch 250, lr = 0.00004, final_loss = 3.9673, nll_loss = 3.8967, hneg_nll_loss = 4.0379, ivc_loss = 0.0582, neg_loss = 0.0025, hneg_loss = 0.0375, push_loss = 0.2802, pull_loss = 0.0004, 0.688 seconds/batch
+Epoch 29, Batch 300, lr = 0.00004, final_loss = 4.0017, nll_loss = 3.9279, hneg_nll_loss = 4.0755, ivc_loss = 0.0561, neg_loss = 0.0028, hneg_loss = 0.0354, push_loss = 0.2793, pull_loss = 0.0004, 0.716 seconds/batch
+Epoch 29, Batch 350, lr = 0.00004, final_loss = 4.0037, nll_loss = 3.9318, hneg_nll_loss = 4.0756, ivc_loss = 0.0577, neg_loss = 0.0028, hneg_loss = 0.0369, push_loss = 0.2801, pull_loss = 0.0003, 0.742 seconds/batch
+Epoch 29, Batch 400, lr = 0.00004, final_loss = 4.0388, nll_loss = 3.9682, hneg_nll_loss = 4.1095, ivc_loss = 0.0593, neg_loss = 0.0025, hneg_loss = 0.0384, push_loss = 0.2814, pull_loss = 0.0003, 0.762 seconds/batch
+Epoch 29, Batch 450, lr = 0.00004, final_loss = 4.0403, nll_loss = 3.9685, hneg_nll_loss = 4.1121, ivc_loss = 0.0569, neg_loss = 0.0016, hneg_loss = 0.0371, push_loss = 0.2806, pull_loss = 0.0004, 0.778 seconds/batch
+Epoch 29, Batch 500, lr = 0.00004, final_loss = 4.0056, nll_loss = 3.9357, hneg_nll_loss = 4.0755, ivc_loss = 0.0594, neg_loss = 0.0022, hneg_loss = 0.0388, push_loss = 0.2815, pull_loss = 0.0004, 0.791 seconds/batch
+Epoch 29, Batch 550, lr = 0.00004, final_loss = 3.9903, nll_loss = 3.9204, hneg_nll_loss = 4.0602, ivc_loss = 0.0594, neg_loss = 0.0028, hneg_loss = 0.0385, push_loss = 0.2808, pull_loss = 0.0003, 0.803 seconds/batch
+Epoch 29, Batch 600, lr = 0.00004, final_loss = 4.0332, nll_loss = 3.9604, hneg_nll_loss = 4.1060, ivc_loss = 0.0563, neg_loss = 0.0026, hneg_loss = 0.0354, push_loss = 0.2808, pull_loss = 0.0004, 0.811 seconds/batch
+Epoch 29, Batch 650, lr = 0.00004, final_loss = 3.9902, nll_loss = 3.9180, hneg_nll_loss = 4.0624, ivc_loss = 0.0566, neg_loss = 0.0023, hneg_loss = 0.0359, push_loss = 0.2812, pull_loss = 0.0004, 0.819 seconds/batch
+Epoch 29, Batch 700, lr = 0.00004, final_loss = 3.9825, nll_loss = 3.9103, hneg_nll_loss = 4.0547, ivc_loss = 0.0561, neg_loss = 0.0025, hneg_loss = 0.0351, push_loss = 0.2816, pull_loss = 0.0004, 0.825 seconds/batch
+Epoch 29, Batch 750, lr = 0.00004, final_loss = 4.0277, nll_loss = 3.9549, hneg_nll_loss = 4.1004, ivc_loss = 0.0572, neg_loss = 0.0026, hneg_loss = 0.0363, push_loss = 0.2810, pull_loss = 0.0004, 0.831 seconds/batch
+Epoch 29, Batch 800, lr = 0.00004, final_loss = 4.0196, nll_loss = 3.9480, hneg_nll_loss = 4.0913, ivc_loss = 0.0567, neg_loss = 0.0023, hneg_loss = 0.0362, push_loss = 0.2802, pull_loss = 0.0003, 0.835 seconds/batch
+Epoch 29, Batch 850, lr = 0.00004, final_loss = 4.0364, nll_loss = 3.9635, hneg_nll_loss = 4.1092, ivc_loss = 0.0586, neg_loss = 0.0022, hneg_loss = 0.0382, push_loss = 0.2804, pull_loss = 0.0004, 0.839 seconds/batch
+Epoch 29, Batch 900, lr = 0.00004, final_loss = 4.0423, nll_loss = 3.9678, hneg_nll_loss = 4.1167, ivc_loss = 0.0557, neg_loss = 0.0027, hneg_loss = 0.0350, push_loss = 0.2797, pull_loss = 0.0003, 0.842 seconds/batch
+Epoch 29, Batch 950, lr = 0.00004, final_loss = 4.0185, nll_loss = 3.9473, hneg_nll_loss = 4.0897, ivc_loss = 0.0598, neg_loss = 0.0035, hneg_loss = 0.0386, push_loss = 0.2792, pull_loss = 0.0003, 0.846 seconds/batch
+Epoch 29, Batch 1000, lr = 0.00004, final_loss = 4.0213, nll_loss = 3.9499, hneg_nll_loss = 4.0927, ivc_loss = 0.0594, neg_loss = 0.0027, hneg_loss = 0.0395, push_loss = 0.2788, pull_loss = 0.0003, 0.848 seconds/batch
+Epoch 29, Batch 1050, lr = 0.00004, final_loss = 4.0482, nll_loss = 3.9744, hneg_nll_loss = 4.1220, ivc_loss = 0.0558, neg_loss = 0.0033, hneg_loss = 0.0352, push_loss = 0.2788, pull_loss = 0.0003, 0.851 seconds/batch
+Epoch 29, Batch 1100, lr = 0.00004, final_loss = 4.0293, nll_loss = 3.9554, hneg_nll_loss = 4.1031, ivc_loss = 0.0555, neg_loss = 0.0029, hneg_loss = 0.0349, push_loss = 0.2800, pull_loss = 0.0003, 0.853 seconds/batch
+Epoch 29, Batch 1150, lr = 0.00004, final_loss = 4.0117, nll_loss = 3.9386, hneg_nll_loss = 4.0849, ivc_loss = 0.0587, neg_loss = 0.0020, hneg_loss = 0.0386, push_loss = 0.2812, pull_loss = 0.0003, 0.852 seconds/batch
+Epoch 29, Batch 1170, lr = 0.00004, final_loss = 4.0421, nll_loss = 3.9682, hneg_nll_loss = 4.1160, ivc_loss = 0.0554, neg_loss = 0.0026, hneg_loss = 0.0346, push_loss = 0.2809, pull_loss = 0.0003, 0.850 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-29.pt, num_updates 33930.
+| Rank1,mIoU 0.3114 | Rank1,IoU@0.1 0.6644 | Rank1,IoU@0.3 0.4339 | Rank1,IoU@0.5 0.3026 | Rank5,mIoU 0.5965 | Rank5,IoU@0.1 0.9539 | Rank5,IoU@0.3 0.8478 | Rank5,IoU@0.5 0.7256 |
+============================================================
+Start Epoch 30
+Epoch 30, Batch 50, lr = 0.00004, final_loss = 3.9484, nll_loss = 3.8778, hneg_nll_loss = 4.0190, ivc_loss = 0.0580, neg_loss = 0.0028, hneg_loss = 0.0372, push_loss = 0.2796, pull_loss = 0.0003, 0.652 seconds/batch
+Epoch 30, Batch 100, lr = 0.00004, final_loss = 3.9949, nll_loss = 3.9226, hneg_nll_loss = 4.0673, ivc_loss = 0.0569, neg_loss = 0.0020, hneg_loss = 0.0370, push_loss = 0.2795, pull_loss = 0.0003, 0.648 seconds/batch
+Epoch 30, Batch 150, lr = 0.00004, final_loss = 3.9787, nll_loss = 3.9085, hneg_nll_loss = 4.0488, ivc_loss = 0.0557, neg_loss = 0.0015, hneg_loss = 0.0361, push_loss = 0.2798, pull_loss = 0.0003, 0.646 seconds/batch
+Epoch 30, Batch 200, lr = 0.00004, final_loss = 4.0195, nll_loss = 3.9478, hneg_nll_loss = 4.0913, ivc_loss = 0.0595, neg_loss = 0.0026, hneg_loss = 0.0387, push_loss = 0.2801, pull_loss = 0.0003, 0.665 seconds/batch
+Epoch 30, Batch 250, lr = 0.00004, final_loss = 3.9772, nll_loss = 3.9047, hneg_nll_loss = 4.0496, ivc_loss = 0.0557, neg_loss = 0.0019, hneg_loss = 0.0358, push_loss = 0.2801, pull_loss = 0.0003, 0.687 seconds/batch
+Epoch 30, Batch 300, lr = 0.00004, final_loss = 3.9812, nll_loss = 3.9104, hneg_nll_loss = 4.0520, ivc_loss = 0.0563, neg_loss = 0.0020, hneg_loss = 0.0362, push_loss = 0.2799, pull_loss = 0.0003, 0.710 seconds/batch
+Epoch 30, Batch 350, lr = 0.00004, final_loss = 3.9774, nll_loss = 3.9043, hneg_nll_loss = 4.0504, ivc_loss = 0.0576, neg_loss = 0.0017, hneg_loss = 0.0375, push_loss = 0.2808, pull_loss = 0.0003, 0.737 seconds/batch
+Epoch 30, Batch 400, lr = 0.00004, final_loss = 3.9579, nll_loss = 3.8842, hneg_nll_loss = 4.0317, ivc_loss = 0.0562, neg_loss = 0.0024, hneg_loss = 0.0355, push_loss = 0.2807, pull_loss = 0.0003, 0.758 seconds/batch
+Epoch 30, Batch 450, lr = 0.00004, final_loss = 3.9999, nll_loss = 3.9266, hneg_nll_loss = 4.0732, ivc_loss = 0.0589, neg_loss = 0.0036, hneg_loss = 0.0372, push_loss = 0.2804, pull_loss = 0.0003, 0.775 seconds/batch
+Epoch 30, Batch 500, lr = 0.00004, final_loss = 3.9876, nll_loss = 3.9168, hneg_nll_loss = 4.0585, ivc_loss = 0.0573, neg_loss = 0.0027, hneg_loss = 0.0366, push_loss = 0.2802, pull_loss = 0.0003, 0.788 seconds/batch
+Epoch 30, Batch 550, lr = 0.00004, final_loss = 3.9804, nll_loss = 3.9103, hneg_nll_loss = 4.0505, ivc_loss = 0.0600, neg_loss = 0.0021, hneg_loss = 0.0398, push_loss = 0.2807, pull_loss = 0.0003, 0.799 seconds/batch
+Epoch 30, Batch 600, lr = 0.00004, final_loss = 4.0225, nll_loss = 3.9501, hneg_nll_loss = 4.0949, ivc_loss = 0.0563, neg_loss = 0.0022, hneg_loss = 0.0357, push_loss = 0.2811, pull_loss = 0.0003, 0.808 seconds/batch
+Epoch 30, Batch 650, lr = 0.00004, final_loss = 3.9680, nll_loss = 3.8962, hneg_nll_loss = 4.0397, ivc_loss = 0.0584, neg_loss = 0.0021, hneg_loss = 0.0382, push_loss = 0.2805, pull_loss = 0.0003, 0.815 seconds/batch
+Epoch 30, Batch 700, lr = 0.00004, final_loss = 4.0082, nll_loss = 3.9368, hneg_nll_loss = 4.0795, ivc_loss = 0.0581, neg_loss = 0.0030, hneg_loss = 0.0370, push_loss = 0.2804, pull_loss = 0.0003, 0.821 seconds/batch
+Epoch 30, Batch 750, lr = 0.00004, final_loss = 4.0216, nll_loss = 3.9471, hneg_nll_loss = 4.0962, ivc_loss = 0.0554, neg_loss = 0.0027, hneg_loss = 0.0347, push_loss = 0.2799, pull_loss = 0.0003, 0.826 seconds/batch
+Epoch 30, Batch 800, lr = 0.00004, final_loss = 4.0099, nll_loss = 3.9336, hneg_nll_loss = 4.0862, ivc_loss = 0.0551, neg_loss = 0.0028, hneg_loss = 0.0344, push_loss = 0.2796, pull_loss = 0.0003, 0.831 seconds/batch
+Epoch 30, Batch 850, lr = 0.00004, final_loss = 4.0159, nll_loss = 3.9435, hneg_nll_loss = 4.0883, ivc_loss = 0.0579, neg_loss = 0.0034, hneg_loss = 0.0364, push_loss = 0.2802, pull_loss = 0.0003, 0.836 seconds/batch
+Epoch 30, Batch 900, lr = 0.00004, final_loss = 4.0000, nll_loss = 3.9270, hneg_nll_loss = 4.0730, ivc_loss = 0.0594, neg_loss = 0.0030, hneg_loss = 0.0380, push_loss = 0.2811, pull_loss = 0.0003, 0.839 seconds/batch
+Epoch 30, Batch 950, lr = 0.00004, final_loss = 4.0142, nll_loss = 3.9375, hneg_nll_loss = 4.0909, ivc_loss = 0.0558, neg_loss = 0.0031, hneg_loss = 0.0345, push_loss = 0.2813, pull_loss = 0.0003, 0.842 seconds/batch
+Epoch 30, Batch 1000, lr = 0.00004, final_loss = 4.0117, nll_loss = 3.9368, hneg_nll_loss = 4.0866, ivc_loss = 0.0576, neg_loss = 0.0023, hneg_loss = 0.0373, push_loss = 0.2809, pull_loss = 0.0003, 0.845 seconds/batch
+Epoch 30, Batch 1050, lr = 0.00004, final_loss = 4.0156, nll_loss = 3.9437, hneg_nll_loss = 4.0875, ivc_loss = 0.0587, neg_loss = 0.0026, hneg_loss = 0.0379, push_loss = 0.2811, pull_loss = 0.0003, 0.848 seconds/batch
+Epoch 30, Batch 1100, lr = 0.00004, final_loss = 3.9816, nll_loss = 3.9065, hneg_nll_loss = 4.0567, ivc_loss = 0.0580, neg_loss = 0.0021, hneg_loss = 0.0378, push_loss = 0.2815, pull_loss = 0.0003, 0.845 seconds/batch
+Epoch 30, Batch 1150, lr = 0.00004, final_loss = 3.9949, nll_loss = 3.9209, hneg_nll_loss = 4.0689, ivc_loss = 0.0584, neg_loss = 0.0028, hneg_loss = 0.0372, push_loss = 0.2820, pull_loss = 0.0003, 0.835 seconds/batch
+Epoch 30, Batch 1170, lr = 0.00004, final_loss = 3.9798, nll_loss = 3.9096, hneg_nll_loss = 4.0500, ivc_loss = 0.0601, neg_loss = 0.0023, hneg_loss = 0.0393, push_loss = 0.2823, pull_loss = 0.0003, 0.830 seconds/batch
+save model to ./checkpoints/activitynet/exp-activitynet_exp10_2026-06-03_19-46-40/model-30.pt, num_updates 35100.
+| Rank1,mIoU 0.3177 | Rank1,IoU@0.1 0.6784 | Rank1,IoU@0.3 0.4436 | Rank1,IoU@0.5 0.3069 | Rank5,mIoU 0.5953 | Rank5,IoU@0.1 0.9529 | Rank5,IoU@0.3 0.8454 | Rank5,IoU@0.5 0.7203 |
+============================================================

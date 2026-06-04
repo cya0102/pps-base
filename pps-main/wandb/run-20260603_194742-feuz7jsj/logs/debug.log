@@ -1,0 +1,21 @@
+2026-06-03 19:47:42,416 INFO    MainThread:52257 [wandb_setup.py:_flush():80] Current SDK version is 0.23.0
+2026-06-03 19:47:42,416 INFO    MainThread:52257 [wandb_setup.py:_flush():80] Configure stats pid to 52257
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_setup.py:_flush():80] Loading settings from /home/chenyuan/.config/wandb/settings
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_setup.py:_flush():80] Loading settings from /data/chenyuan/videogrounding/pps-base/pps-main/wandb/settings
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_init.py:setup_run_log_directory():713] Logging user logs to ./wandb/run-20260603_194742-feuz7jsj/logs/debug.log
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_init.py:setup_run_log_directory():714] Logging internal logs to ./wandb/run-20260603_194742-feuz7jsj/logs/debug-internal.log
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_init.py:init():840] calling init triggers
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_init.py:init():845] wandb.init called with sweep_config: {}
+config: {'comment': 'exp12: moderate pull, strong push, higher ivc for better ranking', 'exp_name': 'exp-activitynet_exp12', 'dataset': {'name': 'ActivityNet', 'feature_path': 'data/activitynet/sub_activitynet_v1-3.c3d.hdf5', 'train_data': 'data/activitynet/train_data.json', 'test_data': 'data/activitynet/test_data.json', 'vocab_path': 'data/activitynet/glove.pkl', 'vocab_size': 8000, 'max_num_words': 20, 'max_num_segments': 200, 'frame_feat_dim': 500, 'word_feat_dim': 300}, 'train': {'wandb_path': './', 'log_path': './log', 'save_path': './checkpoints/activitynet/exp-activitynet_exp12_2026-06-03_19-47-37', 'batch_size': 32, 'num_epochs': 30, 'use_wandb': True, 'save_model': True, 'optimizer': {'lr': 0.0004, 'weight_decay': 0, 'warmup_updates': 400, 'warmup_init_lr': 1e-07}}, 'model': {'name': 'PPS', 'frame_feat_dim': 500, 'word_feat_dim': 300, 'hidden_dim': 256, 'dropout': 0.1, 'masked_words_ratio': 3, 'mask_type': 'gaussian', 'num_props': 5, 'sigma_gauss': 4, 'sigma_laplace': 4, 'num_neg_mask': 2, 'sigma_neg_inv_gauss': 1, 'sigma_neg_gauss': 3, 'use_attn': True, 'pred_gamma': 0.15, 'neg_type': 'learnable_gaussian', 'DualTransformer': {'d_model': 256, 'num_heads': 4, 'num_decoder_layers1': 3, 'num_decoder_layers2': 3, 'dropout': 0.1}, 'max_num_words': 20, 'vocab_size': 8001, 'max_epoch': 30}, 'loss': {'margin_hneg': 0.1, 'margin_eneg': 0.15, 'lambda_inter_push': 0.15, 'lambda_intra_push': 0.15, 'alpha_ivc': 2, 'alpha_pull': 0.3, 'alpha_inter_push': 0.3, 'alpha_intra_push': 0.015, 'num_train_prop': 1}, 'config_path': 'config/activitynet/config_exp12.json', '_wandb': {}}
+2026-06-03 19:47:42,417 INFO    MainThread:52257 [wandb_init.py:init():888] starting backend
+2026-06-03 19:47:42,662 INFO    MainThread:52257 [wandb_init.py:init():891] sending inform_init request
+2026-06-03 19:47:42,669 INFO    MainThread:52257 [wandb_init.py:init():899] backend started and connected
+2026-06-03 19:47:42,691 INFO    MainThread:52257 [wandb_init.py:init():969] updated telemetry
+2026-06-03 19:47:42,696 INFO    MainThread:52257 [wandb_init.py:init():993] communicating run to backend with 90.0 second timeout
+2026-06-03 19:47:44,389 INFO    MainThread:52257 [wandb_init.py:init():1040] starting run threads in backend
+2026-06-03 19:47:44,455 INFO    MainThread:52257 [wandb_run.py:_console_start():2504] atexit reg
+2026-06-03 19:47:44,456 INFO    MainThread:52257 [wandb_run.py:_redirect():2352] redirect: wrap_raw
+2026-06-03 19:47:44,456 INFO    MainThread:52257 [wandb_run.py:_redirect():2421] Wrapping output streams.
+2026-06-03 19:47:44,456 INFO    MainThread:52257 [wandb_run.py:_redirect():2444] Redirects installed.
+2026-06-03 19:47:44,459 INFO    MainThread:52257 [wandb_init.py:init():1080] run started, returning control to user process

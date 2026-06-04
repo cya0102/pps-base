@@ -1,0 +1,128 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            8vtk793oolwsxvqun689lmdkvw2l08qv:
+                args:
+                    - --config-path
+                    - config/activitynet/config_exp09.json
+                    - --seed
+                    - "8"
+                codePath: pps-main/train.py
+                codePathLocal: train.py
+                cpu_count: 10
+                cpu_count_logical: 20
+                cudaVersion: "12.0"
+                disk:
+                    /:
+                        total: "250903556096"
+                        used: "192296538112"
+                email: yc79365@gmail.com
+                executable: /home/chenyuan/miniconda3/envs/pps/bin/python
+                git:
+                    commit: 509f95f3ea95b0e9d1c0e1dac9a3749cbb08e672
+                    remote: https://github.com/cya0102/pps-base.git
+                gpu: NVIDIA TITAN RTX
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 4608
+                      memoryTotal: "25769803776"
+                      name: NVIDIA TITAN RTX
+                      uuid: GPU-f0653071-32f2-237f-4404-dde24d2760d9
+                host: ping501g
+                memory:
+                    total: "84364967936"
+                os: Linux-4.15.0-213-generic-x86_64-with-glibc2.27
+                program: /data/chenyuan/videogrounding/pps-base/pps-main/train.py
+                python: CPython 3.10.20
+                root: ./
+                startedAt: "2026-06-03T11:46:21.931616Z"
+                writerId: 8vtk793oolwsxvqun689lmdkvw2l08qv
+        m: []
+        python_version: 3.10.20
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+                - 50
+                - 64
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.10.20
+            "5": 0.23.0
+            "12": 0.23.0
+            "13": linux-x86_64
+comment:
+    value: 'exp09: scale up both pull and inter_push from exp07'
+config_path:
+    value: config/activitynet/config_exp09.json
+dataset:
+    value:
+        feature_path: data/activitynet/sub_activitynet_v1-3.c3d.hdf5
+        frame_feat_dim: 500
+        max_num_segments: 200
+        max_num_words: 20
+        name: ActivityNet
+        test_data: data/activitynet/test_data.json
+        train_data: data/activitynet/train_data.json
+        vocab_path: data/activitynet/glove.pkl
+        vocab_size: 8000
+        word_feat_dim: 300
+exp_name:
+    value: exp-activitynet_exp09
+loss:
+    value:
+        alpha_inter_push: 0.2
+        alpha_intra_push: 0.01
+        alpha_ivc: 1
+        alpha_pull: 0.3
+        lambda_inter_push: 0.15
+        lambda_intra_push: 0.15
+        margin_eneg: 0.15
+        margin_hneg: 0.1
+        num_train_prop: 1
+model:
+    value:
+        DualTransformer:
+            d_model: 256
+            dropout: 0.1
+            num_decoder_layers1: 3
+            num_decoder_layers2: 3
+            num_heads: 4
+        dropout: 0.1
+        frame_feat_dim: 500
+        hidden_dim: 256
+        mask_type: gaussian
+        masked_words_ratio: 3
+        max_epoch: 30
+        max_num_words: 20
+        name: PPS
+        neg_type: learnable_gaussian
+        num_neg_mask: 2
+        num_props: 5
+        pred_gamma: 0.15
+        sigma_gauss: 4
+        sigma_laplace: 4
+        sigma_neg_gauss: 3
+        sigma_neg_inv_gauss: 1
+        use_attn: true
+        vocab_size: 8001
+        word_feat_dim: 300
+train:
+    value:
+        batch_size: 32
+        log_path: ./log
+        num_epochs: 30
+        optimizer:
+            lr: 0.0004
+            warmup_init_lr: 1e-07
+            warmup_updates: 400
+            weight_decay: 0
+        save_model: true
+        save_path: ./checkpoints/activitynet/exp-activitynet_exp09_2026-06-03_19-46-18
+        use_wandb: true
+        wandb_path: ./

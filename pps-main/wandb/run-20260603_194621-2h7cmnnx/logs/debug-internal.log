@@ -1,0 +1,14 @@
+{"time":"2026-06-03T19:46:22.198641175+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2026-06-03T19:46:24.659955729+08:00","level":"INFO","msg":"stream: created new stream","id":"2h7cmnnx"}
+{"time":"2026-06-03T19:46:24.660068183+08:00","level":"INFO","msg":"handler: started","stream_id":"2h7cmnnx"}
+{"time":"2026-06-03T19:46:24.660297618+08:00","level":"INFO","msg":"stream: started","id":"2h7cmnnx"}
+{"time":"2026-06-03T19:46:24.6603032+08:00","level":"INFO","msg":"writer: started","stream_id":"2h7cmnnx"}
+{"time":"2026-06-03T19:46:24.660322946+08:00","level":"INFO","msg":"sender: started","stream_id":"2h7cmnnx"}
+{"time":"2026-06-04T02:27:44.417625136+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/yc79365-hangzhou-dianzi-university/PPS_ActivityNet/2h7cmnnx/file_stream\": unexpected EOF"}
+{"time":"2026-06-04T04:37:40.387289831+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/yc79365-hangzhou-dianzi-university/PPS_ActivityNet/2h7cmnnx/file_stream\": unexpected EOF"}
+{"time":"2026-06-04T06:13:12.566614582+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-06-04T06:13:13.297893495+08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-06-04T06:13:13.305666229+08:00","level":"INFO","msg":"stream: closing","id":"2h7cmnnx"}
+{"time":"2026-06-04T06:13:13.305700291+08:00","level":"INFO","msg":"handler: closed","stream_id":"2h7cmnnx"}
+{"time":"2026-06-04T06:13:13.305783214+08:00","level":"INFO","msg":"sender: closed","stream_id":"2h7cmnnx"}
+{"time":"2026-06-04T06:13:13.30579945+08:00","level":"INFO","msg":"stream: closed","id":"2h7cmnnx"}
